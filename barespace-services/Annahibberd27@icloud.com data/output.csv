@@ -1,0 +1,132 @@
+name,book-online,non-discounted-price,retail-price,description,duration-value,category,employee-names
+Gents cut ,False,18,18,,60,Martha services,Martha Alice
+Olaplex Hydrating Mask ,True,6,6,,5,Martha services,Martha Alice
+Olaplex stand alone ,True,30,30,,20,Martha services,Martha Alice
+Olaplex in Colour ,True,18.5,18.5,,5,Martha services,Martha Alice
+Colour Correction ,True,70,70,,60,Martha services,Martha Alice
+Face framing / Scandi ,True,26,26,,30,Martha services,Martha Alice
+Creative colour ,True,65,65,,60,Martha services,Martha Alice
+Undertone slices ,True,25,25,,30,Martha services,Martha Alice
+Full head Foils,True,60,60,,60,Martha services,Martha Alice
+Partial Foils ,True,50,50,,45,Martha services,Martha Alice
+Toner,True,18.5,18.5,,15,Martha services,Martha Alice
+Semi permanent ,True,40,40,,30,Martha services,Martha Alice
+Full head colour ,True,60,60,,45,Martha services,Martha Alice
+Root retouch ,True,46,46,,30,Martha services,Martha Alice
+Finish,True,28,28,Blowdry,30,Martha services,Martha Alice
+Fringe Trim ,True,6,6,,5,Martha services,Martha Alice
+Restyle ,True,46,46,,60,Martha services,Martha Alice
+Kids Cut,True,27.5,27.5,,30,Martha services,Martha Alice
+Wet / Dry Cut,True,32,32,,30,Martha services,Martha Alice
+Cut & Finish ,True,38,38,,45,Martha services,Martha Alice
+Curly Kids Cut & Blowout,True,27.5,27.5,From 8 to 16 years old ,45,Curly Girls,Anna Hibberd
+Curly Kids Cut & Blowout ,True,17.5,17.5,Up to 7 years old ,30,Curly Girls,Anna Hibberd
+Hydrating Mask & Blowout ,False,42,42,,60,Curly Girls,Anna Hibberd
+Cut / Clense & Blowout ,True,56,56,,75,Curly Girls,Anna Hibberd
+Clense & Blowout ,False,32,32,Wash / Clense / Blow out ,45,Curly Girls,Anna Hibberd
+Face framing ,True,43,43,Face framing ,30,Colour Services,Anna Hibberd
+Full head colour ,False,79,79,,30,Colour Services,Anna Hibberd
+Consultation,True,0,0,Consultation to discus your appointment further & including a patch test if required! ,15,Colour Services,Anna Hibberd
+Colour Correction,False,70,70,,90,Colour Services,Anna Hibberd
+Root retouch,False,44.5,44.5,,15,Colour Services,Anna Hibberd
+Full head highlights/babylights,False,70,70,,60,Colour Services,Anna Hibberd
+Half head highlights,False,60,60,,50,Colour Services,Anna Hibberd
+Creative colour (root retouch & highlights),False,68,68,,60,Colour Services,Anna Hibberd
+Balayage,False,85,85,,60,Colour Services,Anna Hibberd
+Toner,True,19.5,19.5,,15,Colour Services,Anna Hibberd
+Lighten cleanse ,False,20,20,Lightening cleanse,5,Colour Services,Anna Hibberd
+Balayage package ,False,122.5,115,,12000,Yasmin services,Yasmin Jaan
+Half head highlights / babylights package,False,107.5,95,,8400,Yasmin services,Yasmin Jaan
+Full head highlights / babylights package,False,117.5,110,,11100,Yasmin services,Yasmin Jaan
+Balayage ,False,65,65,,120,Yasmin services,Yasmin Jaan
+Half head highlights / babylights,False,50,50,,60,Yasmin services,Yasmin Jaan
+Full head highlights / babylights,False,60,60,,105,Yasmin services,Yasmin Jaan
+Toner ,False,20,20,,20,Yasmin services,Yasmin Jaan
+Root retouch,False,37,37,,30,Yasmin services,Yasmin Jaan
+Full head colour ,False,50,50,,30,Yasmin services,Yasmin Jaan
+Curls ,True,15,15,,20,Yasmin services,Yasmin Jaan
+Blowdry,True,20,20,,45,Yasmin services,Yasmin Jaan
+Cut & Blowdry ,True,37.5,37.5,(Below shoulder length only),60,Yasmin services,Yasmin Jaan
+Fanola,False,6,6,Blue Shampoo ,5,Colouring Services,"Anna Hibberd, Phoebe Salvin"
+Creative colour with Cut & Blowdry,True,149.5,149.5,"Creative colour (roots & highlights) including Toner / Olaplex Treatment / Cut & Blowdry
+*New clients require a patch test 48hours  before your appointment, please book a free consultation to receive this service*",10500,Colouring Services,Anna Hibberd
+Creative colour with Blowdry ,True,137,137,"Creative colour (roots & highlights) including Toner / Olaplex Treatment & Blowdry
+
+*New clients require a patch test 48hours  before your appointment, please book a free consultation to receive this service*",9600,Colouring Services,Anna Hibberd
+Full head Colour with Blowdry ,True,128.5,128.5,"Full head Colour including Olaplex Treatment & Blowdry 
+
+*New clients require a patch test 48hours  before your appointment, please book a free consultation to receive this service*",6900,Colouring Services,Anna Hibberd
+Full head Colour with Cut & Blowdry ,True,141,141,"Full head Colour including Olaplex Treatment / Cut & Blowdry
+
+*New clients require a patch test 48hours  before your appointment, please book a free consultation to receive this service*",7800,Colouring Services,Anna Hibberd
+Face framing with Blowdry ,True,112,112,"Face framing including Toner / Olaplex Treatment & Blowdry
+
+*New clients require a patch test 48hours  before your appointment, please book a free consultation to receive this service*",5100,Colouring Services,Anna Hibberd
+Face framing with Cut & Blowdry ,True,124.5,124.5,"Face framing including Toner / Olaplex Treatment / Cut & Blowdry
+
+*New clients require a patch test 48hours  before your appointment, please book a free consultation to receive this service*",6000,Colouring Services,Anna Hibberd
+Half head Highlights with Blowdry,True,129,129,"Half head Highlights including Toner /
+Olaplex Treatment & Blowdry 
+
+*New clients require a patch test 48hours  before your appointment, please book a free consultation to receive this service*",9000,Colouring Services,Anna Hibberd
+Half head Highlights with Cut & Blowdry,True,141.5,141.5,"Half head Highlights including Toner / Olaplex Treatment / Cut and Blowdry
+
+*New clients require a patch test 48hours  before your appointment, please book a free consultation to receive this service*",9900,Colouring Services,Anna Hibberd
+Roots with Blowdry,True,94,94,"Root retouch including Olaplex Treatment / Cut & Blowdry
+
+*New clients require a patch test 48hours  before your appointment, please book a free consultation to receive this service*",6000,Colouring Services,Anna Hibberd
+Roots with Cut & Blowdry,True,106.5,106.5,"Root retouch including Olaplex Treatment  / Cut & Blowdry
+
+*New clients require a patch test 48hours  before your appointment, please book a free consultation to receive this service*",6900,Colouring Services,Anna Hibberd
+Full head Highlights and Blowdry,True,139,139,"Full head Highlight including Toner / Olaplex Treatment and Blowdry
+
+*New clients require a patch test 48hours  before your appointment, please book a free consultation to receive this service*",9600,Colouring Services,Anna Hibberd
+Full head of Highlights including Cut & Blowdry,True,151.5,151.5,"Full head of Highlights including Toner / Olaplex Treatment  / Cut & Blowdry
+
+*New clients require a patch test 48hours  before your appointment, please book a free consultation to receive this service*",10500,Colouring Services,Anna Hibberd
+Balayage with Blowdry  ,True,154,154,"Balayage including Toner / Olaplex Treatment & Blowdry 
+
+*New clients require a patch test 48hours  before your appointment, please book a free consultation to receive this service*",9600,Colouring Services,Anna Hibberd
+Balayage with Cut & Blowdry  ,True,166.5,166.5," Balayage including Toner / Olaplex Treatment / Cut & Blowdry
+
+*New clients require a patch test 48hours  before your appointment, please book a free consultation to receive this service*
+",10500,Colouring Services,Anna Hibberd
+VALENTINES BLOW DRY WITH EXTENSIONS ❤️,False,25,25,Valentines blow dry with extensions 💖,45,Hair Styling,Anna Hibberd
+Restyle ,True,49.5,49.5,"Including wash, cut & blowdry ",60,Hair Styling,Anna Hibberd
+Hair up,True,35,35,,45,Hair Styling,Anna Hibberd
+Wet / Dry Cut ,True,32.5,32.5,,30,Hair Styling,Anna Hibberd
+VALENTINES BLOW DRY ❤️,False,15,15,£15 valentines blow dry 💘,30,Hair Styling,Anna Hibberd
+Fringe trim,True,8.5,8.5,Fringe trim ,10,Hair Styling,"Anna Hibberd, Phoebe Salvin"
+Birthday Blowdry ,False,0,0,Free birthday Blowdry ,30,Hair Styling,Anna Hibberd
+Cut & Blow Dry ,True,42.5,42.5,,45,Hair Styling,Anna Hibberd
+Blow Dry With Extensions,True,37.5,37.5,,45,Hair Styling,Anna Hibberd
+Blow Dry,True,30,30,,30,Hair Styling,Anna Hibberd
+Manual payment,False,1,1,Service for manual charges,5,Manual payment,Phoebe Salvin
+LA weft re tighten ,False,35,35,,30,Hair extensions,Anna Hibberd
+Nano / Micro Ring Extensions  100 to 150 grams,True,140,140,100 to 150 grams of Nano or Micro rings fitted ,120,Hair extensions,Anna Hibberd
+Extensions Out,True,30,30,,30,Hair extensions,Anna Hibberd
+LA weave fitting,False,80,80,,60,Hair extensions,Anna Hibberd
+Nano/ Mirco Ring Extensions 50grams,True,70,70,50grams of Nano or Micro rings fitted ,60,Hair extensions,Anna Hibberd
+Olaplex ,True,16.5,16.5,,5,Phoebe services,Phoebe Salvin
+KeraStraight,False,150,150,,8100,Phoebe services,"Phoebe Salvin, Martha Alice"
+KeraStraight straightening,True,150,150,,60,Phoebe services,"Phoebe Salvin, Martha Alice"
+KeraStraight ,True,0,0,,30,Phoebe services,Phoebe Salvin
+Semi ,True,38.5,38.5,,30,Phoebe services,Phoebe Salvin
+Toner ,True,18.5,18.5,,15,Phoebe services,Phoebe Salvin
+Full head colour ,True,55,55,,30,Phoebe services,Phoebe Salvin
+Root retouch ,True,42.9,42.9,,30,Phoebe services,Phoebe Salvin
+Half head highlights ,True,59.5,59.5,,45,Phoebe services,Phoebe Salvin
+Full head highlights ,True,69.5,69.5,,60,Phoebe services,Phoebe Salvin
+Creative colour ,True,70,70,,60,Phoebe services,Phoebe Salvin
+Blowdry ,True,30,30,,30,Phoebe services,Phoebe Salvin
+Wet / Dry cut ,True,32,32,,30,Phoebe services,Phoebe Salvin
+Restyle ,True,48.5,48.5,,60,Phoebe services,Phoebe Salvin
+Cut & Blowdry ,True,41,41,,50,Phoebe services,Phoebe Salvin
+Olaplex in colour service,False,19.5,19.5,,5,OLAPLEX,Anna Hibberd
+Olaplex stand alone treatment & Blowdry,True,48.5,48.5,"Olaplex stand alone treatment including Blowdry
+",60,OLAPLEX,Anna Hibberd
+Children's Wet / Dry Trim,True,14.5,14.5,,20,Children,Anna Hibberd
+Children's Cut & Blow Dry,True,25,25,,30,Children,Anna Hibberd
+KeraStraight Treatment ,True,155,155,KeraStraight smoothing treatment ,10800,Kerastraight,"Anna Hibberd, 1575395"
+Kerastraight,False,0,0,Smoothing treatment ,90,Kerastraight,Anna Hibberd
+Kerastraight ,False,155,155,,45,Kerastraight,Anna Hibberd

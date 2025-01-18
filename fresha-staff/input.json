@@ -1,0 +1,1480 @@
+[
+  {
+    "attributes": {
+      "sorting-id": 0,
+      "title": null,
+      "product-commission": null,
+      "use-demo-avatar": false,
+      "birthday-year": null,
+      "calendar-tips-read-at": null,
+      "invitation-status": "accepted",
+      "appointment-color": "blue",
+      "export-calendar-url": "https://calendar-export.fresha.com/d39bc211-0b0c-4e3b-8840-2dcab0cf830b",
+      "employment-start-date": "2025-01-07",
+      "service-commission": null,
+      "state-created-at": "2025-01-07T12:52:00.153789Z",
+      "deleted-at": null,
+      "employment-end-date": null,
+      "mobile-number": "+353 83 444 5811",
+      "birthday-month": null,
+      "paid-plan-commission": null,
+      "employment-type": null,
+      "birthday-day": null,
+      "addresses": [],
+      "updated-at": "2025-01-07T12:52:00.142343Z",
+      "provides-services": false,
+      "voucher-commission": null,
+      "external-id": null,
+      "emergency-contacts": [],
+      "notes": null,
+      "last-name": "Barespace",
+      "email": "aoife+studio75@barespace.io",
+      "role": "high",
+      "first-name": "Aoife",
+      "name": "Aoife Barespace",
+      "nationality": null,
+      "state": "connected",
+      "additional-mobile-number": null
+    },
+    "id": "3428062",
+    "type": "employees",
+    "relationships": {
+      "services": {
+        "data": [
+          {
+            "id": "8072837",
+            "type": "services"
+          },
+          {
+            "id": "8507943",
+            "type": "services"
+          },
+          {
+            "id": "8014306",
+            "type": "services"
+          },
+          {
+            "id": "8740502",
+            "type": "services"
+          },
+          {
+            "id": "11057396",
+            "type": "services"
+          },
+          {
+            "id": "7390310",
+            "type": "services"
+          },
+          {
+            "id": "8014278",
+            "type": "services"
+          },
+          {
+            "id": "8014291",
+            "type": "services"
+          },
+          {
+            "id": "8507948",
+            "type": "services"
+          },
+          {
+            "id": "11690746",
+            "type": "services"
+          },
+          {
+            "id": "11711651",
+            "type": "services"
+          },
+          {
+            "id": "11885495",
+            "type": "services"
+          },
+          {
+            "id": "12009010",
+            "type": "services"
+          },
+          {
+            "id": "12013280",
+            "type": "services"
+          },
+          {
+            "id": "12013284",
+            "type": "services"
+          },
+          {
+            "id": "12013292",
+            "type": "services"
+          },
+          {
+            "id": "7390421",
+            "type": "services"
+          },
+          {
+            "id": "8646993",
+            "type": "services"
+          },
+          {
+            "id": "7390367",
+            "type": "services"
+          },
+          {
+            "id": "8014327",
+            "type": "services"
+          },
+          {
+            "id": "13309178",
+            "type": "services"
+          },
+          {
+            "id": "13494808",
+            "type": "services"
+          },
+          {
+            "id": "13494810",
+            "type": "services"
+          },
+          {
+            "id": "13494817",
+            "type": "services"
+          },
+          {
+            "id": "13494840",
+            "type": "services"
+          },
+          {
+            "id": "13723922",
+            "type": "services"
+          },
+          {
+            "id": "13723980",
+            "type": "services"
+          },
+          {
+            "id": "8830228",
+            "type": "services"
+          },
+          {
+            "id": "8014315",
+            "type": "services"
+          },
+          {
+            "id": "7390409",
+            "type": "services"
+          },
+          {
+            "id": "8014289",
+            "type": "services"
+          },
+          {
+            "id": "14498997",
+            "type": "services"
+          },
+          {
+            "id": "14666324",
+            "type": "services"
+          },
+          {
+            "id": "8014300",
+            "type": "services"
+          },
+          {
+            "id": "15055885",
+            "type": "services"
+          },
+          {
+            "id": "8014296",
+            "type": "services"
+          },
+          {
+            "id": "13167706",
+            "type": "services"
+          },
+          {
+            "id": "15926004",
+            "type": "services"
+          },
+          {
+            "id": "16212987",
+            "type": "services"
+          },
+          {
+            "id": "16213001",
+            "type": "services"
+          },
+          {
+            "id": "16213013",
+            "type": "services"
+          },
+          {
+            "id": "16213028",
+            "type": "services"
+          },
+          {
+            "id": "16213120",
+            "type": "services"
+          },
+          {
+            "id": "16213142",
+            "type": "services"
+          },
+          {
+            "id": "16213157",
+            "type": "services"
+          },
+          {
+            "id": "16212477",
+            "type": "services"
+          },
+          {
+            "id": "16212457",
+            "type": "services"
+          },
+          {
+            "id": "15873715",
+            "type": "services"
+          },
+          {
+            "id": "16221238",
+            "type": "services"
+          },
+          {
+            "id": "16221274",
+            "type": "services"
+          },
+          {
+            "id": "16221401",
+            "type": "services"
+          },
+          {
+            "id": "16221347",
+            "type": "services"
+          },
+          {
+            "id": "16213132",
+            "type": "services"
+          },
+          {
+            "id": "16351367",
+            "type": "services"
+          },
+          {
+            "id": "16757336",
+            "type": "services"
+          },
+          {
+            "id": "16785373",
+            "type": "services"
+          },
+          {
+            "id": "16787811",
+            "type": "services"
+          },
+          {
+            "id": "15679909",
+            "type": "services"
+          },
+          {
+            "id": "17130529",
+            "type": "services"
+          },
+          {
+            "id": "17174088",
+            "type": "services"
+          },
+          {
+            "id": "17174229",
+            "type": "services"
+          },
+          {
+            "id": "17460328",
+            "type": "services"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "attributes": {
+      "sorting-id": 1,
+      "title": null,
+      "product-commission": null,
+      "use-demo-avatar": false,
+      "birthday-year": 1999,
+      "calendar-tips-read-at": "2024-11-18T16:55:19.317535Z",
+      "invitation-status": "accepted",
+      "appointment-color": "blue",
+      "export-calendar-url": "https://calendar-export.fresha.com/3a6199f3-3c84-475f-bf49-a667884752f0",
+      "employment-start-date": "2024-11-18",
+      "service-commission": null,
+      "state-created-at": "2024-11-18T16:54:54.913076Z",
+      "deleted-at": null,
+      "employment-end-date": null,
+      "mobile-number": "+44 7479 910822",
+      "birthday-month": 11,
+      "paid-plan-commission": null,
+      "employment-type": null,
+      "birthday-day": 30,
+      "addresses": [],
+      "updated-at": "2024-12-23T20:35:16.717136Z",
+      "provides-services": true,
+      "voucher-commission": null,
+      "external-id": null,
+      "emergency-contacts": [],
+      "notes": null,
+      "last-name": "(𝗦𝗘𝗡𝗜𝗢𝗥)",
+      "email": "sharandeepboparai@outlook.com",
+      "role": "low",
+      "first-name": "Sharan",
+      "name": "Sharan (𝗦𝗘𝗡𝗜𝗢𝗥)",
+      "nationality": "GB",
+      "state": "connected",
+      "additional-mobile-number": null
+    },
+    "id": "3352494",
+    "type": "employees",
+    "relationships": {
+      "services": {
+        "data": [
+          {
+            "id": "17460328",
+            "type": "services"
+          },
+          {
+            "id": "8072837",
+            "type": "services"
+          },
+          {
+            "id": "8507943",
+            "type": "services"
+          },
+          {
+            "id": "8740502",
+            "type": "services"
+          },
+          {
+            "id": "7390310",
+            "type": "services"
+          },
+          {
+            "id": "8014291",
+            "type": "services"
+          },
+          {
+            "id": "8507948",
+            "type": "services"
+          },
+          {
+            "id": "11711651",
+            "type": "services"
+          },
+          {
+            "id": "8014327",
+            "type": "services"
+          },
+          {
+            "id": "13309178",
+            "type": "services"
+          },
+          {
+            "id": "13723922",
+            "type": "services"
+          },
+          {
+            "id": "8830228",
+            "type": "services"
+          },
+          {
+            "id": "14498997",
+            "type": "services"
+          },
+          {
+            "id": "8014300",
+            "type": "services"
+          },
+          {
+            "id": "15055885",
+            "type": "services"
+          },
+          {
+            "id": "8014296",
+            "type": "services"
+          },
+          {
+            "id": "13167706",
+            "type": "services"
+          },
+          {
+            "id": "15873715",
+            "type": "services"
+          },
+          {
+            "id": "16757336",
+            "type": "services"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "attributes": {
+      "sorting-id": 2,
+      "title": "BBL Vacuum Therapy",
+      "product-commission": null,
+      "use-demo-avatar": false,
+      "birthday-year": 2004,
+      "calendar-tips-read-at": "2024-09-06T12:25:08.987557Z",
+      "invitation-status": "accepted",
+      "appointment-color": "blue",
+      "export-calendar-url": "https://calendar-export.fresha.com/a5227cab-b232-46c0-9bae-fb4ef8b6e69b",
+      "employment-start-date": "2024-07-13",
+      "service-commission": null,
+      "state-created-at": "2024-09-06T12:24:30.036251Z",
+      "deleted-at": null,
+      "employment-end-date": null,
+      "mobile-number": "+44 7979 717538",
+      "birthday-month": 1,
+      "paid-plan-commission": null,
+      "employment-type": null,
+      "birthday-day": 8,
+      "addresses": [],
+      "updated-at": "2024-11-14T18:56:59.907551Z",
+      "provides-services": true,
+      "voucher-commission": null,
+      "external-id": null,
+      "emergency-contacts": [],
+      "notes": null,
+      "last-name": "",
+      "email": "topazivory04@gmail.com",
+      "role": "low",
+      "first-name": "Topaz",
+      "name": "Topaz",
+      "nationality": "GB",
+      "state": "connected",
+      "additional-mobile-number": null
+    },
+    "id": "3209987",
+    "type": "employees",
+    "relationships": {
+      "services": {
+        "data": [
+          {
+            "id": "17460328",
+            "type": "services"
+          },
+          {
+            "id": "17174130",
+            "type": "services"
+          },
+          {
+            "id": "17174088",
+            "type": "services"
+          },
+          {
+            "id": "16787811",
+            "type": "services"
+          },
+          {
+            "id": "16785373",
+            "type": "services"
+          },
+          {
+            "id": "16757336",
+            "type": "services"
+          },
+          {
+            "id": "16351367",
+            "type": "services"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "attributes": {
+      "sorting-id": 3,
+      "title": null,
+      "product-commission": null,
+      "use-demo-avatar": false,
+      "birthday-year": null,
+      "calendar-tips-read-at": "2024-07-06T16:07:12.280390Z",
+      "invitation-status": "accepted",
+      "appointment-color": "blue",
+      "export-calendar-url": "https://calendar-export.fresha.com/95d3314d-c3be-4fa4-9634-f47eccec8c3d",
+      "employment-start-date": "2024-06-24",
+      "service-commission": null,
+      "state-created-at": "2024-07-06T16:07:04.292064Z",
+      "deleted-at": null,
+      "employment-end-date": null,
+      "mobile-number": "+44 7368 186509",
+      "birthday-month": null,
+      "paid-plan-commission": null,
+      "employment-type": null,
+      "birthday-day": null,
+      "addresses": [],
+      "updated-at": "2024-12-24T11:02:47.820458Z",
+      "provides-services": true,
+      "voucher-commission": null,
+      "external-id": null,
+      "emergency-contacts": [],
+      "notes": null,
+      "last-name": "(𝗦𝗘𝗡𝗜𝗢𝗥)",
+      "email": "beccastevenson19@outlook.com",
+      "role": "medium",
+      "first-name": "Becca",
+      "name": "Becca (𝗦𝗘𝗡𝗜𝗢𝗥)",
+      "nationality": null,
+      "state": "connected",
+      "additional-mobile-number": null
+    },
+    "id": "3077777",
+    "type": "employees",
+    "relationships": {
+      "services": {
+        "data": [
+          {
+            "id": "17460328",
+            "type": "services"
+          },
+          {
+            "id": "15679909",
+            "type": "services"
+          },
+          {
+            "id": "16787811",
+            "type": "services"
+          },
+          {
+            "id": "16785373",
+            "type": "services"
+          },
+          {
+            "id": "16757336",
+            "type": "services"
+          },
+          {
+            "id": "16213132",
+            "type": "services"
+          },
+          {
+            "id": "15926004",
+            "type": "services"
+          },
+          {
+            "id": "15873715",
+            "type": "services"
+          },
+          {
+            "id": "8014296",
+            "type": "services"
+          },
+          {
+            "id": "15055885",
+            "type": "services"
+          },
+          {
+            "id": "8014300",
+            "type": "services"
+          },
+          {
+            "id": "13167706",
+            "type": "services"
+          },
+          {
+            "id": "7390409",
+            "type": "services"
+          },
+          {
+            "id": "8830228",
+            "type": "services"
+          },
+          {
+            "id": "14498997",
+            "type": "services"
+          },
+          {
+            "id": "8014327",
+            "type": "services"
+          },
+          {
+            "id": "13723922",
+            "type": "services"
+          },
+          {
+            "id": "13309178",
+            "type": "services"
+          },
+          {
+            "id": "11711651",
+            "type": "services"
+          },
+          {
+            "id": "8507948",
+            "type": "services"
+          },
+          {
+            "id": "8014291",
+            "type": "services"
+          },
+          {
+            "id": "7390310",
+            "type": "services"
+          },
+          {
+            "id": "7390367",
+            "type": "services"
+          },
+          {
+            "id": "8014289",
+            "type": "services"
+          },
+          {
+            "id": "8740502",
+            "type": "services"
+          },
+          {
+            "id": "8507943",
+            "type": "services"
+          },
+          {
+            "id": "7390421",
+            "type": "services"
+          },
+          {
+            "id": "8072837",
+            "type": "services"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "attributes": {
+      "sorting-id": 4,
+      "title": null,
+      "product-commission": null,
+      "use-demo-avatar": false,
+      "birthday-year": null,
+      "calendar-tips-read-at": "2023-06-29T14:39:28.658484Z",
+      "invitation-status": "accepted",
+      "appointment-color": "blue",
+      "export-calendar-url": "https://calendar-export.fresha.com/f2bac568-a1ae-4edc-957a-19d4488e75a5",
+      "employment-start-date": "2023-06-29",
+      "service-commission": null,
+      "state-created-at": "2023-06-29T14:39:04.258462Z",
+      "deleted-at": null,
+      "employment-end-date": null,
+      "mobile-number": "+44 7539 165090",
+      "birthday-month": null,
+      "paid-plan-commission": null,
+      "employment-type": null,
+      "birthday-day": null,
+      "addresses": [],
+      "updated-at": "2024-12-24T10:22:50.845225Z",
+      "provides-services": true,
+      "voucher-commission": null,
+      "external-id": null,
+      "emergency-contacts": [],
+      "notes": null,
+      "last-name": "(𝗝𝗨𝗡𝗜𝗢𝗥)",
+      "email": "miachloelomas@gmail.com",
+      "role": "high",
+      "first-name": "Mia",
+      "name": "Mia (𝗝𝗨𝗡𝗜𝗢𝗥)",
+      "nationality": null,
+      "state": "connected",
+      "additional-mobile-number": null
+    },
+    "id": "2474762",
+    "type": "employees",
+    "relationships": {
+      "services": {
+        "data": [
+          {
+            "id": "17460328",
+            "type": "services"
+          },
+          {
+            "id": "17174229",
+            "type": "services"
+          },
+          {
+            "id": "17130529",
+            "type": "services"
+          },
+          {
+            "id": "12009010",
+            "type": "services"
+          },
+          {
+            "id": "12013280",
+            "type": "services"
+          },
+          {
+            "id": "12013284",
+            "type": "services"
+          },
+          {
+            "id": "12013292",
+            "type": "services"
+          },
+          {
+            "id": "14666324",
+            "type": "services"
+          },
+          {
+            "id": "16787811",
+            "type": "services"
+          },
+          {
+            "id": "16785373",
+            "type": "services"
+          },
+          {
+            "id": "16757336",
+            "type": "services"
+          },
+          {
+            "id": "15926004",
+            "type": "services"
+          },
+          {
+            "id": "15873715",
+            "type": "services"
+          },
+          {
+            "id": "11069471",
+            "type": "services"
+          },
+          {
+            "id": "15055885",
+            "type": "services"
+          },
+          {
+            "id": "14498997",
+            "type": "services"
+          },
+          {
+            "id": "13723922",
+            "type": "services"
+          },
+          {
+            "id": "13532559",
+            "type": "services"
+          },
+          {
+            "id": "13309178",
+            "type": "services"
+          },
+          {
+            "id": "7390367",
+            "type": "services"
+          },
+          {
+            "id": "13167706",
+            "type": "services"
+          },
+          {
+            "id": "11057396",
+            "type": "services"
+          },
+          {
+            "id": "8014327",
+            "type": "services"
+          },
+          {
+            "id": "8507948",
+            "type": "services"
+          },
+          {
+            "id": "8740502",
+            "type": "services"
+          },
+          {
+            "id": "8830228",
+            "type": "services"
+          },
+          {
+            "id": "11690746",
+            "type": "services"
+          },
+          {
+            "id": "8072837",
+            "type": "services"
+          },
+          {
+            "id": "8507943",
+            "type": "services"
+          },
+          {
+            "id": "7390310",
+            "type": "services"
+          },
+          {
+            "id": "8014278",
+            "type": "services"
+          },
+          {
+            "id": "8014296",
+            "type": "services"
+          },
+          {
+            "id": "8014291",
+            "type": "services"
+          },
+          {
+            "id": "8014300",
+            "type": "services"
+          },
+          {
+            "id": "11711651",
+            "type": "services"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "attributes": {
+      "sorting-id": 5,
+      "title": "Make up artist",
+      "product-commission": null,
+      "use-demo-avatar": false,
+      "birthday-year": null,
+      "calendar-tips-read-at": "2024-04-07T23:40:36.543888Z",
+      "invitation-status": "accepted",
+      "appointment-color": "blue",
+      "export-calendar-url": "https://calendar-export.fresha.com/1814a4bc-9f22-41be-91b3-fac91c82f22d",
+      "employment-start-date": "2024-04-07",
+      "service-commission": null,
+      "state-created-at": "2024-04-07T23:40:04.087230Z",
+      "deleted-at": null,
+      "employment-end-date": "2029-05-01",
+      "mobile-number": "+44 7858 452418",
+      "birthday-month": null,
+      "paid-plan-commission": null,
+      "employment-type": null,
+      "birthday-day": null,
+      "addresses": [],
+      "updated-at": "2024-12-23T14:21:25.061008Z",
+      "provides-services": true,
+      "voucher-commission": null,
+      "external-id": null,
+      "emergency-contacts": [],
+      "notes": null,
+      "last-name": "",
+      "email": "eshamalhi@hotmail.com",
+      "role": "basic",
+      "first-name": "Esha",
+      "name": "Esha",
+      "nationality": null,
+      "state": "connected",
+      "additional-mobile-number": null
+    },
+    "id": "2946567",
+    "type": "employees",
+    "relationships": {
+      "services": {
+        "data": [
+          {
+            "id": "17460328",
+            "type": "services"
+          },
+          {
+            "id": "17174088",
+            "type": "services"
+          },
+          {
+            "id": "16787811",
+            "type": "services"
+          },
+          {
+            "id": "16785373",
+            "type": "services"
+          },
+          {
+            "id": "16757336",
+            "type": "services"
+          },
+          {
+            "id": "8830228",
+            "type": "services"
+          },
+          {
+            "id": "16221401",
+            "type": "services"
+          },
+          {
+            "id": "16221347",
+            "type": "services"
+          },
+          {
+            "id": "16221274",
+            "type": "services"
+          },
+          {
+            "id": "16221238",
+            "type": "services"
+          },
+          {
+            "id": "15873715",
+            "type": "services"
+          },
+          {
+            "id": "15055885",
+            "type": "services"
+          },
+          {
+            "id": "8014296",
+            "type": "services"
+          },
+          {
+            "id": "14498997",
+            "type": "services"
+          },
+          {
+            "id": "13167706",
+            "type": "services"
+          },
+          {
+            "id": "13723922",
+            "type": "services"
+          },
+          {
+            "id": "13309178",
+            "type": "services"
+          },
+          {
+            "id": "11711651",
+            "type": "services"
+          },
+          {
+            "id": "8014291",
+            "type": "services"
+          },
+          {
+            "id": "7390310",
+            "type": "services"
+          },
+          {
+            "id": "8014300",
+            "type": "services"
+          },
+          {
+            "id": "8740502",
+            "type": "services"
+          },
+          {
+            "id": "8507943",
+            "type": "services"
+          },
+          {
+            "id": "8072837",
+            "type": "services"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "attributes": {
+      "sorting-id": 6,
+      "title": null,
+      "product-commission": null,
+      "use-demo-avatar": false,
+      "birthday-year": null,
+      "calendar-tips-read-at": "2024-01-04T23:18:30.908913Z",
+      "invitation-status": "accepted",
+      "appointment-color": "green",
+      "export-calendar-url": "https://calendar-export.fresha.com/2b84704d-cc99-461b-b274-92b1e6907023",
+      "employment-start-date": "2021-11-28",
+      "service-commission": null,
+      "state-created-at": "2021-11-28T22:06:29.412820Z",
+      "deleted-at": null,
+      "employment-end-date": null,
+      "mobile-number": "+44 7510 704189",
+      "birthday-month": null,
+      "paid-plan-commission": null,
+      "employment-type": null,
+      "birthday-day": null,
+      "addresses": [],
+      "updated-at": "2024-12-23T22:31:14.888702Z",
+      "provides-services": true,
+      "voucher-commission": null,
+      "external-id": null,
+      "emergency-contacts": [],
+      "notes": null,
+      "last-name": "(𝗗𝗜𝗥𝗘𝗖𝗧𝗢𝗥)",
+      "email": "georgina.stephanie@yahoo.co.uk",
+      "role": "owner",
+      "first-name": "Stephanie",
+      "name": "Stephanie (𝗗𝗜𝗥𝗘𝗖𝗧𝗢𝗥)",
+      "nationality": null,
+      "state": "connected",
+      "additional-mobile-number": null
+    },
+    "id": "1671160",
+    "type": "employees",
+    "relationships": {
+      "services": {
+        "data": [
+          {
+            "id": "17460328",
+            "type": "services"
+          },
+          {
+            "id": "16787811",
+            "type": "services"
+          },
+          {
+            "id": "16785373",
+            "type": "services"
+          },
+          {
+            "id": "16757336",
+            "type": "services"
+          },
+          {
+            "id": "8830228",
+            "type": "services"
+          },
+          {
+            "id": "16213132",
+            "type": "services"
+          },
+          {
+            "id": "15926004",
+            "type": "services"
+          },
+          {
+            "id": "15873715",
+            "type": "services"
+          },
+          {
+            "id": "15679909",
+            "type": "services"
+          },
+          {
+            "id": "12013280",
+            "type": "services"
+          },
+          {
+            "id": "12013284",
+            "type": "services"
+          },
+          {
+            "id": "12013292",
+            "type": "services"
+          },
+          {
+            "id": "14666324",
+            "type": "services"
+          },
+          {
+            "id": "8014296",
+            "type": "services"
+          },
+          {
+            "id": "13723980",
+            "type": "services"
+          },
+          {
+            "id": "13532559",
+            "type": "services"
+          },
+          {
+            "id": "13309178",
+            "type": "services"
+          },
+          {
+            "id": "13167706",
+            "type": "services"
+          },
+          {
+            "id": "11885495",
+            "type": "services"
+          },
+          {
+            "id": "11711651",
+            "type": "services"
+          },
+          {
+            "id": "11285248",
+            "type": "services"
+          },
+          {
+            "id": "8740502",
+            "type": "services"
+          },
+          {
+            "id": "8734842",
+            "type": "services"
+          },
+          {
+            "id": "8699476",
+            "type": "services"
+          },
+          {
+            "id": "8507948",
+            "type": "services"
+          },
+          {
+            "id": "8507943",
+            "type": "services"
+          },
+          {
+            "id": "8014327",
+            "type": "services"
+          },
+          {
+            "id": "8014315",
+            "type": "services"
+          },
+          {
+            "id": "8014311",
+            "type": "services"
+          },
+          {
+            "id": "8014306",
+            "type": "services"
+          },
+          {
+            "id": "8014303",
+            "type": "services"
+          },
+          {
+            "id": "8014300",
+            "type": "services"
+          },
+          {
+            "id": "8014291",
+            "type": "services"
+          },
+          {
+            "id": "8014289",
+            "type": "services"
+          },
+          {
+            "id": "8014283",
+            "type": "services"
+          },
+          {
+            "id": "8014278",
+            "type": "services"
+          },
+          {
+            "id": "8014261",
+            "type": "services"
+          },
+          {
+            "id": "7390421",
+            "type": "services"
+          },
+          {
+            "id": "7390409",
+            "type": "services"
+          },
+          {
+            "id": "7390390",
+            "type": "services"
+          },
+          {
+            "id": "7390383",
+            "type": "services"
+          },
+          {
+            "id": "7390367",
+            "type": "services"
+          },
+          {
+            "id": "7390313",
+            "type": "services"
+          },
+          {
+            "id": "7390310",
+            "type": "services"
+          },
+          {
+            "id": "7390295",
+            "type": "services"
+          },
+          {
+            "id": "7390286",
+            "type": "services"
+          },
+          {
+            "id": "7390278",
+            "type": "services"
+          },
+          {
+            "id": "7390260",
+            "type": "services"
+          },
+          {
+            "id": "7390244",
+            "type": "services"
+          },
+          {
+            "id": "7390232",
+            "type": "services"
+          },
+          {
+            "id": "7390213",
+            "type": "services"
+          },
+          {
+            "id": "7389981",
+            "type": "services"
+          },
+          {
+            "id": "7389980",
+            "type": "services"
+          },
+          {
+            "id": "7389979",
+            "type": "services"
+          },
+          {
+            "id": "7389978",
+            "type": "services"
+          },
+          {
+            "id": "7389977",
+            "type": "services"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "attributes": {
+      "sorting-id": 7,
+      "title": null,
+      "product-commission": null,
+      "use-demo-avatar": false,
+      "birthday-year": null,
+      "calendar-tips-read-at": "2023-08-07T14:46:00.238758Z",
+      "invitation-status": "accepted",
+      "appointment-color": "blue",
+      "export-calendar-url": "https://calendar-export.fresha.com/2f46b6d6-a764-4032-828d-65977292186d",
+      "employment-start-date": "2023-08-07",
+      "service-commission": null,
+      "state-created-at": "2023-08-07T14:45:39.920923Z",
+      "deleted-at": null,
+      "employment-end-date": null,
+      "mobile-number": "+44 7474 113007",
+      "birthday-month": null,
+      "paid-plan-commission": null,
+      "employment-type": null,
+      "birthday-day": null,
+      "addresses": [],
+      "updated-at": "2024-12-28T20:42:30.878246Z",
+      "provides-services": false,
+      "voucher-commission": null,
+      "external-id": null,
+      "emergency-contacts": [],
+      "notes": null,
+      "last-name": "Mahay",
+      "email": "shaniamahay@hotmail.co.uk",
+      "role": "low",
+      "first-name": "Shania",
+      "name": "Shania Mahay",
+      "nationality": null,
+      "state": "connected",
+      "additional-mobile-number": null
+    },
+    "id": "2535995",
+    "type": "employees",
+    "relationships": {
+      "services": {
+        "data": [
+          {
+            "id": "17460328",
+            "type": "services"
+          },
+          {
+            "id": "16787811",
+            "type": "services"
+          },
+          {
+            "id": "16785373",
+            "type": "services"
+          },
+          {
+            "id": "16757336",
+            "type": "services"
+          },
+          {
+            "id": "8646993",
+            "type": "services"
+          },
+          {
+            "id": "7390331",
+            "type": "services"
+          },
+          {
+            "id": "7390326",
+            "type": "services"
+          },
+          {
+            "id": "7389982",
+            "type": "services"
+          },
+          {
+            "id": "16213184",
+            "type": "services"
+          },
+          {
+            "id": "16213157",
+            "type": "services"
+          },
+          {
+            "id": "16213142",
+            "type": "services"
+          },
+          {
+            "id": "16213132",
+            "type": "services"
+          },
+          {
+            "id": "16213120",
+            "type": "services"
+          },
+          {
+            "id": "16213070",
+            "type": "services"
+          },
+          {
+            "id": "16213059",
+            "type": "services"
+          },
+          {
+            "id": "16213028",
+            "type": "services"
+          },
+          {
+            "id": "16213013",
+            "type": "services"
+          },
+          {
+            "id": "16213001",
+            "type": "services"
+          },
+          {
+            "id": "16212987",
+            "type": "services"
+          },
+          {
+            "id": "16212477",
+            "type": "services"
+          },
+          {
+            "id": "16212457",
+            "type": "services"
+          },
+          {
+            "id": "13532559",
+            "type": "services"
+          },
+          {
+            "id": "13494840",
+            "type": "services"
+          },
+          {
+            "id": "13494817",
+            "type": "services"
+          },
+          {
+            "id": "13494810",
+            "type": "services"
+          },
+          {
+            "id": "13494808",
+            "type": "services"
+          },
+          {
+            "id": "12545933",
+            "type": "services"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "attributes": {
+      "sorting-id": 8,
+      "title": null,
+      "product-commission": null,
+      "use-demo-avatar": false,
+      "birthday-year": null,
+      "calendar-tips-read-at": null,
+      "invitation-status": "expired",
+      "appointment-color": "blue",
+      "export-calendar-url": "https://calendar-export.fresha.com/0a76d52e-b358-4a33-98d1-252662bd5ed8",
+      "employment-start-date": "2023-06-26",
+      "service-commission": null,
+      "state-created-at": "2023-06-26T12:22:55.333354Z",
+      "deleted-at": null,
+      "employment-end-date": null,
+      "mobile-number": null,
+      "birthday-month": null,
+      "paid-plan-commission": null,
+      "employment-type": null,
+      "birthday-day": null,
+      "addresses": [],
+      "updated-at": "2024-09-11T10:56:17.496033Z",
+      "provides-services": true,
+      "voucher-commission": null,
+      "external-id": null,
+      "emergency-contacts": [],
+      "notes": null,
+      "last-name": "Jewelry",
+      "email": "stephaniemaidenjarrot@yahoo.com",
+      "role": "low",
+      "first-name": "Permanent",
+      "name": "Permanent Jewelry",
+      "nationality": null,
+      "state": "created",
+      "additional-mobile-number": null
+    },
+    "id": "2469110",
+    "type": "employees",
+    "relationships": {
+      "services": {
+        "data": [
+          {
+            "id": "17460328",
+            "type": "services"
+          },
+          {
+            "id": "16787811",
+            "type": "services"
+          },
+          {
+            "id": "16785373",
+            "type": "services"
+          },
+          {
+            "id": "16757336",
+            "type": "services"
+          },
+          {
+            "id": "15873715",
+            "type": "services"
+          },
+          {
+            "id": "13532559",
+            "type": "services"
+          },
+          {
+            "id": "13167706",
+            "type": "services"
+          },
+          {
+            "id": "11519584",
+            "type": "services"
+          }
+        ]
+      }
+    }
+  }
+]

@@ -1,0 +1,59 @@
+import boto3
+import os
+
+ACCESS_KEY='DO00FL2EHPQ7LXFJGUMC'
+SECRET_KEY='gmk9H0RuQGXDYDpFVJK5UeCWdP/d9LdumS9u3c6ph9w'
+ENDPOINT_URL='https://daa-app.ams3.digitaloceanspaces.com'
+SPACE_NAME='daa-app'
+SPACE_FOLDER='report-midset'
+DO_REGION ="ams3"
+LOCAL_DIRECTORY = './spaces'
+
+# Initialize boto3 client
+s3 = boto3.client('s3', endpoint_url=ENDPOINT_URL,
+                  aws_access_key_id=ACCESS_KEY,
+                  aws_secret_access_key=SECRET_KEY)
+
+def download_files_from_space(space_folder='report-midset'):
+    # List all objects in the space folder
+    response = s3.list_objects_v2(Bucket=SPACE_NAME, Prefix=space_folder)
+    print(response)
+    # Check if there are any objects
+
+def download_folder(space_name, source_folder, local_dir):
+    # Create the local directory if it doesn't exist
+    if not os.path.exists(local_dir):
+        os.makedirs(local_dir)
+
+    # List all objects in the folder
+    response = client.list_objects_v2(Bucket=space_name, Prefix=source_folder)
+
+    # Loop over the files and download each one
+    if 'Contents' in response:
+        for obj in response['Contents']:
+            # Extract the file name
+            file_key = obj['Key']
+            if file_key.endswith('/'):
+                # Skip folders
+                continue
+
+            # Create local file path
+            local_file_path = os.path.join(local_dir, os.path.relpath(file_key, source_folder))
+            local_file_dir = os.path.dirname(local_file_path)
+
+            # Create directories if they don't exist
+            if not os.path.exists(local_file_dir):
+                os.makedirs(local_file_dir)
+
+            # Download the file
+            print(f"Downloading {file_key} to {local_file_path}")
+            client.download_file(space_name, file_key, local_file_path)
+    else:
+        print("No files found in the specified folder.")    
+
+if __name__ == "__main__":
+    session = boto3.session.Session()
+    client = session.client('s3',region_name=DO_REGION,endpoint_url=f'https://{DO_REGION}.digitaloceanspaces.com',aws_access_key_id=ACCESS_KEY,aws_secret_access_key=SECRET_KEY)
+    download_folder(SPACE_NAME, SPACE_FOLDER, LOCAL_DIRECTORY)
+
+

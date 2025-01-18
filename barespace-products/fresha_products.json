@@ -1,0 +1,5825 @@
+[
+  {
+    "attributes": {
+      "additional-skus": [],
+      "barcode": null,
+      "commission-enabled": true,
+      "cost-price": null,
+      "created-at": "2024-11-12T11:42:15.796153Z",
+      "deleted-at": null,
+      "description": null,
+      "full-price": 35,
+      "measure-type": null,
+      "measure-value": null,
+      "name": "All Aglow",
+      "online-sales-enabled": false,
+      "sales-enabled": true,
+      "short-description": "I MASK & Lip Balm",
+      "sku": null,
+      "unlimited-stock": false,
+      "updated-at": "2024-11-12T11:42:15.796153Z"
+    },
+    "id": "8614854",
+    "type": "inventory-products",
+    "relationships": {
+      "brand": {
+        "data": {
+          "id": "219271",
+          "type": "inventory-product-brands"
+        }
+      },
+      "category": {
+        "data": null
+      },
+      "image-collection": {
+        "data": {
+          "id": "dfe8339f-5e22-4a33-a1fe-131e02ebeceb",
+          "type": "inventory-image-collections"
+        }
+      },
+      "ordered-amount": {
+        "data": {
+          "id": "8614854",
+          "type": "inventory-product-ordered-amounts"
+        }
+      },
+      "quantities": {
+        "data": [
+          {
+            "id": "24925614",
+            "type": "inventory-product-quantities"
+          }
+        ]
+      },
+      "supplier": {
+        "data": null
+      }
+    }
+  },
+  {
+    "attributes": {
+      "additional-skus": [],
+      "barcode": null,
+      "commission-enabled": true,
+      "cost-price": null,
+      "created-at": "2024-11-12T11:40:48.977794Z",
+      "deleted-at": null,
+      "description": null,
+      "full-price": 55,
+      "measure-type": null,
+      "measure-value": null,
+      "name": "Clear Skin Solutions",
+      "online-sales-enabled": false,
+      "sales-enabled": true,
+      "short-description": "Cleanser, Serum & Repair Cream",
+      "sku": null,
+      "unlimited-stock": false,
+      "updated-at": "2024-11-12T11:40:48.977794Z"
+    },
+    "id": "8614837",
+    "type": "inventory-products",
+    "relationships": {
+      "brand": {
+        "data": {
+          "id": "219271",
+          "type": "inventory-product-brands"
+        }
+      },
+      "category": {
+        "data": null
+      },
+      "image-collection": {
+        "data": {
+          "id": "b6b76a12-e95e-40b9-a2a4-4c9418eb812e",
+          "type": "inventory-image-collections"
+        }
+      },
+      "ordered-amount": {
+        "data": {
+          "id": "8614837",
+          "type": "inventory-product-ordered-amounts"
+        }
+      },
+      "quantities": {
+        "data": [
+          {
+            "id": "24925577",
+            "type": "inventory-product-quantities"
+          }
+        ]
+      },
+      "supplier": {
+        "data": null
+      }
+    }
+  },
+  {
+    "attributes": {
+      "additional-skus": [],
+      "barcode": null,
+      "commission-enabled": true,
+      "cost-price": null,
+      "created-at": "2024-11-12T11:39:25.535237Z",
+      "deleted-at": null,
+      "description": null,
+      "full-price": 55,
+      "measure-type": null,
+      "measure-value": null,
+      "name": "Brighten & Protect",
+      "online-sales-enabled": false,
+      "sales-enabled": true,
+      "short-description": "Cleanser, Serum & SPF",
+      "sku": null,
+      "unlimited-stock": false,
+      "updated-at": "2024-11-12T11:39:25.535237Z"
+    },
+    "id": "8614827",
+    "type": "inventory-products",
+    "relationships": {
+      "brand": {
+        "data": {
+          "id": "219271",
+          "type": "inventory-product-brands"
+        }
+      },
+      "category": {
+        "data": null
+      },
+      "image-collection": {
+        "data": {
+          "id": "c8828c45-0d8f-42ce-8f49-be636a7a6a63",
+          "type": "inventory-image-collections"
+        }
+      },
+      "ordered-amount": {
+        "data": {
+          "id": "8614827",
+          "type": "inventory-product-ordered-amounts"
+        }
+      },
+      "quantities": {
+        "data": [
+          {
+            "id": "24925544",
+            "type": "inventory-product-quantities"
+          }
+        ]
+      },
+      "supplier": {
+        "data": null
+      }
+    }
+  },
+  {
+    "attributes": {
+      "additional-skus": [],
+      "barcode": null,
+      "commission-enabled": true,
+      "cost-price": null,
+      "created-at": "2024-11-12T11:37:33.716374Z",
+      "deleted-at": null,
+      "description": null,
+      "full-price": 155,
+      "measure-type": null,
+      "measure-value": null,
+      "name": "The Sparkle of the Season",
+      "online-sales-enabled": false,
+      "sales-enabled": true,
+      "short-description": "Cleanser, Serum & SPF",
+      "sku": null,
+      "unlimited-stock": false,
+      "updated-at": "2024-11-12T11:37:33.716374Z"
+    },
+    "id": "8614807",
+    "type": "inventory-products",
+    "relationships": {
+      "brand": {
+        "data": {
+          "id": "219271",
+          "type": "inventory-product-brands"
+        }
+      },
+      "category": {
+        "data": null
+      },
+      "image-collection": {
+        "data": {
+          "id": "f8f1297f-8947-4bf3-b36f-dfebf30765af",
+          "type": "inventory-image-collections"
+        }
+      },
+      "ordered-amount": {
+        "data": {
+          "id": "8614807",
+          "type": "inventory-product-ordered-amounts"
+        }
+      },
+      "quantities": {
+        "data": [
+          {
+            "id": "24925494",
+            "type": "inventory-product-quantities"
+          }
+        ]
+      },
+      "supplier": {
+        "data": null
+      }
+    }
+  },
+  {
+    "attributes": {
+      "additional-skus": [],
+      "barcode": null,
+      "commission-enabled": true,
+      "cost-price": 0,
+      "created-at": "2024-01-23T13:38:01.305882Z",
+      "deleted-at": null,
+      "description": null,
+      "full-price": 54.5,
+      "measure-type": null,
+      "measure-value": null,
+      "name": "Sheer Hydration SPF",
+      "online-sales-enabled": false,
+      "sales-enabled": true,
+      "short-description": null,
+      "sku": null,
+      "unlimited-stock": false,
+      "updated-at": "2024-07-18T11:25:06.437734Z"
+    },
+    "id": "7402330",
+    "type": "inventory-products",
+    "relationships": {
+      "brand": {
+        "data": null
+      },
+      "category": {
+        "data": null
+      },
+      "image-collection": {
+        "data": {
+          "id": "1d69c329-087a-4baf-b5c9-1bb2745d34f0",
+          "type": "inventory-image-collections"
+        }
+      },
+      "ordered-amount": {
+        "data": {
+          "id": "7402330",
+          "type": "inventory-product-ordered-amounts"
+        }
+      },
+      "quantities": {
+        "data": [
+          {
+            "id": "19108045",
+            "type": "inventory-product-quantities"
+          }
+        ]
+      },
+      "supplier": {
+        "data": null
+      }
+    }
+  },
+  {
+    "attributes": {
+      "additional-skus": [],
+      "barcode": null,
+      "commission-enabled": true,
+      "cost-price": 0,
+      "created-at": "2024-01-23T13:40:11.310295Z",
+      "deleted-at": null,
+      "description": null,
+      "full-price": 54.5,
+      "measure-type": null,
+      "measure-value": null,
+      "name": "Clear Shield SPF",
+      "online-sales-enabled": false,
+      "sales-enabled": true,
+      "short-description": null,
+      "sku": null,
+      "unlimited-stock": false,
+      "updated-at": "2024-07-18T11:24:59.105109Z"
+    },
+    "id": "7402339",
+    "type": "inventory-products",
+    "relationships": {
+      "brand": {
+        "data": null
+      },
+      "category": {
+        "data": null
+      },
+      "image-collection": {
+        "data": {
+          "id": "f73ccddf-f991-45a8-830f-9c4868f0cbb8",
+          "type": "inventory-image-collections"
+        }
+      },
+      "ordered-amount": {
+        "data": {
+          "id": "7402339",
+          "type": "inventory-product-ordered-amounts"
+        }
+      },
+      "quantities": {
+        "data": [
+          {
+            "id": "19108062",
+            "type": "inventory-product-quantities"
+          }
+        ]
+      },
+      "supplier": {
+        "data": null
+      }
+    }
+  },
+  {
+    "attributes": {
+      "additional-skus": [],
+      "barcode": null,
+      "commission-enabled": true,
+      "cost-price": 0,
+      "created-at": "2024-01-23T13:42:52.408457Z",
+      "deleted-at": null,
+      "description": null,
+      "full-price": 52,
+      "measure-type": null,
+      "measure-value": null,
+      "name": "Bright & Clear Solution",
+      "online-sales-enabled": false,
+      "sales-enabled": true,
+      "short-description": null,
+      "sku": null,
+      "unlimited-stock": false,
+      "updated-at": "2024-07-18T11:24:34.391386Z"
+    },
+    "id": "7402344",
+    "type": "inventory-products",
+    "relationships": {
+      "brand": {
+        "data": null
+      },
+      "category": {
+        "data": null
+      },
+      "image-collection": {
+        "data": {
+          "id": "9417001a-d453-41c0-a1e3-adee597a2d02",
+          "type": "inventory-image-collections"
+        }
+      },
+      "ordered-amount": {
+        "data": {
+          "id": "7402344",
+          "type": "inventory-product-ordered-amounts"
+        }
+      },
+      "quantities": {
+        "data": [
+          {
+            "id": "19108091",
+            "type": "inventory-product-quantities"
+          }
+        ]
+      },
+      "supplier": {
+        "data": null
+      }
+    }
+  },
+  {
+    "attributes": {
+      "additional-skus": [],
+      "barcode": null,
+      "commission-enabled": true,
+      "cost-price": 0,
+      "created-at": "2024-01-23T13:35:09.718843Z",
+      "deleted-at": null,
+      "description": null,
+      "full-price": 42,
+      "measure-type": null,
+      "measure-value": null,
+      "name": "Sensicalm Cleanser",
+      "online-sales-enabled": false,
+      "sales-enabled": true,
+      "short-description": null,
+      "sku": null,
+      "unlimited-stock": false,
+      "updated-at": "2024-07-18T11:24:15.261523Z"
+    },
+    "id": "7402326",
+    "type": "inventory-products",
+    "relationships": {
+      "brand": {
+        "data": null
+      },
+      "category": {
+        "data": null
+      },
+      "image-collection": {
+        "data": {
+          "id": "938cc06e-579b-4fa5-9060-161f8672825f",
+          "type": "inventory-image-collections"
+        }
+      },
+      "ordered-amount": {
+        "data": {
+          "id": "7402326",
+          "type": "inventory-product-ordered-amounts"
+        }
+      },
+      "quantities": {
+        "data": [
+          {
+            "id": "19108018",
+            "type": "inventory-product-quantities"
+          }
+        ]
+      },
+      "supplier": {
+        "data": null
+      }
+    }
+  },
+  {
+    "attributes": {
+      "additional-skus": [],
+      "barcode": null,
+      "commission-enabled": true,
+      "cost-price": 0,
+      "created-at": "2024-04-17T13:57:25.460686Z",
+      "deleted-at": null,
+      "description": null,
+      "full-price": 45,
+      "measure-type": "grams",
+      "measure-value": 55,
+      "name": "Oatfoliant",
+      "online-sales-enabled": false,
+      "sales-enabled": true,
+      "short-description": null,
+      "sku": null,
+      "unlimited-stock": false,
+      "updated-at": "2024-04-17T14:43:33.496094Z"
+    },
+    "id": "7737722",
+    "type": "inventory-products",
+    "relationships": {
+      "brand": {
+        "data": {
+          "id": "233246",
+          "type": "inventory-product-brands"
+        }
+      },
+      "category": {
+        "data": {
+          "id": "403424",
+          "type": "inventory-product-categories"
+        }
+      },
+      "image-collection": {
+        "data": {
+          "id": "c79fd71f-638b-421f-89c5-7e50b8204761",
+          "type": "inventory-image-collections"
+        }
+      },
+      "ordered-amount": {
+        "data": {
+          "id": "7737722",
+          "type": "inventory-product-ordered-amounts"
+        }
+      },
+      "quantities": {
+        "data": [
+          {
+            "id": "20764873",
+            "type": "inventory-product-quantities"
+          }
+        ]
+      },
+      "supplier": {
+        "data": null
+      }
+    }
+  },
+  {
+    "attributes": {
+      "additional-skus": [],
+      "barcode": null,
+      "commission-enabled": true,
+      "cost-price": 0,
+      "created-at": "2024-04-17T14:41:03.077002Z",
+      "deleted-at": null,
+      "description": null,
+      "full-price": 45,
+      "measure-type": null,
+      "measure-value": null,
+      "name": "Skin Mist",
+      "online-sales-enabled": false,
+      "sales-enabled": true,
+      "short-description": null,
+      "sku": null,
+      "unlimited-stock": false,
+      "updated-at": "2024-04-17T14:43:11.556742Z"
+    },
+    "id": "7737881",
+    "type": "inventory-products",
+    "relationships": {
+      "brand": {
+        "data": {
+          "id": "233246",
+          "type": "inventory-product-brands"
+        }
+      },
+      "category": {
+        "data": {
+          "id": "403433",
+          "type": "inventory-product-categories"
+        }
+      },
+      "image-collection": {
+        "data": {
+          "id": "e4b76952-e932-431e-accd-d5d6956635e2",
+          "type": "inventory-image-collections"
+        }
+      },
+      "ordered-amount": {
+        "data": {
+          "id": "7737881",
+          "type": "inventory-product-ordered-amounts"
+        }
+      },
+      "quantities": {
+        "data": [
+          {
+            "id": "20765670",
+            "type": "inventory-product-quantities"
+          }
+        ]
+      },
+      "supplier": {
+        "data": null
+      }
+    }
+  },
+  {
+    "attributes": {
+      "additional-skus": [],
+      "barcode": null,
+      "commission-enabled": true,
+      "cost-price": null,
+      "created-at": "2024-04-17T13:59:00.202518Z",
+      "deleted-at": null,
+      "description": null,
+      "full-price": 28,
+      "measure-type": "milliliters",
+      "measure-value": 15,
+      "name": "Clear Skin Treatment",
+      "online-sales-enabled": false,
+      "sales-enabled": true,
+      "short-description": null,
+      "sku": null,
+      "unlimited-stock": false,
+      "updated-at": "2024-04-17T14:38:47.439787Z"
+    },
+    "id": "7737730",
+    "type": "inventory-products",
+    "relationships": {
+      "brand": {
+        "data": {
+          "id": "233246",
+          "type": "inventory-product-brands"
+        }
+      },
+      "category": {
+        "data": {
+          "id": "244261",
+          "type": "inventory-product-categories"
+        }
+      },
+      "image-collection": {
+        "data": {
+          "id": "96e60d00-9834-4cd1-8627-846d926beb36",
+          "type": "inventory-image-collections"
+        }
+      },
+      "ordered-amount": {
+        "data": {
+          "id": "7737730",
+          "type": "inventory-product-ordered-amounts"
+        }
+      },
+      "quantities": {
+        "data": [
+          {
+            "id": "20764899",
+            "type": "inventory-product-quantities"
+          }
+        ]
+      },
+      "supplier": {
+        "data": null
+      }
+    }
+  },
+  {
+    "attributes": {
+      "additional-skus": [],
+      "barcode": null,
+      "commission-enabled": true,
+      "cost-price": 0,
+      "created-at": "2023-02-17T08:38:19.271469Z",
+      "deleted-at": null,
+      "description": null,
+      "full-price": 32,
+      "measure-type": null,
+      "measure-value": null,
+      "name": "Oil & Milk Cleanser",
+      "online-sales-enabled": false,
+      "sales-enabled": true,
+      "short-description": null,
+      "sku": "2",
+      "unlimited-stock": true,
+      "updated-at": "2024-03-25T21:55:39.638564Z"
+    },
+    "id": "6009766",
+    "type": "inventory-products",
+    "relationships": {
+      "brand": {
+        "data": {
+          "id": "233246",
+          "type": "inventory-product-brands"
+        }
+      },
+      "category": {
+        "data": null
+      },
+      "image-collection": {
+        "data": {
+          "id": "7ed13010-baa2-4117-9e5b-c18e61b3eb62",
+          "type": "inventory-image-collections"
+        }
+      },
+      "ordered-amount": {
+        "data": {
+          "id": "6009766",
+          "type": "inventory-product-ordered-amounts"
+        }
+      },
+      "quantities": {
+        "data": [
+          {
+            "id": "12583880",
+            "type": "inventory-product-quantities"
+          }
+        ]
+      },
+      "supplier": {
+        "data": {
+          "id": "121309",
+          "type": "inventory-product-suppliers"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "additional-skus": [],
+      "barcode": null,
+      "commission-enabled": true,
+      "cost-price": 0,
+      "created-at": "2021-10-22T15:29:38.745625Z",
+      "deleted-at": null,
+      "description": null,
+      "full-price": 54.5,
+      "measure-type": "milliliters",
+      "measure-value": 59,
+      "name": "Balancing Gel Masque",
+      "online-sales-enabled": true,
+      "sales-enabled": true,
+      "short-description": null,
+      "sku": "BAL-96410",
+      "unlimited-stock": false,
+      "updated-at": "2023-12-15T11:06:24.084879Z"
+    },
+    "id": "4079352",
+    "type": "inventory-products",
+    "relationships": {
+      "brand": {
+        "data": {
+          "id": "219271",
+          "type": "inventory-product-brands"
+        }
+      },
+      "category": {
+        "data": {
+          "id": "229554",
+          "type": "inventory-product-categories"
+        }
+      },
+      "image-collection": {
+        "data": {
+          "id": "17c8e341-e06f-40a0-a39b-8dfa6b0b0bff",
+          "type": "inventory-image-collections"
+        }
+      },
+      "ordered-amount": {
+        "data": {
+          "id": "4079352",
+          "type": "inventory-product-ordered-amounts"
+        }
+      },
+      "quantities": {
+        "data": [
+          {
+            "id": "4292437",
+            "type": "inventory-product-quantities"
+          }
+        ]
+      },
+      "supplier": {
+        "data": {
+          "id": "89590",
+          "type": "inventory-product-suppliers"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "additional-skus": [],
+      "barcode": null,
+      "commission-enabled": false,
+      "cost-price": 0,
+      "created-at": "2021-10-22T15:09:38.130575Z",
+      "deleted-at": null,
+      "description": null,
+      "full-price": 61,
+      "measure-type": "milliliters",
+      "measure-value": 30,
+      "name": "Hydrating Facial Oil",
+      "online-sales-enabled": true,
+      "sales-enabled": true,
+      "short-description": null,
+      "sku": "HYD-72108",
+      "unlimited-stock": false,
+      "updated-at": "2023-09-30T09:54:41.729960Z"
+    },
+    "id": "4079268",
+    "type": "inventory-products",
+    "relationships": {
+      "brand": {
+        "data": {
+          "id": "219271",
+          "type": "inventory-product-brands"
+        }
+      },
+      "category": {
+        "data": {
+          "id": "229551",
+          "type": "inventory-product-categories"
+        }
+      },
+      "image-collection": {
+        "data": {
+          "id": "c2c3afb1-67b0-4a03-890d-f801b876d74b",
+          "type": "inventory-image-collections"
+        }
+      },
+      "ordered-amount": {
+        "data": {
+          "id": "4079268",
+          "type": "inventory-product-ordered-amounts"
+        }
+      },
+      "quantities": {
+        "data": [
+          {
+            "id": "4292095",
+            "type": "inventory-product-quantities"
+          }
+        ]
+      },
+      "supplier": {
+        "data": {
+          "id": "89590",
+          "type": "inventory-product-suppliers"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "additional-skus": [],
+      "barcode": null,
+      "commission-enabled": false,
+      "cost-price": 0,
+      "created-at": "2021-10-22T15:54:16.955135Z",
+      "deleted-at": null,
+      "description": null,
+      "full-price": 58,
+      "measure-type": "milliliters",
+      "measure-value": 95,
+      "name": "Tinted Moisturiser SPF 30",
+      "online-sales-enabled": true,
+      "sales-enabled": true,
+      "short-description": null,
+      "sku": "TIN-34253",
+      "unlimited-stock": false,
+      "updated-at": "2023-09-08T16:02:07.668208Z"
+    },
+    "id": "4079437",
+    "type": "inventory-products",
+    "relationships": {
+      "brand": {
+        "data": {
+          "id": "219271",
+          "type": "inventory-product-brands"
+        }
+      },
+      "category": {
+        "data": {
+          "id": "229559",
+          "type": "inventory-product-categories"
+        }
+      },
+      "image-collection": {
+        "data": {
+          "id": "bb5b18b4-1f09-455c-ba2b-5cf50cf499d3",
+          "type": "inventory-image-collections"
+        }
+      },
+      "ordered-amount": {
+        "data": {
+          "id": "4079437",
+          "type": "inventory-product-ordered-amounts"
+        }
+      },
+      "quantities": {
+        "data": [
+          {
+            "id": "4292777",
+            "type": "inventory-product-quantities"
+          }
+        ]
+      },
+      "supplier": {
+        "data": {
+          "id": "89590",
+          "type": "inventory-product-suppliers"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "additional-skus": [],
+      "barcode": null,
+      "commission-enabled": false,
+      "cost-price": 0,
+      "created-at": "2021-10-22T15:50:12.680502Z",
+      "deleted-at": null,
+      "description": null,
+      "full-price": 58,
+      "measure-type": "milliliters",
+      "measure-value": 95,
+      "name": "Hydrating Moisturiser SPF 30",
+      "online-sales-enabled": true,
+      "sales-enabled": true,
+      "short-description": null,
+      "sku": "HYD-95898",
+      "unlimited-stock": false,
+      "updated-at": "2023-09-08T16:01:41.173227Z"
+    },
+    "id": "4079425",
+    "type": "inventory-products",
+    "relationships": {
+      "brand": {
+        "data": {
+          "id": "219271",
+          "type": "inventory-product-brands"
+        }
+      },
+      "category": {
+        "data": {
+          "id": "229559",
+          "type": "inventory-product-categories"
+        }
+      },
+      "image-collection": {
+        "data": {
+          "id": "c8ffba4f-d6d3-407b-ad0d-f3572bf41b0d",
+          "type": "inventory-image-collections"
+        }
+      },
+      "ordered-amount": {
+        "data": {
+          "id": "4079425",
+          "type": "inventory-product-ordered-amounts"
+        }
+      },
+      "quantities": {
+        "data": [
+          {
+            "id": "4292733",
+            "type": "inventory-product-quantities"
+          }
+        ]
+      },
+      "supplier": {
+        "data": {
+          "id": "89590",
+          "type": "inventory-product-suppliers"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "additional-skus": [],
+      "barcode": null,
+      "commission-enabled": true,
+      "cost-price": 0,
+      "created-at": "2021-10-22T15:44:22.233048Z",
+      "deleted-at": null,
+      "description": null,
+      "full-price": 41,
+      "measure-type": "whole",
+      "measure-value": null,
+      "name": "Clarifying Pads (50 pads)",
+      "online-sales-enabled": true,
+      "sales-enabled": true,
+      "short-description": null,
+      "sku": "CLA-50564",
+      "unlimited-stock": false,
+      "updated-at": "2023-09-08T16:01:05.394970Z"
+    },
+    "id": "4079408",
+    "type": "inventory-products",
+    "relationships": {
+      "brand": {
+        "data": {
+          "id": "219271",
+          "type": "inventory-product-brands"
+        }
+      },
+      "category": {
+        "data": {
+          "id": "229557",
+          "type": "inventory-product-categories"
+        }
+      },
+      "image-collection": {
+        "data": {
+          "id": "ac40b3fc-d6b5-4f9b-be67-c33bb15893cb",
+          "type": "inventory-image-collections"
+        }
+      },
+      "ordered-amount": {
+        "data": {
+          "id": "4079408",
+          "type": "inventory-product-ordered-amounts"
+        }
+      },
+      "quantities": {
+        "data": [
+          {
+            "id": "4292684",
+            "type": "inventory-product-quantities"
+          }
+        ]
+      },
+      "supplier": {
+        "data": {
+          "id": "89590",
+          "type": "inventory-product-suppliers"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "additional-skus": [],
+      "barcode": null,
+      "commission-enabled": false,
+      "cost-price": 0,
+      "created-at": "2021-10-22T15:04:52.555124Z",
+      "deleted-at": null,
+      "description": null,
+      "full-price": 90,
+      "measure-type": "milliliters",
+      "measure-value": 50,
+      "name": "Hydrating Anti-Ageing Serum",
+      "online-sales-enabled": true,
+      "sales-enabled": true,
+      "short-description": null,
+      "sku": "HYD-35411",
+      "unlimited-stock": false,
+      "updated-at": "2023-09-08T16:00:25.487884Z"
+    },
+    "id": "4079241",
+    "type": "inventory-products",
+    "relationships": {
+      "brand": {
+        "data": {
+          "id": "219271",
+          "type": "inventory-product-brands"
+        }
+      },
+      "category": {
+        "data": {
+          "id": "229551",
+          "type": "inventory-product-categories"
+        }
+      },
+      "image-collection": {
+        "data": {
+          "id": "7e3abadf-17fc-4760-8bd0-21e593adad61",
+          "type": "inventory-image-collections"
+        }
+      },
+      "ordered-amount": {
+        "data": {
+          "id": "4079241",
+          "type": "inventory-product-ordered-amounts"
+        }
+      },
+      "quantities": {
+        "data": [
+          {
+            "id": "4292023",
+            "type": "inventory-product-quantities"
+          }
+        ]
+      },
+      "supplier": {
+        "data": {
+          "id": "89590",
+          "type": "inventory-product-suppliers"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "additional-skus": [],
+      "barcode": null,
+      "commission-enabled": false,
+      "cost-price": null,
+      "created-at": "2021-10-22T14:43:04.675512Z",
+      "deleted-at": null,
+      "description": null,
+      "full-price": 108.5,
+      "measure-type": "milliliters",
+      "measure-value": 15,
+      "name": "Max Stem Cell Wrinkle Smoother",
+      "online-sales-enabled": true,
+      "sales-enabled": true,
+      "short-description": null,
+      "sku": "MAX-62616",
+      "unlimited-stock": false,
+      "updated-at": "2023-09-08T15:59:34.756853Z"
+    },
+    "id": "4079140",
+    "type": "inventory-products",
+    "relationships": {
+      "brand": {
+        "data": {
+          "id": "219271",
+          "type": "inventory-product-brands"
+        }
+      },
+      "category": {
+        "data": {
+          "id": "229545",
+          "type": "inventory-product-categories"
+        }
+      },
+      "image-collection": {
+        "data": {
+          "id": "e563ff45-b136-426d-a423-691979a71eed",
+          "type": "inventory-image-collections"
+        }
+      },
+      "ordered-amount": {
+        "data": {
+          "id": "4079140",
+          "type": "inventory-product-ordered-amounts"
+        }
+      },
+      "quantities": {
+        "data": [
+          {
+            "id": "4291746",
+            "type": "inventory-product-quantities"
+          }
+        ]
+      },
+      "supplier": {
+        "data": {
+          "id": "89590",
+          "type": "inventory-product-suppliers"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "additional-skus": [],
+      "barcode": null,
+      "commission-enabled": false,
+      "cost-price": null,
+      "created-at": "2021-10-22T14:42:05.452877Z",
+      "deleted-at": null,
+      "description": null,
+      "full-price": 142.5,
+      "measure-type": "milliliters",
+      "measure-value": 50,
+      "name": "Max Stem Cell Contour Gel Creme",
+      "online-sales-enabled": true,
+      "sales-enabled": true,
+      "short-description": null,
+      "sku": "MAX-05555",
+      "unlimited-stock": false,
+      "updated-at": "2023-09-08T15:58:57.254294Z"
+    },
+    "id": "4079136",
+    "type": "inventory-products",
+    "relationships": {
+      "brand": {
+        "data": {
+          "id": "219271",
+          "type": "inventory-product-brands"
+        }
+      },
+      "category": {
+        "data": {
+          "id": "229545",
+          "type": "inventory-product-categories"
+        }
+      },
+      "image-collection": {
+        "data": {
+          "id": "b317b3ff-614a-4e09-9807-22335854c2fd",
+          "type": "inventory-image-collections"
+        }
+      },
+      "ordered-amount": {
+        "data": {
+          "id": "4079136",
+          "type": "inventory-product-ordered-amounts"
+        }
+      },
+      "quantities": {
+        "data": [
+          {
+            "id": "4291737",
+            "type": "inventory-product-quantities"
+          }
+        ]
+      },
+      "supplier": {
+        "data": {
+          "id": "89590",
+          "type": "inventory-product-suppliers"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "additional-skus": [],
+      "barcode": null,
+      "commission-enabled": false,
+      "cost-price": null,
+      "created-at": "2021-10-22T14:24:18.938929Z",
+      "deleted-at": null,
+      "description": null,
+      "full-price": 108,
+      "measure-type": "milliliters",
+      "measure-value": 50,
+      "name": "Total Overnight Retinol Masque",
+      "online-sales-enabled": true,
+      "sales-enabled": true,
+      "short-description": null,
+      "sku": "TOT-70780",
+      "unlimited-stock": false,
+      "updated-at": "2023-09-08T15:58:15.425717Z"
+    },
+    "id": "4079064",
+    "type": "inventory-products",
+    "relationships": {
+      "brand": {
+        "data": {
+          "id": "219271",
+          "type": "inventory-product-brands"
+        }
+      },
+      "category": {
+        "data": {
+          "id": "229543",
+          "type": "inventory-product-categories"
+        }
+      },
+      "image-collection": {
+        "data": {
+          "id": "799578e2-ee5c-4335-9097-c047fe4a01a1",
+          "type": "inventory-image-collections"
+        }
+      },
+      "ordered-amount": {
+        "data": {
+          "id": "4079064",
+          "type": "inventory-product-ordered-amounts"
+        }
+      },
+      "quantities": {
+        "data": [
+          {
+            "id": "4291443",
+            "type": "inventory-product-quantities"
+          }
+        ]
+      },
+      "supplier": {
+        "data": {
+          "id": "89590",
+          "type": "inventory-product-suppliers"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "additional-skus": [],
+      "barcode": null,
+      "commission-enabled": false,
+      "cost-price": null,
+      "created-at": "2021-10-22T14:41:14.624326Z",
+      "deleted-at": null,
+      "description": null,
+      "full-price": 126,
+      "measure-type": "milliliters",
+      "measure-value": 59,
+      "name": "Max Stem Cell Neck Lift",
+      "online-sales-enabled": true,
+      "sales-enabled": true,
+      "short-description": null,
+      "sku": "MAX-02521",
+      "unlimited-stock": false,
+      "updated-at": "2023-09-08T15:57:44.654962Z"
+    },
+    "id": "4079132",
+    "type": "inventory-products",
+    "relationships": {
+      "brand": {
+        "data": {
+          "id": "219271",
+          "type": "inventory-product-brands"
+        }
+      },
+      "category": {
+        "data": {
+          "id": "229545",
+          "type": "inventory-product-categories"
+        }
+      },
+      "image-collection": {
+        "data": {
+          "id": "d2ec2b97-fab2-4df7-8eab-e441f2f89d93",
+          "type": "inventory-image-collections"
+        }
+      },
+      "ordered-amount": {
+        "data": {
+          "id": "4079132",
+          "type": "inventory-product-ordered-amounts"
+        }
+      },
+      "quantities": {
+        "data": [
+          {
+            "id": "4291724",
+            "type": "inventory-product-quantities"
+          }
+        ]
+      },
+      "supplier": {
+        "data": {
+          "id": "89590",
+          "type": "inventory-product-suppliers"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "additional-skus": [],
+      "barcode": null,
+      "commission-enabled": false,
+      "cost-price": 0,
+      "created-at": "2021-10-22T15:15:30.068414Z",
+      "deleted-at": null,
+      "description": null,
+      "full-price": 90,
+      "measure-type": "milliliters",
+      "measure-value": 50,
+      "name": "Deluxe Hydrating Anti-Ageing Serum",
+      "online-sales-enabled": true,
+      "sales-enabled": true,
+      "short-description": null,
+      "sku": "DEL-19619",
+      "unlimited-stock": false,
+      "updated-at": "2023-09-08T15:57:13.866334Z"
+    },
+    "id": "4079290",
+    "type": "inventory-products",
+    "relationships": {
+      "brand": {
+        "data": {
+          "id": "219271",
+          "type": "inventory-product-brands"
+        }
+      },
+      "category": {
+        "data": {
+          "id": "229551",
+          "type": "inventory-product-categories"
+        }
+      },
+      "image-collection": {
+        "data": {
+          "id": "dbdd5352-b20b-4c9e-8ea9-096d2ee04072",
+          "type": "inventory-image-collections"
+        }
+      },
+      "ordered-amount": {
+        "data": {
+          "id": "4079290",
+          "type": "inventory-product-ordered-amounts"
+        }
+      },
+      "quantities": {
+        "data": [
+          {
+            "id": "4292173",
+            "type": "inventory-product-quantities"
+          }
+        ]
+      },
+      "supplier": {
+        "data": {
+          "id": "89590",
+          "type": "inventory-product-suppliers"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "additional-skus": [],
+      "barcode": null,
+      "commission-enabled": false,
+      "cost-price": 0,
+      "created-at": "2021-10-22T14:14:32.752497Z",
+      "deleted-at": null,
+      "description": null,
+      "full-price": 97,
+      "measure-type": "milliliters",
+      "measure-value": 59,
+      "name": "Total Repair Creme",
+      "online-sales-enabled": true,
+      "sales-enabled": true,
+      "short-description": null,
+      "sku": "TOT-13411",
+      "unlimited-stock": false,
+      "updated-at": "2023-09-08T15:56:54.753099Z"
+    },
+    "id": "4079037",
+    "type": "inventory-products",
+    "relationships": {
+      "brand": {
+        "data": {
+          "id": "219271",
+          "type": "inventory-product-brands"
+        }
+      },
+      "category": {
+        "data": {
+          "id": "229543",
+          "type": "inventory-product-categories"
+        }
+      },
+      "image-collection": {
+        "data": {
+          "id": "4ddcb4aa-3124-459a-b71c-f04373ea4fc2",
+          "type": "inventory-image-collections"
+        }
+      },
+      "ordered-amount": {
+        "data": {
+          "id": "4079037",
+          "type": "inventory-product-ordered-amounts"
+        }
+      },
+      "quantities": {
+        "data": [
+          {
+            "id": "4291335",
+            "type": "inventory-product-quantities"
+          }
+        ]
+      },
+      "supplier": {
+        "data": {
+          "id": "89590",
+          "type": "inventory-product-suppliers"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "additional-skus": [],
+      "barcode": null,
+      "commission-enabled": false,
+      "cost-price": 0,
+      "created-at": "2021-10-22T15:47:16.803565Z",
+      "deleted-at": null,
+      "description": null,
+      "full-price": 60,
+      "measure-type": "milliliters",
+      "measure-value": 30,
+      "name": "Clear Cell Restoring Serum",
+      "online-sales-enabled": true,
+      "sales-enabled": true,
+      "short-description": null,
+      "sku": "CLE-20070",
+      "unlimited-stock": false,
+      "updated-at": "2023-09-08T15:56:30.355812Z"
+    },
+    "id": "4079415",
+    "type": "inventory-products",
+    "relationships": {
+      "brand": {
+        "data": {
+          "id": "219271",
+          "type": "inventory-product-brands"
+        }
+      },
+      "category": {
+        "data": {
+          "id": "229557",
+          "type": "inventory-product-categories"
+        }
+      },
+      "image-collection": {
+        "data": {
+          "id": "724f9f99-2652-4ff0-9d85-7d68db5d7a7e",
+          "type": "inventory-image-collections"
+        }
+      },
+      "ordered-amount": {
+        "data": {
+          "id": "4079415",
+          "type": "inventory-product-ordered-amounts"
+        }
+      },
+      "quantities": {
+        "data": [
+          {
+            "id": "4292700",
+            "type": "inventory-product-quantities"
+          }
+        ]
+      },
+      "supplier": {
+        "data": {
+          "id": "89590",
+          "type": "inventory-product-suppliers"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "additional-skus": [],
+      "barcode": null,
+      "commission-enabled": false,
+      "cost-price": 0,
+      "created-at": "2021-10-22T15:45:22.827676Z",
+      "deleted-at": null,
+      "description": null,
+      "full-price": 45.5,
+      "measure-type": "milliliters",
+      "measure-value": 59,
+      "name": "Clarifying Acne Masque",
+      "online-sales-enabled": true,
+      "sales-enabled": true,
+      "short-description": null,
+      "sku": "CLA-37817",
+      "unlimited-stock": false,
+      "updated-at": "2023-09-08T15:56:04.049840Z"
+    },
+    "id": "4079409",
+    "type": "inventory-products",
+    "relationships": {
+      "brand": {
+        "data": {
+          "id": "219271",
+          "type": "inventory-product-brands"
+        }
+      },
+      "category": {
+        "data": {
+          "id": "229557",
+          "type": "inventory-product-categories"
+        }
+      },
+      "image-collection": {
+        "data": {
+          "id": "45ce83b8-b474-414d-95c4-d7a70fe3cea8",
+          "type": "inventory-image-collections"
+        }
+      },
+      "ordered-amount": {
+        "data": {
+          "id": "4079409",
+          "type": "inventory-product-ordered-amounts"
+        }
+      },
+      "quantities": {
+        "data": [
+          {
+            "id": "4292689",
+            "type": "inventory-product-quantities"
+          }
+        ]
+      },
+      "supplier": {
+        "data": {
+          "id": "89590",
+          "type": "inventory-product-suppliers"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "additional-skus": [],
+      "barcode": null,
+      "commission-enabled": false,
+      "cost-price": 0,
+      "created-at": "2021-10-22T15:43:01.945446Z",
+      "deleted-at": null,
+      "description": null,
+      "full-price": 45,
+      "measure-type": "milliliters",
+      "measure-value": 50,
+      "name": "Clarifying Acne Lotion",
+      "online-sales-enabled": true,
+      "sales-enabled": true,
+      "short-description": null,
+      "sku": "CLA-80083",
+      "unlimited-stock": false,
+      "updated-at": "2023-09-08T15:55:40.328450Z"
+    },
+    "id": "4079401",
+    "type": "inventory-products",
+    "relationships": {
+      "brand": {
+        "data": {
+          "id": "219271",
+          "type": "inventory-product-brands"
+        }
+      },
+      "category": {
+        "data": {
+          "id": "229557",
+          "type": "inventory-product-categories"
+        }
+      },
+      "image-collection": {
+        "data": {
+          "id": "90a6d5de-ff1e-432d-9fc7-e4dc9e63c8fe",
+          "type": "inventory-image-collections"
+        }
+      },
+      "ordered-amount": {
+        "data": {
+          "id": "4079401",
+          "type": "inventory-product-ordered-amounts"
+        }
+      },
+      "quantities": {
+        "data": [
+          {
+            "id": "4292666",
+            "type": "inventory-product-quantities"
+          }
+        ]
+      },
+      "supplier": {
+        "data": {
+          "id": "89590",
+          "type": "inventory-product-suppliers"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "additional-skus": [],
+      "barcode": null,
+      "commission-enabled": false,
+      "cost-price": 0,
+      "created-at": "2021-10-22T15:41:36.583754Z",
+      "deleted-at": null,
+      "description": null,
+      "full-price": 45,
+      "measure-type": "milliliters",
+      "measure-value": 177,
+      "name": "Clarifying Gel Cleanser",
+      "online-sales-enabled": true,
+      "sales-enabled": true,
+      "short-description": null,
+      "sku": "CLA-74260",
+      "unlimited-stock": false,
+      "updated-at": "2023-09-08T15:55:12.450041Z"
+    },
+    "id": "4079396",
+    "type": "inventory-products",
+    "relationships": {
+      "brand": {
+        "data": {
+          "id": "219271",
+          "type": "inventory-product-brands"
+        }
+      },
+      "category": {
+        "data": {
+          "id": "229557",
+          "type": "inventory-product-categories"
+        }
+      },
+      "image-collection": {
+        "data": {
+          "id": "373e81de-e178-43a9-93b2-b988e7db4996",
+          "type": "inventory-image-collections"
+        }
+      },
+      "ordered-amount": {
+        "data": {
+          "id": "4079396",
+          "type": "inventory-product-ordered-amounts"
+        }
+      },
+      "quantities": {
+        "data": [
+          {
+            "id": "4292631",
+            "type": "inventory-product-quantities"
+          }
+        ]
+      },
+      "supplier": {
+        "data": {
+          "id": "89590",
+          "type": "inventory-product-suppliers"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "additional-skus": [],
+      "barcode": null,
+      "commission-enabled": false,
+      "cost-price": 0,
+      "created-at": "2021-10-22T15:07:01.939709Z",
+      "deleted-at": null,
+      "description": null,
+      "full-price": 92,
+      "measure-type": "milliliters",
+      "measure-value": 50,
+      "name": "Hydrating Intense Moisturiser",
+      "online-sales-enabled": true,
+      "sales-enabled": true,
+      "short-description": null,
+      "sku": "HYD-93417",
+      "unlimited-stock": false,
+      "updated-at": "2023-09-08T15:54:44.778598Z"
+    },
+    "id": "4079252",
+    "type": "inventory-products",
+    "relationships": {
+      "brand": {
+        "data": {
+          "id": "219271",
+          "type": "inventory-product-brands"
+        }
+      },
+      "category": {
+        "data": {
+          "id": "229551",
+          "type": "inventory-product-categories"
+        }
+      },
+      "image-collection": {
+        "data": {
+          "id": "99dcad5f-629e-4532-ad11-50929b5d253a",
+          "type": "inventory-image-collections"
+        }
+      },
+      "ordered-amount": {
+        "data": {
+          "id": "4079252",
+          "type": "inventory-product-ordered-amounts"
+        }
+      },
+      "quantities": {
+        "data": [
+          {
+            "id": "4292049",
+            "type": "inventory-product-quantities"
+          }
+        ]
+      },
+      "supplier": {
+        "data": {
+          "id": "89590",
+          "type": "inventory-product-suppliers"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "additional-skus": [],
+      "barcode": null,
+      "commission-enabled": false,
+      "cost-price": 0,
+      "created-at": "2021-10-22T15:05:51.969086Z",
+      "deleted-at": null,
+      "description": null,
+      "full-price": 52,
+      "measure-type": "milliliters",
+      "measure-value": 59,
+      "name": "Hydrating Enzyme Masque",
+      "online-sales-enabled": true,
+      "sales-enabled": true,
+      "short-description": null,
+      "sku": "HYD-79066",
+      "unlimited-stock": false,
+      "updated-at": "2023-09-08T15:54:10.633739Z"
+    },
+    "id": "4079246",
+    "type": "inventory-products",
+    "relationships": {
+      "brand": {
+        "data": {
+          "id": "219271",
+          "type": "inventory-product-brands"
+        }
+      },
+      "category": {
+        "data": {
+          "id": "229551",
+          "type": "inventory-product-categories"
+        }
+      },
+      "image-collection": {
+        "data": {
+          "id": "8de52f11-cd32-4333-bbc7-5b4c3b71b029",
+          "type": "inventory-image-collections"
+        }
+      },
+      "ordered-amount": {
+        "data": {
+          "id": "4079246",
+          "type": "inventory-product-ordered-amounts"
+        }
+      },
+      "quantities": {
+        "data": [
+          {
+            "id": "4292036",
+            "type": "inventory-product-quantities"
+          }
+        ]
+      },
+      "supplier": {
+        "data": {
+          "id": "89590",
+          "type": "inventory-product-suppliers"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "additional-skus": [],
+      "barcode": null,
+      "commission-enabled": false,
+      "cost-price": 0,
+      "created-at": "2021-10-22T15:03:46.059613Z",
+      "deleted-at": null,
+      "description": null,
+      "full-price": 46.5,
+      "measure-type": "milliliters",
+      "measure-value": 177,
+      "name": "Hydrating Facial Cleanser",
+      "online-sales-enabled": true,
+      "sales-enabled": true,
+      "short-description": null,
+      "sku": "HYD-05370",
+      "unlimited-stock": false,
+      "updated-at": "2023-09-08T15:53:47.231574Z"
+    },
+    "id": "4079231",
+    "type": "inventory-products",
+    "relationships": {
+      "brand": {
+        "data": {
+          "id": "219271",
+          "type": "inventory-product-brands"
+        }
+      },
+      "category": {
+        "data": {
+          "id": "229551",
+          "type": "inventory-product-categories"
+        }
+      },
+      "image-collection": {
+        "data": {
+          "id": "8343d48d-ebe5-4e9f-b315-f397ea5af3c1",
+          "type": "inventory-image-collections"
+        }
+      },
+      "ordered-amount": {
+        "data": {
+          "id": "4079231",
+          "type": "inventory-product-ordered-amounts"
+        }
+      },
+      "quantities": {
+        "data": [
+          {
+            "id": "4292006",
+            "type": "inventory-product-quantities"
+          }
+        ]
+      },
+      "supplier": {
+        "data": {
+          "id": "89590",
+          "type": "inventory-product-suppliers"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "additional-skus": [],
+      "barcode": null,
+      "commission-enabled": true,
+      "cost-price": 0,
+      "created-at": "2021-10-22T15:25:57.329728Z",
+      "deleted-at": null,
+      "description": null,
+      "full-price": 45,
+      "measure-type": "milliliters",
+      "measure-value": 177,
+      "name": "Balancing Facial Cleanser",
+      "online-sales-enabled": true,
+      "sales-enabled": true,
+      "short-description": null,
+      "sku": "BAL-86379",
+      "unlimited-stock": false,
+      "updated-at": "2023-09-08T15:52:42.178102Z"
+    },
+    "id": "4079331",
+    "type": "inventory-products",
+    "relationships": {
+      "brand": {
+        "data": {
+          "id": "219271",
+          "type": "inventory-product-brands"
+        }
+      },
+      "category": {
+        "data": {
+          "id": "229554",
+          "type": "inventory-product-categories"
+        }
+      },
+      "image-collection": {
+        "data": {
+          "id": "b658aa6c-7997-4ebe-baf9-672a6864ad6f",
+          "type": "inventory-image-collections"
+        }
+      },
+      "ordered-amount": {
+        "data": {
+          "id": "4079331",
+          "type": "inventory-product-ordered-amounts"
+        }
+      },
+      "quantities": {
+        "data": [
+          {
+            "id": "4292365",
+            "type": "inventory-product-quantities"
+          }
+        ]
+      },
+      "supplier": {
+        "data": {
+          "id": "89590",
+          "type": "inventory-product-suppliers"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "additional-skus": [],
+      "barcode": null,
+      "commission-enabled": false,
+      "cost-price": null,
+      "created-at": "2021-10-22T15:23:24.104714Z",
+      "deleted-at": null,
+      "description": null,
+      "full-price": 52.5,
+      "measure-type": "whole",
+      "measure-value": null,
+      "name": "Anti Ageing Hydrogel Sheet Mask (5 pack)",
+      "online-sales-enabled": true,
+      "sales-enabled": true,
+      "short-description": null,
+      "sku": "ANT-33222",
+      "unlimited-stock": false,
+      "updated-at": "2023-09-08T15:51:00.239267Z"
+    },
+    "id": "4079315",
+    "type": "inventory-products",
+    "relationships": {
+      "brand": {
+        "data": {
+          "id": "219271",
+          "type": "inventory-product-brands"
+        }
+      },
+      "category": {
+        "data": {
+          "id": "229553",
+          "type": "inventory-product-categories"
+        }
+      },
+      "image-collection": {
+        "data": {
+          "id": "a5cd0267-c72a-45b9-bcf4-7712e0b7b9d5",
+          "type": "inventory-image-collections"
+        }
+      },
+      "ordered-amount": {
+        "data": {
+          "id": "4079315",
+          "type": "inventory-product-ordered-amounts"
+        }
+      },
+      "quantities": {
+        "data": [
+          {
+            "id": "4292286",
+            "type": "inventory-product-quantities"
+          }
+        ]
+      },
+      "supplier": {
+        "data": {
+          "id": "89590",
+          "type": "inventory-product-suppliers"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "additional-skus": [],
+      "barcode": null,
+      "commission-enabled": true,
+      "cost-price": 0,
+      "created-at": "2021-10-22T14:16:02.065893Z",
+      "deleted-at": null,
+      "description": null,
+      "full-price": 51,
+      "measure-type": "milliliters",
+      "measure-value": 59,
+      "name": "Total Resurfacing Mask",
+      "online-sales-enabled": true,
+      "sales-enabled": true,
+      "short-description": null,
+      "sku": "TOT-27272",
+      "unlimited-stock": false,
+      "updated-at": "2023-09-08T15:25:58.842934Z"
+    },
+    "id": "4079042",
+    "type": "inventory-products",
+    "relationships": {
+      "brand": {
+        "data": {
+          "id": "219271",
+          "type": "inventory-product-brands"
+        }
+      },
+      "category": {
+        "data": {
+          "id": "229543",
+          "type": "inventory-product-categories"
+        }
+      },
+      "image-collection": {
+        "data": {
+          "id": "34a6b762-d1f8-4c56-bd71-c163ffff1fb3",
+          "type": "inventory-image-collections"
+        }
+      },
+      "ordered-amount": {
+        "data": {
+          "id": "4079042",
+          "type": "inventory-product-ordered-amounts"
+        }
+      },
+      "quantities": {
+        "data": [
+          {
+            "id": "4291349",
+            "type": "inventory-product-quantities"
+          }
+        ]
+      },
+      "supplier": {
+        "data": {
+          "id": "89590",
+          "type": "inventory-product-suppliers"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "additional-skus": [],
+      "barcode": null,
+      "commission-enabled": false,
+      "cost-price": 0,
+      "created-at": "2021-10-22T14:01:56.698987Z",
+      "deleted-at": null,
+      "description": null,
+      "full-price": 45.5,
+      "measure-type": "milliliters",
+      "measure-value": 177,
+      "name": "Total Facial Cleanser",
+      "online-sales-enabled": true,
+      "sales-enabled": true,
+      "short-description": null,
+      "sku": "IMA-10151",
+      "unlimited-stock": false,
+      "updated-at": "2023-09-08T15:25:38.615092Z"
+    },
+    "id": "4078999",
+    "type": "inventory-products",
+    "relationships": {
+      "brand": {
+        "data": {
+          "id": "219271",
+          "type": "inventory-product-brands"
+        }
+      },
+      "category": {
+        "data": {
+          "id": "229543",
+          "type": "inventory-product-categories"
+        }
+      },
+      "image-collection": {
+        "data": {
+          "id": "90ddd98e-5b4c-48af-bb2f-47a0ef0bbfe3",
+          "type": "inventory-image-collections"
+        }
+      },
+      "ordered-amount": {
+        "data": {
+          "id": "4078999",
+          "type": "inventory-product-ordered-amounts"
+        }
+      },
+      "quantities": {
+        "data": [
+          {
+            "id": "4291146",
+            "type": "inventory-product-quantities"
+          }
+        ]
+      },
+      "supplier": {
+        "data": {
+          "id": "89590",
+          "type": "inventory-product-suppliers"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "additional-skus": [],
+      "barcode": null,
+      "commission-enabled": false,
+      "cost-price": 0,
+      "created-at": "2021-10-22T14:17:35.905949Z",
+      "deleted-at": null,
+      "description": null,
+      "full-price": 59,
+      "measure-type": "milliliters",
+      "measure-value": 15,
+      "name": "Total Eye Lift Creme",
+      "online-sales-enabled": true,
+      "sales-enabled": true,
+      "short-description": null,
+      "sku": "TOT-19297",
+      "unlimited-stock": false,
+      "updated-at": "2023-09-08T14:59:03.025356Z"
+    },
+    "id": "4079046",
+    "type": "inventory-products",
+    "relationships": {
+      "brand": {
+        "data": null
+      },
+      "category": {
+        "data": {
+          "id": "229543",
+          "type": "inventory-product-categories"
+        }
+      },
+      "image-collection": {
+        "data": {
+          "id": "d5701b53-c364-4191-a276-9e9f6ee83c0d",
+          "type": "inventory-image-collections"
+        }
+      },
+      "ordered-amount": {
+        "data": {
+          "id": "4079046",
+          "type": "inventory-product-ordered-amounts"
+        }
+      },
+      "quantities": {
+        "data": [
+          {
+            "id": "4291366",
+            "type": "inventory-product-quantities"
+          }
+        ]
+      },
+      "supplier": {
+        "data": {
+          "id": "89590",
+          "type": "inventory-product-suppliers"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "additional-skus": [],
+      "barcode": null,
+      "commission-enabled": false,
+      "cost-price": null,
+      "created-at": "2021-10-22T15:10:38.870837Z",
+      "deleted-at": null,
+      "description": null,
+      "full-price": 59.5,
+      "measure-type": "milliliters",
+      "measure-value": 177,
+      "name": "Hydrating Hand & Body Lotion",
+      "online-sales-enabled": true,
+      "sales-enabled": true,
+      "short-description": null,
+      "sku": "HYD-05614",
+      "unlimited-stock": false,
+      "updated-at": "2023-09-08T14:57:51.877046Z"
+    },
+    "id": "4079269",
+    "type": "inventory-products",
+    "relationships": {
+      "brand": {
+        "data": {
+          "id": "219271",
+          "type": "inventory-product-brands"
+        }
+      },
+      "category": {
+        "data": {
+          "id": "229551",
+          "type": "inventory-product-categories"
+        }
+      },
+      "image-collection": {
+        "data": {
+          "id": "bcab0d46-8ccd-479b-bb66-5ef038b2b184",
+          "type": "inventory-image-collections"
+        }
+      },
+      "ordered-amount": {
+        "data": {
+          "id": "4079269",
+          "type": "inventory-product-ordered-amounts"
+        }
+      },
+      "quantities": {
+        "data": [
+          {
+            "id": "4292104",
+            "type": "inventory-product-quantities"
+          }
+        ]
+      },
+      "supplier": {
+        "data": {
+          "id": "89590",
+          "type": "inventory-product-suppliers"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "additional-skus": [],
+      "barcode": null,
+      "commission-enabled": false,
+      "cost-price": 0,
+      "created-at": "2021-10-22T15:11:45.117901Z",
+      "deleted-at": null,
+      "description": null,
+      "full-price": 80,
+      "measure-type": "milliliters",
+      "measure-value": 30,
+      "name": "Hydrating ACE Serum",
+      "online-sales-enabled": true,
+      "sales-enabled": true,
+      "short-description": null,
+      "sku": "HYD-00285",
+      "unlimited-stock": false,
+      "updated-at": "2023-09-08T14:57:22.004870Z"
+    },
+    "id": "4079274",
+    "type": "inventory-products",
+    "relationships": {
+      "brand": {
+        "data": {
+          "id": "219271",
+          "type": "inventory-product-brands"
+        }
+      },
+      "category": {
+        "data": {
+          "id": "229551",
+          "type": "inventory-product-categories"
+        }
+      },
+      "image-collection": {
+        "data": {
+          "id": "aedbd354-1ba8-41c9-a64b-b7258edc1d21",
+          "type": "inventory-image-collections"
+        }
+      },
+      "ordered-amount": {
+        "data": {
+          "id": "4079274",
+          "type": "inventory-product-ordered-amounts"
+        }
+      },
+      "quantities": {
+        "data": [
+          {
+            "id": "4292121",
+            "type": "inventory-product-quantities"
+          }
+        ]
+      },
+      "supplier": {
+        "data": {
+          "id": "89590",
+          "type": "inventory-product-suppliers"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "additional-skus": [],
+      "barcode": null,
+      "commission-enabled": false,
+      "cost-price": 0,
+      "created-at": "2021-10-22T14:20:52.767370Z",
+      "deleted-at": null,
+      "description": null,
+      "full-price": 93,
+      "measure-type": "milliliters",
+      "measure-value": 30,
+      "name": "Total Pure Hyaluronic Filler",
+      "online-sales-enabled": true,
+      "sales-enabled": true,
+      "short-description": null,
+      "sku": "TOT-22522",
+      "unlimited-stock": false,
+      "updated-at": "2023-09-08T14:18:26.751188Z"
+    },
+    "id": "4079054",
+    "type": "inventory-products",
+    "relationships": {
+      "brand": {
+        "data": {
+          "id": "219271",
+          "type": "inventory-product-brands"
+        }
+      },
+      "category": {
+        "data": {
+          "id": "229543",
+          "type": "inventory-product-categories"
+        }
+      },
+      "image-collection": {
+        "data": {
+          "id": "455c439d-ec05-4b48-af12-eec7fd0d1c34",
+          "type": "inventory-image-collections"
+        }
+      },
+      "ordered-amount": {
+        "data": {
+          "id": "4079054",
+          "type": "inventory-product-ordered-amounts"
+        }
+      },
+      "quantities": {
+        "data": [
+          {
+            "id": "4291405",
+            "type": "inventory-product-quantities"
+          }
+        ]
+      },
+      "supplier": {
+        "data": {
+          "id": "89590",
+          "type": "inventory-product-suppliers"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "additional-skus": [],
+      "barcode": null,
+      "commission-enabled": false,
+      "cost-price": null,
+      "created-at": "2021-10-22T14:40:06.573780Z",
+      "deleted-at": null,
+      "description": null,
+      "full-price": 56.5,
+      "measure-type": "milliliters",
+      "measure-value": 59,
+      "name": "Max Stem Cell Masque",
+      "online-sales-enabled": true,
+      "sales-enabled": true,
+      "short-description": null,
+      "sku": "MAX-22798",
+      "unlimited-stock": false,
+      "updated-at": "2023-09-08T14:18:01.793302Z"
+    },
+    "id": "4079128",
+    "type": "inventory-products",
+    "relationships": {
+      "brand": {
+        "data": {
+          "id": "219271",
+          "type": "inventory-product-brands"
+        }
+      },
+      "category": {
+        "data": {
+          "id": "229545",
+          "type": "inventory-product-categories"
+        }
+      },
+      "image-collection": {
+        "data": {
+          "id": "2887a000-7657-4fe6-85d9-1b4eba63dafd",
+          "type": "inventory-image-collections"
+        }
+      },
+      "ordered-amount": {
+        "data": {
+          "id": "4079128",
+          "type": "inventory-product-ordered-amounts"
+        }
+      },
+      "quantities": {
+        "data": [
+          {
+            "id": "4291710",
+            "type": "inventory-product-quantities"
+          }
+        ]
+      },
+      "supplier": {
+        "data": {
+          "id": "89590",
+          "type": "inventory-product-suppliers"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "additional-skus": [],
+      "barcode": null,
+      "commission-enabled": false,
+      "cost-price": 0,
+      "created-at": "2021-10-22T14:54:06.384013Z",
+      "deleted-at": null,
+      "description": null,
+      "full-price": 118.5,
+      "measure-type": "milliliters",
+      "measure-value": 50,
+      "name": "Intense Brightening Creme",
+      "online-sales-enabled": true,
+      "sales-enabled": true,
+      "short-description": null,
+      "sku": "INT-97204",
+      "unlimited-stock": false,
+      "updated-at": "2023-09-08T14:17:38.490613Z"
+    },
+    "id": "4079189",
+    "type": "inventory-products",
+    "relationships": {
+      "brand": {
+        "data": {
+          "id": "219271",
+          "type": "inventory-product-brands"
+        }
+      },
+      "category": {
+        "data": {
+          "id": "229547",
+          "type": "inventory-product-categories"
+        }
+      },
+      "image-collection": {
+        "data": {
+          "id": "9e6ee1bf-57f4-4124-abd6-801147802d45",
+          "type": "inventory-image-collections"
+        }
+      },
+      "ordered-amount": {
+        "data": {
+          "id": "4079189",
+          "type": "inventory-product-ordered-amounts"
+        }
+      },
+      "quantities": {
+        "data": [
+          {
+            "id": "4291888",
+            "type": "inventory-product-quantities"
+          }
+        ]
+      },
+      "supplier": {
+        "data": {
+          "id": "89590",
+          "type": "inventory-product-suppliers"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "additional-skus": [],
+      "barcode": null,
+      "commission-enabled": false,
+      "cost-price": null,
+      "created-at": "2021-10-22T14:55:17.354403Z",
+      "deleted-at": null,
+      "description": null,
+      "full-price": 75,
+      "measure-type": "milliliters",
+      "measure-value": 177,
+      "name": "Intense Brightening Body Lotion",
+      "online-sales-enabled": true,
+      "sales-enabled": true,
+      "short-description": null,
+      "sku": "INT-88098",
+      "unlimited-stock": false,
+      "updated-at": "2023-09-08T14:17:13.169768Z"
+    },
+    "id": "4079194",
+    "type": "inventory-products",
+    "relationships": {
+      "brand": {
+        "data": {
+          "id": "219271",
+          "type": "inventory-product-brands"
+        }
+      },
+      "category": {
+        "data": {
+          "id": "229547",
+          "type": "inventory-product-categories"
+        }
+      },
+      "image-collection": {
+        "data": {
+          "id": "dcbda1de-db0a-4bdb-95fa-81144d2ff0d8",
+          "type": "inventory-image-collections"
+        }
+      },
+      "ordered-amount": {
+        "data": {
+          "id": "4079194",
+          "type": "inventory-product-ordered-amounts"
+        }
+      },
+      "quantities": {
+        "data": [
+          {
+            "id": "4291911",
+            "type": "inventory-product-quantities"
+          }
+        ]
+      },
+      "supplier": {
+        "data": {
+          "id": "89590",
+          "type": "inventory-product-suppliers"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "additional-skus": [],
+      "barcode": null,
+      "commission-enabled": false,
+      "cost-price": 0,
+      "created-at": "2021-10-22T14:44:22.163498Z",
+      "deleted-at": null,
+      "description": null,
+      "full-price": 48,
+      "measure-type": "milliliters",
+      "measure-value": 118,
+      "name": "Intense Brightening Exfoliating Cleanser",
+      "online-sales-enabled": true,
+      "sales-enabled": true,
+      "short-description": null,
+      "sku": "INT-13229",
+      "unlimited-stock": false,
+      "updated-at": "2023-09-08T14:16:48.362958Z"
+    },
+    "id": "4079145",
+    "type": "inventory-products",
+    "relationships": {
+      "brand": {
+        "data": {
+          "id": "219271",
+          "type": "inventory-product-brands"
+        }
+      },
+      "category": {
+        "data": {
+          "id": "229547",
+          "type": "inventory-product-categories"
+        }
+      },
+      "image-collection": {
+        "data": {
+          "id": "3cfeac9f-62e3-4872-9fc7-e2ebae5c18ff",
+          "type": "inventory-image-collections"
+        }
+      },
+      "ordered-amount": {
+        "data": {
+          "id": "4079145",
+          "type": "inventory-product-ordered-amounts"
+        }
+      },
+      "quantities": {
+        "data": [
+          {
+            "id": "4291766",
+            "type": "inventory-product-quantities"
+          }
+        ]
+      },
+      "supplier": {
+        "data": {
+          "id": "89590",
+          "type": "inventory-product-suppliers"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "additional-skus": [],
+      "barcode": null,
+      "commission-enabled": false,
+      "cost-price": null,
+      "created-at": "2021-10-22T15:33:54.963840Z",
+      "deleted-at": null,
+      "description": null,
+      "full-price": 54.5,
+      "measure-type": "milliliters",
+      "measure-value": 100,
+      "name": "Balancing Gel Polisher",
+      "online-sales-enabled": true,
+      "sales-enabled": true,
+      "short-description": null,
+      "sku": "BAL-23708",
+      "unlimited-stock": false,
+      "updated-at": "2023-09-08T14:16:26.583406Z"
+    },
+    "id": "4079370",
+    "type": "inventory-products",
+    "relationships": {
+      "brand": {
+        "data": {
+          "id": "219271",
+          "type": "inventory-product-brands"
+        }
+      },
+      "category": {
+        "data": {
+          "id": "229554",
+          "type": "inventory-product-categories"
+        }
+      },
+      "image-collection": {
+        "data": {
+          "id": "e478bc5b-c402-40ca-9e76-de4598024e02",
+          "type": "inventory-image-collections"
+        }
+      },
+      "ordered-amount": {
+        "data": {
+          "id": "4079370",
+          "type": "inventory-product-ordered-amounts"
+        }
+      },
+      "quantities": {
+        "data": [
+          {
+            "id": "4292518",
+            "type": "inventory-product-quantities"
+          }
+        ]
+      },
+      "supplier": {
+        "data": {
+          "id": "89590",
+          "type": "inventory-product-suppliers"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "additional-skus": [],
+      "barcode": null,
+      "commission-enabled": false,
+      "cost-price": 0,
+      "created-at": "2021-10-22T14:53:10.666915Z",
+      "deleted-at": null,
+      "description": null,
+      "full-price": 64.5,
+      "measure-type": "milliliters",
+      "measure-value": 30,
+      "name": "Intense Brightening Serum",
+      "online-sales-enabled": true,
+      "sales-enabled": true,
+      "short-description": null,
+      "sku": "INT-67248",
+      "unlimited-stock": false,
+      "updated-at": "2023-09-08T14:15:57.837680Z"
+    },
+    "id": "4079182",
+    "type": "inventory-products",
+    "relationships": {
+      "brand": {
+        "data": {
+          "id": "219271",
+          "type": "inventory-product-brands"
+        }
+      },
+      "category": {
+        "data": {
+          "id": "229547",
+          "type": "inventory-product-categories"
+        }
+      },
+      "image-collection": {
+        "data": {
+          "id": "7983db7d-907e-4086-bcc5-37dc459bbf0c",
+          "type": "inventory-image-collections"
+        }
+      },
+      "ordered-amount": {
+        "data": {
+          "id": "4079182",
+          "type": "inventory-product-ordered-amounts"
+        }
+      },
+      "quantities": {
+        "data": [
+          {
+            "id": "4291867",
+            "type": "inventory-product-quantities"
+          }
+        ]
+      },
+      "supplier": {
+        "data": {
+          "id": "89590",
+          "type": "inventory-product-suppliers"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "additional-skus": [],
+      "barcode": null,
+      "commission-enabled": false,
+      "cost-price": null,
+      "created-at": "2021-10-22T15:24:37.000149Z",
+      "deleted-at": null,
+      "description": null,
+      "full-price": 52.5,
+      "measure-type": "whole",
+      "measure-value": null,
+      "name": "Hydrating Hydrogel Sheet Mask (5 pack)",
+      "online-sales-enabled": true,
+      "sales-enabled": true,
+      "short-description": null,
+      "sku": "HYD-73331",
+      "unlimited-stock": false,
+      "updated-at": "2023-09-08T14:15:27.679092Z"
+    },
+    "id": "4079327",
+    "type": "inventory-products",
+    "relationships": {
+      "brand": {
+        "data": {
+          "id": "219271",
+          "type": "inventory-product-brands"
+        }
+      },
+      "category": {
+        "data": {
+          "id": "229553",
+          "type": "inventory-product-categories"
+        }
+      },
+      "image-collection": {
+        "data": {
+          "id": "678c122d-4eb1-4e7c-87d8-7b6ad3623c7e",
+          "type": "inventory-image-collections"
+        }
+      },
+      "ordered-amount": {
+        "data": {
+          "id": "4079327",
+          "type": "inventory-product-ordered-amounts"
+        }
+      },
+      "quantities": {
+        "data": [
+          {
+            "id": "4292317",
+            "type": "inventory-product-quantities"
+          }
+        ]
+      },
+      "supplier": {
+        "data": {
+          "id": "89590",
+          "type": "inventory-product-suppliers"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "additional-skus": [],
+      "barcode": null,
+      "commission-enabled": false,
+      "cost-price": 0,
+      "created-at": "2021-10-22T15:14:22.174410Z",
+      "deleted-at": null,
+      "description": null,
+      "full-price": 72,
+      "measure-type": "grams",
+      "measure-value": 57,
+      "name": "Hydrating Overnight Masque",
+      "online-sales-enabled": true,
+      "sales-enabled": true,
+      "short-description": null,
+      "sku": "HYD-59650",
+      "unlimited-stock": false,
+      "updated-at": "2023-09-08T14:13:36.572040Z"
+    },
+    "id": "4079288",
+    "type": "inventory-products",
+    "relationships": {
+      "brand": {
+        "data": {
+          "id": "219271",
+          "type": "inventory-product-brands"
+        }
+      },
+      "category": {
+        "data": {
+          "id": "229551",
+          "type": "inventory-product-categories"
+        }
+      },
+      "image-collection": {
+        "data": {
+          "id": "be2799ef-8800-45a8-a801-4dbf27cf6d9e",
+          "type": "inventory-image-collections"
+        }
+      },
+      "ordered-amount": {
+        "data": {
+          "id": "4079288",
+          "type": "inventory-product-ordered-amounts"
+        }
+      },
+      "quantities": {
+        "data": [
+          {
+            "id": "4292157",
+            "type": "inventory-product-quantities"
+          }
+        ]
+      },
+      "supplier": {
+        "data": {
+          "id": "89590",
+          "type": "inventory-product-suppliers"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "additional-skus": [],
+      "barcode": null,
+      "commission-enabled": false,
+      "cost-price": 0,
+      "created-at": "2021-10-22T15:27:16.161843Z",
+      "deleted-at": null,
+      "description": null,
+      "full-price": 84.5,
+      "measure-type": "milliliters",
+      "measure-value": 30,
+      "name": "Balancing Antioxidant Serum",
+      "online-sales-enabled": true,
+      "sales-enabled": true,
+      "short-description": null,
+      "sku": "BAL-98370",
+      "unlimited-stock": false,
+      "updated-at": "2023-09-08T14:13:13.206604Z"
+    },
+    "id": "4079340",
+    "type": "inventory-products",
+    "relationships": {
+      "brand": {
+        "data": {
+          "id": "219271",
+          "type": "inventory-product-brands"
+        }
+      },
+      "category": {
+        "data": {
+          "id": "229554",
+          "type": "inventory-product-categories"
+        }
+      },
+      "image-collection": {
+        "data": {
+          "id": "cd224d65-06cd-4b1e-a4c8-7720c34fc37b",
+          "type": "inventory-image-collections"
+        }
+      },
+      "ordered-amount": {
+        "data": {
+          "id": "4079340",
+          "type": "inventory-product-ordered-amounts"
+        }
+      },
+      "quantities": {
+        "data": [
+          {
+            "id": "4292395",
+            "type": "inventory-product-quantities"
+          }
+        ]
+      },
+      "supplier": {
+        "data": {
+          "id": "89590",
+          "type": "inventory-product-suppliers"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "additional-skus": [],
+      "barcode": null,
+      "commission-enabled": true,
+      "cost-price": 0,
+      "created-at": "2021-10-22T15:31:36.037096Z",
+      "deleted-at": null,
+      "description": null,
+      "full-price": 62,
+      "measure-type": "milliliters",
+      "measure-value": 15,
+      "name": "Balancing Eyelift Gel",
+      "online-sales-enabled": true,
+      "sales-enabled": true,
+      "short-description": null,
+      "sku": "BAL-02390",
+      "unlimited-stock": false,
+      "updated-at": "2023-09-08T14:12:47.621853Z"
+    },
+    "id": "4079363",
+    "type": "inventory-products",
+    "relationships": {
+      "brand": {
+        "data": {
+          "id": "219271",
+          "type": "inventory-product-brands"
+        }
+      },
+      "category": {
+        "data": {
+          "id": "229554",
+          "type": "inventory-product-categories"
+        }
+      },
+      "image-collection": {
+        "data": {
+          "id": "1fed29fd-d471-4420-bf0f-b59ee77e7ac6",
+          "type": "inventory-image-collections"
+        }
+      },
+      "ordered-amount": {
+        "data": {
+          "id": "4079363",
+          "type": "inventory-product-ordered-amounts"
+        }
+      },
+      "quantities": {
+        "data": [
+          {
+            "id": "4292478",
+            "type": "inventory-product-quantities"
+          }
+        ]
+      },
+      "supplier": {
+        "data": {
+          "id": "89590",
+          "type": "inventory-product-suppliers"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "additional-skus": [],
+      "barcode": null,
+      "commission-enabled": false,
+      "cost-price": 0,
+      "created-at": "2021-10-22T15:48:45.958893Z",
+      "deleted-at": null,
+      "description": null,
+      "full-price": 70,
+      "measure-type": "milliliters",
+      "measure-value": 59,
+      "name": "Clear Cell Mattifying Moisturiser",
+      "online-sales-enabled": true,
+      "sales-enabled": true,
+      "short-description": null,
+      "sku": "CLE-94069",
+      "unlimited-stock": false,
+      "updated-at": "2023-09-08T14:12:14.663409Z"
+    },
+    "id": "4079421",
+    "type": "inventory-products",
+    "relationships": {
+      "brand": {
+        "data": {
+          "id": "219271",
+          "type": "inventory-product-brands"
+        }
+      },
+      "category": {
+        "data": {
+          "id": "229557",
+          "type": "inventory-product-categories"
+        }
+      },
+      "image-collection": {
+        "data": {
+          "id": "9043a51d-d4c3-42b8-8aa2-94c5bd58a04a",
+          "type": "inventory-image-collections"
+        }
+      },
+      "ordered-amount": {
+        "data": {
+          "id": "4079421",
+          "type": "inventory-product-ordered-amounts"
+        }
+      },
+      "quantities": {
+        "data": [
+          {
+            "id": "4292716",
+            "type": "inventory-product-quantities"
+          }
+        ]
+      },
+      "supplier": {
+        "data": {
+          "id": "89590",
+          "type": "inventory-product-suppliers"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "additional-skus": [],
+      "barcode": null,
+      "commission-enabled": false,
+      "cost-price": 0,
+      "created-at": "2021-10-22T15:52:50.951558Z",
+      "deleted-at": null,
+      "description": null,
+      "full-price": 58,
+      "measure-type": "milliliters",
+      "measure-value": 95,
+      "name": "Ultimate Moisturiser SPF 50",
+      "online-sales-enabled": true,
+      "sales-enabled": true,
+      "short-description": null,
+      "sku": "ULT-95158",
+      "unlimited-stock": false,
+      "updated-at": "2023-09-08T14:11:41.655384Z"
+    },
+    "id": "4079435",
+    "type": "inventory-products",
+    "relationships": {
+      "brand": {
+        "data": {
+          "id": "219271",
+          "type": "inventory-product-brands"
+        }
+      },
+      "category": {
+        "data": {
+          "id": "229559",
+          "type": "inventory-product-categories"
+        }
+      },
+      "image-collection": {
+        "data": {
+          "id": "a178b86d-67a2-4ccf-8a30-7bb8368cab00",
+          "type": "inventory-image-collections"
+        }
+      },
+      "ordered-amount": {
+        "data": {
+          "id": "4079435",
+          "type": "inventory-product-ordered-amounts"
+        }
+      },
+      "quantities": {
+        "data": [
+          {
+            "id": "4292769",
+            "type": "inventory-product-quantities"
+          }
+        ]
+      },
+      "supplier": {
+        "data": {
+          "id": "89590",
+          "type": "inventory-product-suppliers"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "additional-skus": [],
+      "barcode": null,
+      "commission-enabled": false,
+      "cost-price": 0,
+      "created-at": "2021-10-22T14:34:01.796708Z",
+      "deleted-at": null,
+      "description": null,
+      "full-price": 140,
+      "measure-type": "milliliters",
+      "measure-value": 50,
+      "name": "Max Stem Cell Creme",
+      "online-sales-enabled": true,
+      "sales-enabled": true,
+      "short-description": null,
+      "sku": "MAX-91468",
+      "unlimited-stock": false,
+      "updated-at": "2023-09-08T14:11:08.656160Z"
+    },
+    "id": "4079098",
+    "type": "inventory-products",
+    "relationships": {
+      "brand": {
+        "data": {
+          "id": "219271",
+          "type": "inventory-product-brands"
+        }
+      },
+      "category": {
+        "data": {
+          "id": "229545",
+          "type": "inventory-product-categories"
+        }
+      },
+      "image-collection": {
+        "data": {
+          "id": "423f6d29-febd-4119-9f81-ba7505b3ab47",
+          "type": "inventory-image-collections"
+        }
+      },
+      "ordered-amount": {
+        "data": {
+          "id": "4079098",
+          "type": "inventory-product-ordered-amounts"
+        }
+      },
+      "quantities": {
+        "data": [
+          {
+            "id": "4291592",
+            "type": "inventory-product-quantities"
+          }
+        ]
+      },
+      "supplier": {
+        "data": {
+          "id": "89590",
+          "type": "inventory-product-suppliers"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "additional-skus": [],
+      "barcode": null,
+      "commission-enabled": false,
+      "cost-price": 0,
+      "created-at": "2021-10-22T14:56:20.990261Z",
+      "deleted-at": null,
+      "description": null,
+      "full-price": 49.5,
+      "measure-type": "milliliters",
+      "measure-value": 44,
+      "name": "Brightening Exfoliating Powder",
+      "online-sales-enabled": true,
+      "sales-enabled": true,
+      "short-description": null,
+      "sku": "BRI-27793",
+      "unlimited-stock": false,
+      "updated-at": "2023-09-08T14:10:39.819964Z"
+    },
+    "id": "4079198",
+    "type": "inventory-products",
+    "relationships": {
+      "brand": {
+        "data": {
+          "id": "219271",
+          "type": "inventory-product-brands"
+        }
+      },
+      "category": {
+        "data": {
+          "id": "229547",
+          "type": "inventory-product-categories"
+        }
+      },
+      "image-collection": {
+        "data": {
+          "id": "b6d1fc67-b8f4-4f02-9a3a-c40708c345db",
+          "type": "inventory-image-collections"
+        }
+      },
+      "ordered-amount": {
+        "data": {
+          "id": "4079198",
+          "type": "inventory-product-ordered-amounts"
+        }
+      },
+      "quantities": {
+        "data": [
+          {
+            "id": "4291924",
+            "type": "inventory-product-quantities"
+          }
+        ]
+      },
+      "supplier": {
+        "data": {
+          "id": "89590",
+          "type": "inventory-product-suppliers"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "additional-skus": [],
+      "barcode": null,
+      "commission-enabled": true,
+      "cost-price": 0,
+      "created-at": "2021-10-22T14:57:33.785729Z",
+      "deleted-at": null,
+      "description": null,
+      "full-price": 82,
+      "measure-type": "milliliters",
+      "measure-value": 15,
+      "name": "Intense Brightening Eye creme",
+      "online-sales-enabled": true,
+      "sales-enabled": true,
+      "short-description": null,
+      "sku": "INT-29393",
+      "unlimited-stock": false,
+      "updated-at": "2023-09-08T14:10:13.072168Z"
+    },
+    "id": "4079205",
+    "type": "inventory-products",
+    "relationships": {
+      "brand": {
+        "data": {
+          "id": "219271",
+          "type": "inventory-product-brands"
+        }
+      },
+      "category": {
+        "data": {
+          "id": "229547",
+          "type": "inventory-product-categories"
+        }
+      },
+      "image-collection": {
+        "data": {
+          "id": "1ed4a7f6-4b0c-4237-b647-af56e74468ce",
+          "type": "inventory-image-collections"
+        }
+      },
+      "ordered-amount": {
+        "data": {
+          "id": "4079205",
+          "type": "inventory-product-ordered-amounts"
+        }
+      },
+      "quantities": {
+        "data": [
+          {
+            "id": "4291943",
+            "type": "inventory-product-quantities"
+          }
+        ]
+      },
+      "supplier": {
+        "data": {
+          "id": "89590",
+          "type": "inventory-product-suppliers"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "additional-skus": [],
+      "barcode": null,
+      "commission-enabled": false,
+      "cost-price": 0,
+      "created-at": "2021-10-22T15:01:55.144033Z",
+      "deleted-at": null,
+      "description": null,
+      "full-price": 88,
+      "measure-type": "milliliters",
+      "measure-value": 30,
+      "name": "Intense Facial Illuminator",
+      "online-sales-enabled": true,
+      "sales-enabled": true,
+      "short-description": null,
+      "sku": "INT-36435",
+      "unlimited-stock": false,
+      "updated-at": "2023-09-08T14:09:53.338712Z"
+    },
+    "id": "4079224",
+    "type": "inventory-products",
+    "relationships": {
+      "brand": {
+        "data": null
+      },
+      "category": {
+        "data": {
+          "id": "229547",
+          "type": "inventory-product-categories"
+        }
+      },
+      "image-collection": {
+        "data": {
+          "id": "f32d592c-d091-448a-8a60-0cd1485eb2b2",
+          "type": "inventory-image-collections"
+        }
+      },
+      "ordered-amount": {
+        "data": {
+          "id": "4079224",
+          "type": "inventory-product-ordered-amounts"
+        }
+      },
+      "quantities": {
+        "data": [
+          {
+            "id": "4291986",
+            "type": "inventory-product-quantities"
+          }
+        ]
+      },
+      "supplier": {
+        "data": {
+          "id": "89590",
+          "type": "inventory-product-suppliers"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "additional-skus": [],
+      "barcode": null,
+      "commission-enabled": false,
+      "cost-price": 0,
+      "created-at": "2021-10-22T14:29:15.521721Z",
+      "deleted-at": null,
+      "description": null,
+      "full-price": 135.5,
+      "measure-type": "milliliters",
+      "measure-value": 30,
+      "name": "Max Stem Cell Serum",
+      "online-sales-enabled": true,
+      "sales-enabled": true,
+      "short-description": null,
+      "sku": "MAX-14939",
+      "unlimited-stock": false,
+      "updated-at": "2023-09-08T14:09:30.175527Z"
+    },
+    "id": "4079081",
+    "type": "inventory-products",
+    "relationships": {
+      "brand": {
+        "data": {
+          "id": "219271",
+          "type": "inventory-product-brands"
+        }
+      },
+      "category": {
+        "data": {
+          "id": "229545",
+          "type": "inventory-product-categories"
+        }
+      },
+      "image-collection": {
+        "data": {
+          "id": "f73711b4-ad0b-4bc9-893f-a07de4418861",
+          "type": "inventory-image-collections"
+        }
+      },
+      "ordered-amount": {
+        "data": {
+          "id": "4079081",
+          "type": "inventory-product-ordered-amounts"
+        }
+      },
+      "quantities": {
+        "data": [
+          {
+            "id": "4291492",
+            "type": "inventory-product-quantities"
+          }
+        ]
+      },
+      "supplier": {
+        "data": {
+          "id": "89590",
+          "type": "inventory-product-suppliers"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "additional-skus": [],
+      "barcode": null,
+      "commission-enabled": true,
+      "cost-price": 0,
+      "created-at": "2021-10-22T15:28:51.220388Z",
+      "deleted-at": null,
+      "description": null,
+      "full-price": 95,
+      "measure-type": "milliliters",
+      "measure-value": 59,
+      "name": "Balancing Biopeptide Creme",
+      "online-sales-enabled": true,
+      "sales-enabled": true,
+      "short-description": null,
+      "sku": "BAL-01199",
+      "unlimited-stock": false,
+      "updated-at": "2023-09-08T14:09:08.908083Z"
+    },
+    "id": "4079348",
+    "type": "inventory-products",
+    "relationships": {
+      "brand": {
+        "data": {
+          "id": "219271",
+          "type": "inventory-product-brands"
+        }
+      },
+      "category": {
+        "data": {
+          "id": "229554",
+          "type": "inventory-product-categories"
+        }
+      },
+      "image-collection": {
+        "data": {
+          "id": "6d8e17af-591b-4e7c-b6cf-1a5ba7198b35",
+          "type": "inventory-image-collections"
+        }
+      },
+      "ordered-amount": {
+        "data": {
+          "id": "4079348",
+          "type": "inventory-product-ordered-amounts"
+        }
+      },
+      "quantities": {
+        "data": [
+          {
+            "id": "4292425",
+            "type": "inventory-product-quantities"
+          }
+        ]
+      },
+      "supplier": {
+        "data": {
+          "id": "89590",
+          "type": "inventory-product-suppliers"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "additional-skus": [],
+      "barcode": null,
+      "commission-enabled": true,
+      "cost-price": 0,
+      "created-at": "2023-02-18T12:16:14.765802Z",
+      "deleted-at": null,
+      "description": null,
+      "full-price": 58,
+      "measure-type": "milliliters",
+      "measure-value": 44,
+      "name": "Total Microdrem Exfoliator",
+      "online-sales-enabled": false,
+      "sales-enabled": true,
+      "short-description": null,
+      "sku": null,
+      "unlimited-stock": false,
+      "updated-at": "2023-09-08T14:08:44.267432Z"
+    },
+    "id": "6014720",
+    "type": "inventory-products",
+    "relationships": {
+      "brand": {
+        "data": {
+          "id": "219271",
+          "type": "inventory-product-brands"
+        }
+      },
+      "category": {
+        "data": {
+          "id": "229543",
+          "type": "inventory-product-categories"
+        }
+      },
+      "image-collection": {
+        "data": {
+          "id": "81e71400-3731-413e-bc0e-247d58f8c46f",
+          "type": "inventory-image-collections"
+        }
+      },
+      "ordered-amount": {
+        "data": {
+          "id": "6014720",
+          "type": "inventory-product-ordered-amounts"
+        }
+      },
+      "quantities": {
+        "data": [
+          {
+            "id": "12605613",
+            "type": "inventory-product-quantities"
+          }
+        ]
+      },
+      "supplier": {
+        "data": {
+          "id": "89590",
+          "type": "inventory-product-suppliers"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "additional-skus": [],
+      "barcode": null,
+      "commission-enabled": true,
+      "cost-price": 0,
+      "created-at": "2023-02-18T12:20:54.040607Z",
+      "deleted-at": null,
+      "description": null,
+      "full-price": 58,
+      "measure-type": "milliliters",
+      "measure-value": 95,
+      "name": "Daily Matte Moisturiser SPF 30",
+      "online-sales-enabled": false,
+      "sales-enabled": true,
+      "short-description": null,
+      "sku": null,
+      "unlimited-stock": false,
+      "updated-at": "2023-09-08T14:08:09.032352Z"
+    },
+    "id": "6014734",
+    "type": "inventory-products",
+    "relationships": {
+      "brand": {
+        "data": {
+          "id": "219271",
+          "type": "inventory-product-brands"
+        }
+      },
+      "category": {
+        "data": {
+          "id": "229559",
+          "type": "inventory-product-categories"
+        }
+      },
+      "image-collection": {
+        "data": {
+          "id": "b010e8fe-39fe-4add-9915-d3bb7de2c921",
+          "type": "inventory-image-collections"
+        }
+      },
+      "ordered-amount": {
+        "data": {
+          "id": "6014734",
+          "type": "inventory-product-ordered-amounts"
+        }
+      },
+      "quantities": {
+        "data": [
+          {
+            "id": "12605666",
+            "type": "inventory-product-quantities"
+          }
+        ]
+      },
+      "supplier": {
+        "data": {
+          "id": "89590",
+          "type": "inventory-product-suppliers"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "additional-skus": [],
+      "barcode": null,
+      "commission-enabled": false,
+      "cost-price": 0,
+      "created-at": "2021-10-22T15:46:18.134829Z",
+      "deleted-at": null,
+      "description": null,
+      "full-price": 43,
+      "measure-type": "milliliters",
+      "measure-value": 118,
+      "name": "Clarifying Tonic",
+      "online-sales-enabled": true,
+      "sales-enabled": true,
+      "short-description": null,
+      "sku": "CLA-94257",
+      "unlimited-stock": false,
+      "updated-at": "2023-09-08T14:07:29.379606Z"
+    },
+    "id": "4079412",
+    "type": "inventory-products",
+    "relationships": {
+      "brand": {
+        "data": {
+          "id": "219271",
+          "type": "inventory-product-brands"
+        }
+      },
+      "category": {
+        "data": {
+          "id": "229557",
+          "type": "inventory-product-categories"
+        }
+      },
+      "image-collection": {
+        "data": {
+          "id": "40fcb929-dbe1-4b38-b691-2b3291ac02ed",
+          "type": "inventory-image-collections"
+        }
+      },
+      "ordered-amount": {
+        "data": {
+          "id": "4079412",
+          "type": "inventory-product-ordered-amounts"
+        }
+      },
+      "quantities": {
+        "data": [
+          {
+            "id": "4292694",
+            "type": "inventory-product-quantities"
+          }
+        ]
+      },
+      "supplier": {
+        "data": {
+          "id": "89590",
+          "type": "inventory-product-suppliers"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "additional-skus": [],
+      "barcode": null,
+      "commission-enabled": true,
+      "cost-price": 0,
+      "created-at": "2021-10-22T14:11:46.319194Z",
+      "deleted-at": null,
+      "description": null,
+      "full-price": 100.5,
+      "measure-type": "milliliters",
+      "measure-value": 50,
+      "name": "Anti-Ageing Serum",
+      "online-sales-enabled": true,
+      "sales-enabled": true,
+      "short-description": null,
+      "sku": null,
+      "unlimited-stock": false,
+      "updated-at": "2023-09-08T14:06:58.901878Z"
+    },
+    "id": "4079028",
+    "type": "inventory-products",
+    "relationships": {
+      "brand": {
+        "data": {
+          "id": "219271",
+          "type": "inventory-product-brands"
+        }
+      },
+      "category": {
+        "data": {
+          "id": "229543",
+          "type": "inventory-product-categories"
+        }
+      },
+      "image-collection": {
+        "data": {
+          "id": "ebd8a554-1651-4dea-aebc-434c112ad2e0",
+          "type": "inventory-image-collections"
+        }
+      },
+      "ordered-amount": {
+        "data": {
+          "id": "4079028",
+          "type": "inventory-product-ordered-amounts"
+        }
+      },
+      "quantities": {
+        "data": [
+          {
+            "id": "4291304",
+            "type": "inventory-product-quantities"
+          }
+        ]
+      },
+      "supplier": {
+        "data": {
+          "id": "89590",
+          "type": "inventory-product-suppliers"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "additional-skus": [],
+      "barcode": null,
+      "commission-enabled": false,
+      "cost-price": 0,
+      "created-at": "2021-10-22T15:08:47.341679Z",
+      "deleted-at": null,
+      "description": null,
+      "full-price": 59,
+      "measure-type": "milliliters",
+      "measure-value": 15,
+      "name": "Hydrating Eye Recovery Gel",
+      "online-sales-enabled": true,
+      "sales-enabled": true,
+      "short-description": null,
+      "sku": "HYD-81797",
+      "unlimited-stock": false,
+      "updated-at": "2023-09-08T14:06:37.163487Z"
+    },
+    "id": "4079265",
+    "type": "inventory-products",
+    "relationships": {
+      "brand": {
+        "data": {
+          "id": "219271",
+          "type": "inventory-product-brands"
+        }
+      },
+      "category": {
+        "data": {
+          "id": "229551",
+          "type": "inventory-product-categories"
+        }
+      },
+      "image-collection": {
+        "data": {
+          "id": "232284e6-9fbd-4e59-838d-b49bb01eca8f",
+          "type": "inventory-image-collections"
+        }
+      },
+      "ordered-amount": {
+        "data": {
+          "id": "4079265",
+          "type": "inventory-product-ordered-amounts"
+        }
+      },
+      "quantities": {
+        "data": [
+          {
+            "id": "4292088",
+            "type": "inventory-product-quantities"
+          }
+        ]
+      },
+      "supplier": {
+        "data": {
+          "id": "89590",
+          "type": "inventory-product-suppliers"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "additional-skus": [],
+      "barcode": null,
+      "commission-enabled": true,
+      "cost-price": 0,
+      "created-at": "2021-10-22T15:12:49.125584Z",
+      "deleted-at": null,
+      "description": null,
+      "full-price": 67.5,
+      "measure-type": "milliliters",
+      "measure-value": 59,
+      "name": "Hydrating Water Burst",
+      "online-sales-enabled": true,
+      "sales-enabled": true,
+      "short-description": null,
+      "sku": "HYD-70701",
+      "unlimited-stock": false,
+      "updated-at": "2023-09-08T14:06:09.262808Z"
+    },
+    "id": "4079281",
+    "type": "inventory-products",
+    "relationships": {
+      "brand": {
+        "data": {
+          "id": "219271",
+          "type": "inventory-product-brands"
+        }
+      },
+      "category": {
+        "data": {
+          "id": "229551",
+          "type": "inventory-product-categories"
+        }
+      },
+      "image-collection": {
+        "data": {
+          "id": "11d6fa39-17f4-4d93-9abc-d6de66c0255d",
+          "type": "inventory-image-collections"
+        }
+      },
+      "ordered-amount": {
+        "data": {
+          "id": "4079281",
+          "type": "inventory-product-ordered-amounts"
+        }
+      },
+      "quantities": {
+        "data": [
+          {
+            "id": "4292139",
+            "type": "inventory-product-quantities"
+          }
+        ]
+      },
+      "supplier": {
+        "data": {
+          "id": "89590",
+          "type": "inventory-product-suppliers"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "additional-skus": [],
+      "barcode": null,
+      "commission-enabled": false,
+      "cost-price": 0,
+      "created-at": "2021-10-22T14:26:20.877929Z",
+      "deleted-at": null,
+      "description": null,
+      "full-price": 45.5,
+      "measure-type": "milliliters",
+      "measure-value": 109,
+      "name": "Max Stem Cell Cleanser",
+      "online-sales-enabled": true,
+      "sales-enabled": true,
+      "short-description": null,
+      "sku": "MAX-88227",
+      "unlimited-stock": false,
+      "updated-at": "2023-09-08T14:05:43.440024Z"
+    },
+    "id": "4079072",
+    "type": "inventory-products",
+    "relationships": {
+      "brand": {
+        "data": {
+          "id": "219271",
+          "type": "inventory-product-brands"
+        }
+      },
+      "category": {
+        "data": {
+          "id": "229545",
+          "type": "inventory-product-categories"
+        }
+      },
+      "image-collection": {
+        "data": {
+          "id": "852e0cbe-04f9-4bee-8eef-653ecca96682",
+          "type": "inventory-image-collections"
+        }
+      },
+      "ordered-amount": {
+        "data": {
+          "id": "4079072",
+          "type": "inventory-product-ordered-amounts"
+        }
+      },
+      "quantities": {
+        "data": [
+          {
+            "id": "4291463",
+            "type": "inventory-product-quantities"
+          }
+        ]
+      },
+      "supplier": {
+        "data": {
+          "id": "89590",
+          "type": "inventory-product-suppliers"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "additional-skus": [],
+      "barcode": null,
+      "commission-enabled": false,
+      "cost-price": 0,
+      "created-at": "2021-10-22T14:39:14.642126Z",
+      "deleted-at": null,
+      "description": null,
+      "full-price": 78,
+      "measure-type": "milliliters",
+      "measure-value": 15,
+      "name": "Max Stem Cell Eye Creme",
+      "online-sales-enabled": true,
+      "sales-enabled": true,
+      "short-description": null,
+      "sku": "MAX-97949",
+      "unlimited-stock": false,
+      "updated-at": "2023-09-08T14:04:51.157484Z"
+    },
+    "id": "4079126",
+    "type": "inventory-products",
+    "relationships": {
+      "brand": {
+        "data": {
+          "id": "219271",
+          "type": "inventory-product-brands"
+        }
+      },
+      "category": {
+        "data": {
+          "id": "229545",
+          "type": "inventory-product-categories"
+        }
+      },
+      "image-collection": {
+        "data": {
+          "id": "31ccba61-3a83-4963-996c-c3f9c6a103be",
+          "type": "inventory-image-collections"
+        }
+      },
+      "ordered-amount": {
+        "data": {
+          "id": "4079126",
+          "type": "inventory-product-ordered-amounts"
+        }
+      },
+      "quantities": {
+        "data": [
+          {
+            "id": "4291704",
+            "type": "inventory-product-quantities"
+          }
+        ]
+      },
+      "supplier": {
+        "data": {
+          "id": "89590",
+          "type": "inventory-product-suppliers"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "additional-skus": [],
+      "barcode": null,
+      "commission-enabled": false,
+      "cost-price": null,
+      "created-at": "2021-10-22T15:21:56.449584Z",
+      "deleted-at": null,
+      "description": null,
+      "full-price": 74.5,
+      "measure-type": "milliliters",
+      "measure-value": 59,
+      "name": "Firming Transformation Masque",
+      "online-sales-enabled": true,
+      "sales-enabled": true,
+      "short-description": null,
+      "sku": "FIR-35889",
+      "unlimited-stock": false,
+      "updated-at": "2023-09-08T14:04:05.930243Z"
+    },
+    "id": "4079308",
+    "type": "inventory-products",
+    "relationships": {
+      "brand": {
+        "data": {
+          "id": "219271",
+          "type": "inventory-product-brands"
+        }
+      },
+      "category": {
+        "data": {
+          "id": "229553",
+          "type": "inventory-product-categories"
+        }
+      },
+      "image-collection": {
+        "data": {
+          "id": "6687f712-f54d-4cb6-827f-ea302eb2d5fd",
+          "type": "inventory-image-collections"
+        }
+      },
+      "ordered-amount": {
+        "data": {
+          "id": "4079308",
+          "type": "inventory-product-ordered-amounts"
+        }
+      },
+      "quantities": {
+        "data": [
+          {
+            "id": "4292259",
+            "type": "inventory-product-quantities"
+          }
+        ]
+      },
+      "supplier": {
+        "data": {
+          "id": "89590",
+          "type": "inventory-product-suppliers"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "additional-skus": [],
+      "barcode": null,
+      "commission-enabled": false,
+      "cost-price": 0,
+      "created-at": "2021-10-22T15:07:48.665827Z",
+      "deleted-at": null,
+      "description": null,
+      "full-price": 96.5,
+      "measure-type": "milliliters",
+      "measure-value": 59,
+      "name": "Hydrating Repair Creme",
+      "online-sales-enabled": true,
+      "sales-enabled": true,
+      "short-description": null,
+      "sku": "HYD-66102",
+      "unlimited-stock": false,
+      "updated-at": "2023-09-08T14:03:12.523395Z"
+    },
+    "id": "4079259",
+    "type": "inventory-products",
+    "relationships": {
+      "brand": {
+        "data": {
+          "id": "219271",
+          "type": "inventory-product-brands"
+        }
+      },
+      "category": {
+        "data": {
+          "id": "229551",
+          "type": "inventory-product-categories"
+        }
+      },
+      "image-collection": {
+        "data": {
+          "id": "5a28fa7a-264d-4d7e-b4f4-e02864c889f1",
+          "type": "inventory-image-collections"
+        }
+      },
+      "ordered-amount": {
+        "data": {
+          "id": "4079259",
+          "type": "inventory-product-ordered-amounts"
+        }
+      },
+      "quantities": {
+        "data": [
+          {
+            "id": "4292068",
+            "type": "inventory-product-quantities"
+          }
+        ]
+      },
+      "supplier": {
+        "data": {
+          "id": "89590",
+          "type": "inventory-product-suppliers"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "additional-skus": [],
+      "barcode": null,
+      "commission-enabled": false,
+      "cost-price": 0,
+      "created-at": "2021-10-22T15:51:31.545752Z",
+      "deleted-at": null,
+      "description": null,
+      "full-price": 58,
+      "measure-type": "milliliters",
+      "measure-value": 95,
+      "name": "Matte Moisturiser SPF 32",
+      "online-sales-enabled": true,
+      "sales-enabled": true,
+      "short-description": null,
+      "sku": "MAT-04821",
+      "unlimited-stock": false,
+      "updated-at": "2023-09-08T11:27:01.067542Z"
+    },
+    "id": "4079428",
+    "type": "inventory-products",
+    "relationships": {
+      "brand": {
+        "data": {
+          "id": "219271",
+          "type": "inventory-product-brands"
+        }
+      },
+      "category": {
+        "data": {
+          "id": "229559",
+          "type": "inventory-product-categories"
+        }
+      },
+      "image-collection": {
+        "data": {
+          "id": "6a950160-e013-45c3-9839-025536d15439",
+          "type": "inventory-image-collections"
+        }
+      },
+      "ordered-amount": {
+        "data": {
+          "id": "4079428",
+          "type": "inventory-product-ordered-amounts"
+        }
+      },
+      "quantities": {
+        "data": [
+          {
+            "id": "4292747",
+            "type": "inventory-product-quantities"
+          }
+        ]
+      },
+      "supplier": {
+        "data": {
+          "id": "89590",
+          "type": "inventory-product-suppliers"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "additional-skus": [],
+      "barcode": null,
+      "commission-enabled": false,
+      "cost-price": 0,
+      "created-at": "2021-10-22T14:22:56.202182Z",
+      "deleted-at": null,
+      "description": null,
+      "full-price": 89,
+      "measure-type": "milliliters",
+      "measure-value": 30,
+      "name": "Total Retinol A Creme",
+      "online-sales-enabled": true,
+      "sales-enabled": true,
+      "short-description": null,
+      "sku": "TOT-86378",
+      "unlimited-stock": false,
+      "updated-at": "2023-07-07T16:39:42.051726Z"
+    },
+    "id": "4079060",
+    "type": "inventory-products",
+    "relationships": {
+      "brand": {
+        "data": {
+          "id": "219271",
+          "type": "inventory-product-brands"
+        }
+      },
+      "category": {
+        "data": {
+          "id": "229543",
+          "type": "inventory-product-categories"
+        }
+      },
+      "image-collection": {
+        "data": {
+          "id": "f1726c41-a199-4d5c-abaa-1c0780d2b3fe",
+          "type": "inventory-image-collections"
+        }
+      },
+      "ordered-amount": {
+        "data": {
+          "id": "4079060",
+          "type": "inventory-product-ordered-amounts"
+        }
+      },
+      "quantities": {
+        "data": [
+          {
+            "id": "4291432",
+            "type": "inventory-product-quantities"
+          }
+        ]
+      },
+      "supplier": {
+        "data": {
+          "id": "89590",
+          "type": "inventory-product-suppliers"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "additional-skus": [],
+      "barcode": null,
+      "commission-enabled": true,
+      "cost-price": null,
+      "created-at": "2023-04-05T15:06:47.964546Z",
+      "deleted-at": null,
+      "description": null,
+      "full-price": 40,
+      "measure-type": null,
+      "measure-value": null,
+      "name": "Hydra Sheet Mask - 5 pack",
+      "online-sales-enabled": false,
+      "sales-enabled": true,
+      "short-description": null,
+      "sku": null,
+      "unlimited-stock": false,
+      "updated-at": "2023-04-05T15:07:24.101649Z"
+    },
+    "id": "6229801",
+    "type": "inventory-products",
+    "relationships": {
+      "brand": {
+        "data": null
+      },
+      "category": {
+        "data": null
+      },
+      "image-collection": {
+        "data": {
+          "id": "0650243d-caee-49e9-b64f-62bdc8ca4525",
+          "type": "inventory-image-collections"
+        }
+      },
+      "ordered-amount": {
+        "data": {
+          "id": "6229801",
+          "type": "inventory-product-ordered-amounts"
+        }
+      },
+      "quantities": {
+        "data": [
+          {
+            "id": "13565711",
+            "type": "inventory-product-quantities"
+          }
+        ]
+      },
+      "supplier": {
+        "data": {
+          "id": "121309",
+          "type": "inventory-product-suppliers"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "additional-skus": [],
+      "barcode": null,
+      "commission-enabled": true,
+      "cost-price": null,
+      "created-at": "2023-04-05T15:05:43.510157Z",
+      "deleted-at": null,
+      "description": null,
+      "full-price": 8.5,
+      "measure-type": null,
+      "measure-value": null,
+      "name": "Hydra Sheet Mask x 1",
+      "online-sales-enabled": false,
+      "sales-enabled": true,
+      "short-description": null,
+      "sku": null,
+      "unlimited-stock": false,
+      "updated-at": "2023-04-05T15:05:43.510157Z"
+    },
+    "id": "6229795",
+    "type": "inventory-products",
+    "relationships": {
+      "brand": {
+        "data": null
+      },
+      "category": {
+        "data": null
+      },
+      "image-collection": {
+        "data": {
+          "id": "1f121fb6-bf5a-4431-98b7-6c3ecf239c2b",
+          "type": "inventory-image-collections"
+        }
+      },
+      "ordered-amount": {
+        "data": {
+          "id": "6229795",
+          "type": "inventory-product-ordered-amounts"
+        }
+      },
+      "quantities": {
+        "data": [
+          {
+            "id": "13565703",
+            "type": "inventory-product-quantities"
+          }
+        ]
+      },
+      "supplier": {
+        "data": null
+      }
+    }
+  },
+  {
+    "attributes": {
+      "additional-skus": [],
+      "barcode": null,
+      "commission-enabled": true,
+      "cost-price": 0,
+      "created-at": "2022-01-22T14:08:07.807267Z",
+      "deleted-at": null,
+      "description": null,
+      "full-price": 37,
+      "measure-type": "milliliters",
+      "measure-value": 30,
+      "name": "Mask Exfoliator",
+      "online-sales-enabled": true,
+      "sales-enabled": true,
+      "short-description": null,
+      "sku": null,
+      "unlimited-stock": false,
+      "updated-at": "2023-03-03T17:22:49.874946Z"
+    },
+    "id": "4375723",
+    "type": "inventory-products",
+    "relationships": {
+      "brand": {
+        "data": {
+          "id": "233246",
+          "type": "inventory-product-brands"
+        }
+      },
+      "category": {
+        "data": {
+          "id": "244264",
+          "type": "inventory-product-categories"
+        }
+      },
+      "image-collection": {
+        "data": {
+          "id": "29a7d672-df92-4a25-bc0d-dcc42834c361",
+          "type": "inventory-image-collections"
+        }
+      },
+      "ordered-amount": {
+        "data": {
+          "id": "4375723",
+          "type": "inventory-product-ordered-amounts"
+        }
+      },
+      "quantities": {
+        "data": [
+          {
+            "id": "5501606",
+            "type": "inventory-product-quantities"
+          }
+        ]
+      },
+      "supplier": {
+        "data": null
+      }
+    }
+  },
+  {
+    "attributes": {
+      "additional-skus": [],
+      "barcode": null,
+      "commission-enabled": true,
+      "cost-price": 0,
+      "created-at": "2022-01-22T14:05:55.738072Z",
+      "deleted-at": null,
+      "description": null,
+      "full-price": 58,
+      "measure-type": "milliliters",
+      "measure-value": 30,
+      "name": "Eye Cream Rejuvenating",
+      "online-sales-enabled": true,
+      "sales-enabled": true,
+      "short-description": null,
+      "sku": null,
+      "unlimited-stock": false,
+      "updated-at": "2023-03-03T17:22:27.647179Z"
+    },
+    "id": "4375720",
+    "type": "inventory-products",
+    "relationships": {
+      "brand": {
+        "data": {
+          "id": "233246",
+          "type": "inventory-product-brands"
+        }
+      },
+      "category": {
+        "data": {
+          "id": "244262",
+          "type": "inventory-product-categories"
+        }
+      },
+      "image-collection": {
+        "data": {
+          "id": "96ed3704-4efd-473a-a644-8b2773f7f798",
+          "type": "inventory-image-collections"
+        }
+      },
+      "ordered-amount": {
+        "data": {
+          "id": "4375720",
+          "type": "inventory-product-ordered-amounts"
+        }
+      },
+      "quantities": {
+        "data": [
+          {
+            "id": "5501586",
+            "type": "inventory-product-quantities"
+          }
+        ]
+      },
+      "supplier": {
+        "data": null
+      }
+    }
+  },
+  {
+    "attributes": {
+      "additional-skus": [],
+      "barcode": null,
+      "commission-enabled": true,
+      "cost-price": 0,
+      "created-at": "2022-01-22T14:16:37.074691Z",
+      "deleted-at": null,
+      "description": null,
+      "full-price": 53,
+      "measure-type": "milliliters",
+      "measure-value": 30,
+      "name": "Vitamin A Restore Serum",
+      "online-sales-enabled": true,
+      "sales-enabled": true,
+      "short-description": null,
+      "sku": null,
+      "unlimited-stock": false,
+      "updated-at": "2023-03-03T17:21:32.378420Z"
+    },
+    "id": "4375739",
+    "type": "inventory-products",
+    "relationships": {
+      "brand": {
+        "data": {
+          "id": "233246",
+          "type": "inventory-product-brands"
+        }
+      },
+      "category": {
+        "data": {
+          "id": "244271",
+          "type": "inventory-product-categories"
+        }
+      },
+      "image-collection": {
+        "data": {
+          "id": "a78099d1-d9cc-402a-9273-b110ed96c128",
+          "type": "inventory-image-collections"
+        }
+      },
+      "ordered-amount": {
+        "data": {
+          "id": "4375739",
+          "type": "inventory-product-ordered-amounts"
+        }
+      },
+      "quantities": {
+        "data": [
+          {
+            "id": "5501689",
+            "type": "inventory-product-quantities"
+          }
+        ]
+      },
+      "supplier": {
+        "data": null
+      }
+    }
+  },
+  {
+    "attributes": {
+      "additional-skus": [],
+      "barcode": null,
+      "commission-enabled": true,
+      "cost-price": 0,
+      "created-at": "2022-01-22T14:12:23.401094Z",
+      "deleted-at": null,
+      "description": null,
+      "full-price": 53,
+      "measure-type": "milliliters",
+      "measure-value": 50,
+      "name": "Vitamin C Prevent Serum",
+      "online-sales-enabled": true,
+      "sales-enabled": true,
+      "short-description": null,
+      "sku": null,
+      "unlimited-stock": false,
+      "updated-at": "2023-03-03T17:21:07.251398Z"
+    },
+    "id": "4375729",
+    "type": "inventory-products",
+    "relationships": {
+      "brand": {
+        "data": {
+          "id": "233246",
+          "type": "inventory-product-brands"
+        }
+      },
+      "category": {
+        "data": {
+          "id": "244268",
+          "type": "inventory-product-categories"
+        }
+      },
+      "image-collection": {
+        "data": {
+          "id": "96e572a1-f0cc-4875-8da4-cb33928497d3",
+          "type": "inventory-image-collections"
+        }
+      },
+      "ordered-amount": {
+        "data": {
+          "id": "4375729",
+          "type": "inventory-product-ordered-amounts"
+        }
+      },
+      "quantities": {
+        "data": [
+          {
+            "id": "5501641",
+            "type": "inventory-product-quantities"
+          }
+        ]
+      },
+      "supplier": {
+        "data": null
+      }
+    }
+  },
+  {
+    "attributes": {
+      "additional-skus": [],
+      "barcode": null,
+      "commission-enabled": true,
+      "cost-price": 0,
+      "created-at": "2022-01-22T14:04:09.960567Z",
+      "deleted-at": null,
+      "description": null,
+      "full-price": 53,
+      "measure-type": "milliliters",
+      "measure-value": 50,
+      "name": "Clear Skin Treatment",
+      "online-sales-enabled": true,
+      "sales-enabled": true,
+      "short-description": null,
+      "sku": null,
+      "unlimited-stock": false,
+      "updated-at": "2023-03-03T17:20:46.788428Z"
+    },
+    "id": "4375714",
+    "type": "inventory-products",
+    "relationships": {
+      "brand": {
+        "data": {
+          "id": "233246",
+          "type": "inventory-product-brands"
+        }
+      },
+      "category": {
+        "data": {
+          "id": "244261",
+          "type": "inventory-product-categories"
+        }
+      },
+      "image-collection": {
+        "data": {
+          "id": "8536aa1e-a15f-4e42-adce-7c05a1eeb178",
+          "type": "inventory-image-collections"
+        }
+      },
+      "ordered-amount": {
+        "data": {
+          "id": "4375714",
+          "type": "inventory-product-ordered-amounts"
+        }
+      },
+      "quantities": {
+        "data": [
+          {
+            "id": "5501571",
+            "type": "inventory-product-quantities"
+          }
+        ]
+      },
+      "supplier": {
+        "data": null
+      }
+    }
+  },
+  {
+    "attributes": {
+      "additional-skus": [],
+      "barcode": null,
+      "commission-enabled": true,
+      "cost-price": 0,
+      "created-at": "2022-10-24T09:56:20.087335Z",
+      "deleted-at": null,
+      "description": "Retinol Alternative \nSafe for use during pregnancy ",
+      "full-price": 69,
+      "measure-type": "milliliters",
+      "measure-value": 50,
+      "name": "Bakuchiol",
+      "online-sales-enabled": true,
+      "sales-enabled": true,
+      "short-description": null,
+      "sku": null,
+      "unlimited-stock": false,
+      "updated-at": "2023-03-03T17:20:22.898124Z"
+    },
+    "id": "5567896",
+    "type": "inventory-products",
+    "relationships": {
+      "brand": {
+        "data": {
+          "id": "233246",
+          "type": "inventory-product-brands"
+        }
+      },
+      "category": {
+        "data": {
+          "id": "244271",
+          "type": "inventory-product-categories"
+        }
+      },
+      "image-collection": {
+        "data": {
+          "id": "825fad73-727c-4a3e-9729-21a9084f4129",
+          "type": "inventory-image-collections"
+        }
+      },
+      "ordered-amount": {
+        "data": {
+          "id": "5567896",
+          "type": "inventory-product-ordered-amounts"
+        }
+      },
+      "quantities": {
+        "data": [
+          {
+            "id": "10297338",
+            "type": "inventory-product-quantities"
+          }
+        ]
+      },
+      "supplier": {
+        "data": null
+      }
+    }
+  },
+  {
+    "attributes": {
+      "additional-skus": [],
+      "barcode": null,
+      "commission-enabled": true,
+      "cost-price": 0,
+      "created-at": "2022-01-22T14:14:26.640149Z",
+      "deleted-at": null,
+      "description": null,
+      "full-price": 53,
+      "measure-type": "milliliters",
+      "measure-value": 50,
+      "name": "HYDRA Hyaluronic Acid Serum",
+      "online-sales-enabled": true,
+      "sales-enabled": true,
+      "short-description": null,
+      "sku": null,
+      "unlimited-stock": false,
+      "updated-at": "2023-03-03T17:19:16.399124Z"
+    },
+    "id": "4375735",
+    "type": "inventory-products",
+    "relationships": {
+      "brand": {
+        "data": {
+          "id": "233246",
+          "type": "inventory-product-brands"
+        }
+      },
+      "category": {
+        "data": {
+          "id": "244270",
+          "type": "inventory-product-categories"
+        }
+      },
+      "image-collection": {
+        "data": {
+          "id": "0fc966f9-83d8-4c49-885f-1106761f23d4",
+          "type": "inventory-image-collections"
+        }
+      },
+      "ordered-amount": {
+        "data": {
+          "id": "4375735",
+          "type": "inventory-product-ordered-amounts"
+        }
+      },
+      "quantities": {
+        "data": [
+          {
+            "id": "5501662",
+            "type": "inventory-product-quantities"
+          }
+        ]
+      },
+      "supplier": {
+        "data": null
+      }
+    }
+  },
+  {
+    "attributes": {
+      "additional-skus": [],
+      "barcode": null,
+      "commission-enabled": true,
+      "cost-price": 0,
+      "created-at": "2023-02-17T08:49:20.531198Z",
+      "deleted-at": null,
+      "description": null,
+      "full-price": 42,
+      "measure-type": null,
+      "measure-value": null,
+      "name": "Hydra Bronze",
+      "online-sales-enabled": false,
+      "sales-enabled": true,
+      "short-description": null,
+      "sku": null,
+      "unlimited-stock": false,
+      "updated-at": "2023-03-03T17:18:55.569423Z"
+    },
+    "id": "6009780",
+    "type": "inventory-products",
+    "relationships": {
+      "brand": {
+        "data": {
+          "id": "233246",
+          "type": "inventory-product-brands"
+        }
+      },
+      "category": {
+        "data": null
+      },
+      "image-collection": {
+        "data": {
+          "id": "601abb89-715b-4f0d-b68e-a0c7fdf6186e",
+          "type": "inventory-image-collections"
+        }
+      },
+      "ordered-amount": {
+        "data": {
+          "id": "6009780",
+          "type": "inventory-product-ordered-amounts"
+        }
+      },
+      "quantities": {
+        "data": [
+          {
+            "id": "12584085",
+            "type": "inventory-product-quantities"
+          }
+        ]
+      },
+      "supplier": {
+        "data": null
+      }
+    }
+  },
+  {
+    "attributes": {
+      "additional-skus": [],
+      "barcode": null,
+      "commission-enabled": true,
+      "cost-price": 0,
+      "created-at": "2022-01-22T13:50:59.418188Z",
+      "deleted-at": null,
+      "description": null,
+      "full-price": 53,
+      "measure-type": "milliliters",
+      "measure-value": 50,
+      "name": "Night Cream (Oily)",
+      "online-sales-enabled": true,
+      "sales-enabled": true,
+      "short-description": null,
+      "sku": null,
+      "unlimited-stock": false,
+      "updated-at": "2023-03-03T17:18:30.239495Z"
+    },
+    "id": "4375680",
+    "type": "inventory-products",
+    "relationships": {
+      "brand": {
+        "data": {
+          "id": "233246",
+          "type": "inventory-product-brands"
+        }
+      },
+      "category": {
+        "data": {
+          "id": "244257",
+          "type": "inventory-product-categories"
+        }
+      },
+      "image-collection": {
+        "data": {
+          "id": "1279d772-8c6e-4db2-aaf9-93618997518a",
+          "type": "inventory-image-collections"
+        }
+      },
+      "ordered-amount": {
+        "data": {
+          "id": "4375680",
+          "type": "inventory-product-ordered-amounts"
+        }
+      },
+      "quantities": {
+        "data": [
+          {
+            "id": "5501385",
+            "type": "inventory-product-quantities"
+          }
+        ]
+      },
+      "supplier": {
+        "data": null
+      }
+    }
+  },
+  {
+    "attributes": {
+      "additional-skus": [],
+      "barcode": null,
+      "commission-enabled": true,
+      "cost-price": 0,
+      "created-at": "2023-02-18T12:13:15.528088Z",
+      "deleted-at": null,
+      "description": null,
+      "full-price": 53,
+      "measure-type": "milliliters",
+      "measure-value": 50,
+      "name": "Night Cream (Dry)",
+      "online-sales-enabled": false,
+      "sales-enabled": true,
+      "short-description": null,
+      "sku": null,
+      "unlimited-stock": false,
+      "updated-at": "2023-03-03T17:18:17.354863Z"
+    },
+    "id": "6014714",
+    "type": "inventory-products",
+    "relationships": {
+      "brand": {
+        "data": {
+          "id": "233246",
+          "type": "inventory-product-brands"
+        }
+      },
+      "category": {
+        "data": null
+      },
+      "image-collection": {
+        "data": {
+          "id": "8498cac0-ec6d-4447-bb23-fb057ab8d5a3",
+          "type": "inventory-image-collections"
+        }
+      },
+      "ordered-amount": {
+        "data": {
+          "id": "6014714",
+          "type": "inventory-product-ordered-amounts"
+        }
+      },
+      "quantities": {
+        "data": [
+          {
+            "id": "12605580",
+            "type": "inventory-product-quantities"
+          }
+        ]
+      },
+      "supplier": {
+        "data": null
+      }
+    }
+  },
+  {
+    "attributes": {
+      "additional-skus": [],
+      "barcode": null,
+      "commission-enabled": true,
+      "cost-price": 0,
+      "created-at": "2022-01-22T13:55:18.879058Z",
+      "deleted-at": null,
+      "description": null,
+      "full-price": 37,
+      "measure-type": "milliliters",
+      "measure-value": 50,
+      "name": "Day Cream Moisturising SPF 50",
+      "online-sales-enabled": true,
+      "sales-enabled": true,
+      "short-description": null,
+      "sku": null,
+      "unlimited-stock": false,
+      "updated-at": "2023-03-03T17:17:47.112833Z"
+    },
+    "id": "4375691",
+    "type": "inventory-products",
+    "relationships": {
+      "brand": {
+        "data": {
+          "id": "233246",
+          "type": "inventory-product-brands"
+        }
+      },
+      "category": {
+        "data": {
+          "id": "244258",
+          "type": "inventory-product-categories"
+        }
+      },
+      "image-collection": {
+        "data": {
+          "id": "a66fbaa9-8eea-4ddd-9a8f-c8a6aa0f32f9",
+          "type": "inventory-image-collections"
+        }
+      },
+      "ordered-amount": {
+        "data": {
+          "id": "4375691",
+          "type": "inventory-product-ordered-amounts"
+        }
+      },
+      "quantities": {
+        "data": [
+          {
+            "id": "5501427",
+            "type": "inventory-product-quantities"
+          }
+        ]
+      },
+      "supplier": {
+        "data": null
+      }
+    }
+  },
+  {
+    "attributes": {
+      "additional-skus": [],
+      "barcode": null,
+      "commission-enabled": true,
+      "cost-price": 0,
+      "created-at": "2022-01-22T14:01:51.974325Z",
+      "deleted-at": null,
+      "description": null,
+      "full-price": 32,
+      "measure-type": "milliliters",
+      "measure-value": 100,
+      "name": "Cleanser Daily Foaming",
+      "online-sales-enabled": true,
+      "sales-enabled": true,
+      "short-description": null,
+      "sku": null,
+      "unlimited-stock": false,
+      "updated-at": "2023-03-03T17:16:08.716449Z"
+    },
+    "id": "4375708",
+    "type": "inventory-products",
+    "relationships": {
+      "brand": {
+        "data": {
+          "id": "233246",
+          "type": "inventory-product-brands"
+        }
+      },
+      "category": {
+        "data": {
+          "id": "244260",
+          "type": "inventory-product-categories"
+        }
+      },
+      "image-collection": {
+        "data": {
+          "id": "68bdd21f-9eab-4fcc-8972-de070c3c4e38",
+          "type": "inventory-image-collections"
+        }
+      },
+      "ordered-amount": {
+        "data": {
+          "id": "4375708",
+          "type": "inventory-product-ordered-amounts"
+        }
+      },
+      "quantities": {
+        "data": [
+          {
+            "id": "5501544",
+            "type": "inventory-product-quantities"
+          }
+        ]
+      },
+      "supplier": {
+        "data": null
+      }
+    }
+  },
+  {
+    "attributes": {
+      "additional-skus": [],
+      "barcode": null,
+      "commission-enabled": true,
+      "cost-price": 0,
+      "created-at": "2021-10-22T15:32:37.621835Z",
+      "deleted-at": null,
+      "description": null,
+      "full-price": 32,
+      "measure-type": "milliliters",
+      "measure-value": 7,
+      "name": "Sheer Pink Lip Enhancement",
+      "online-sales-enabled": true,
+      "sales-enabled": true,
+      "short-description": null,
+      "sku": "SHE-57998",
+      "unlimited-stock": false,
+      "updated-at": "2022-11-21T14:10:51.538857Z"
+    },
+    "id": "4079368",
+    "type": "inventory-products",
+    "relationships": {
+      "brand": {
+        "data": {
+          "id": "219271",
+          "type": "inventory-product-brands"
+        }
+      },
+      "category": {
+        "data": {
+          "id": "229554",
+          "type": "inventory-product-categories"
+        }
+      },
+      "image-collection": {
+        "data": {
+          "id": "efb93969-e997-4aeb-a26f-63f38c7cd036",
+          "type": "inventory-image-collections"
+        }
+      },
+      "ordered-amount": {
+        "data": {
+          "id": "4079368",
+          "type": "inventory-product-ordered-amounts"
+        }
+      },
+      "quantities": {
+        "data": [
+          {
+            "id": "4292497",
+            "type": "inventory-product-quantities"
+          }
+        ]
+      },
+      "supplier": {
+        "data": {
+          "id": "89590",
+          "type": "inventory-product-suppliers"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "additional-skus": [],
+      "barcode": null,
+      "commission-enabled": true,
+      "cost-price": 0,
+      "created-at": "2022-10-28T11:06:47.721156Z",
+      "deleted-at": null,
+      "description": "VITAL C facial cleanser\nVITAL C anti-aging serum\nPREVENTION+ ultimate protection moisturiser SPF 50",
+      "full-price": 134,
+      "measure-type": null,
+      "measure-value": null,
+      "name": "Hydrating + Nourishing Trio",
+      "online-sales-enabled": true,
+      "sales-enabled": true,
+      "short-description": null,
+      "sku": null,
+      "unlimited-stock": false,
+      "updated-at": "2022-11-21T14:01:05.489349Z"
+    },
+    "id": "5587110",
+    "type": "inventory-products",
+    "relationships": {
+      "brand": {
+        "data": {
+          "id": "219271",
+          "type": "inventory-product-brands"
+        }
+      },
+      "category": {
+        "data": {
+          "id": "306002",
+          "type": "inventory-product-categories"
+        }
+      },
+      "image-collection": {
+        "data": {
+          "id": "34488822-5e5b-455a-92b8-1544532418e1",
+          "type": "inventory-image-collections"
+        }
+      },
+      "ordered-amount": {
+        "data": {
+          "id": "5587110",
+          "type": "inventory-product-ordered-amounts"
+        }
+      },
+      "quantities": {
+        "data": [
+          {
+            "id": "10387128",
+            "type": "inventory-product-quantities"
+          }
+        ]
+      },
+      "supplier": {
+        "data": null
+      }
+    }
+  },
+  {
+    "attributes": {
+      "additional-skus": [],
+      "barcode": null,
+      "commission-enabled": true,
+      "cost-price": 0,
+      "created-at": "2022-10-28T10:58:10.423728Z",
+      "deleted-at": null,
+      "description": null,
+      "full-price": 93.5,
+      "measure-type": null,
+      "measure-value": null,
+      "name": "Hyaluronic Acid Serum & Bakuchiol Serum",
+      "online-sales-enabled": true,
+      "sales-enabled": true,
+      "short-description": null,
+      "sku": null,
+      "unlimited-stock": false,
+      "updated-at": "2022-11-21T14:00:17.023323Z"
+    },
+    "id": "5587084",
+    "type": "inventory-products",
+    "relationships": {
+      "brand": {
+        "data": {
+          "id": "233246",
+          "type": "inventory-product-brands"
+        }
+      },
+      "category": {
+        "data": {
+          "id": "305998",
+          "type": "inventory-product-categories"
+        }
+      },
+      "image-collection": {
+        "data": {
+          "id": "17d49c68-d1b6-4a2d-afe9-b5ada1479632",
+          "type": "inventory-image-collections"
+        }
+      },
+      "ordered-amount": {
+        "data": {
+          "id": "5587084",
+          "type": "inventory-product-ordered-amounts"
+        }
+      },
+      "quantities": {
+        "data": [
+          {
+            "id": "10386963",
+            "type": "inventory-product-quantities"
+          }
+        ]
+      },
+      "supplier": {
+        "data": null
+      }
+    }
+  },
+  {
+    "attributes": {
+      "additional-skus": [],
+      "barcode": null,
+      "commission-enabled": true,
+      "cost-price": 0,
+      "created-at": "2022-10-28T10:52:17.241091Z",
+      "deleted-at": null,
+      "description": "Oil & Milk Cleanser\nHydra Hyaluronic Acid Serum\nDay Cream SPF 50",
+      "full-price": 99,
+      "measure-type": null,
+      "measure-value": null,
+      "name": "The Trio (Oil & Milk)",
+      "online-sales-enabled": true,
+      "sales-enabled": true,
+      "short-description": null,
+      "sku": null,
+      "unlimited-stock": false,
+      "updated-at": "2022-11-21T13:59:54.956103Z"
+    },
+    "id": "5587065",
+    "type": "inventory-products",
+    "relationships": {
+      "brand": {
+        "data": {
+          "id": "233246",
+          "type": "inventory-product-brands"
+        }
+      },
+      "category": {
+        "data": {
+          "id": "305997",
+          "type": "inventory-product-categories"
+        }
+      },
+      "image-collection": {
+        "data": {
+          "id": "3f08f0e1-4ecb-41d8-8127-8a26d92bdfb2",
+          "type": "inventory-image-collections"
+        }
+      },
+      "ordered-amount": {
+        "data": {
+          "id": "5587065",
+          "type": "inventory-product-ordered-amounts"
+        }
+      },
+      "quantities": {
+        "data": [
+          {
+            "id": "10386846",
+            "type": "inventory-product-quantities"
+          }
+        ]
+      },
+      "supplier": {
+        "data": null
+      }
+    }
+  },
+  {
+    "attributes": {
+      "additional-skus": [],
+      "barcode": null,
+      "commission-enabled": true,
+      "cost-price": 0,
+      "created-at": "2022-10-28T10:54:57.731022Z",
+      "deleted-at": null,
+      "description": "Daily Foaming Cleanser\nHydra Hyaluronic Acid Serum\nDay Cream SPF 50",
+      "full-price": 99,
+      "measure-type": null,
+      "measure-value": null,
+      "name": "The Trio (Daily Foaming)",
+      "online-sales-enabled": true,
+      "sales-enabled": true,
+      "short-description": null,
+      "sku": null,
+      "unlimited-stock": false,
+      "updated-at": "2022-11-21T13:59:27.097779Z"
+    },
+    "id": "5587078",
+    "type": "inventory-products",
+    "relationships": {
+      "brand": {
+        "data": {
+          "id": "233246",
+          "type": "inventory-product-brands"
+        }
+      },
+      "category": {
+        "data": {
+          "id": "305997",
+          "type": "inventory-product-categories"
+        }
+      },
+      "image-collection": {
+        "data": {
+          "id": "f04b2c48-9a4e-4094-9a06-2ff4670e0282",
+          "type": "inventory-image-collections"
+        }
+      },
+      "ordered-amount": {
+        "data": {
+          "id": "5587078",
+          "type": "inventory-product-ordered-amounts"
+        }
+      },
+      "quantities": {
+        "data": [
+          {
+            "id": "10386926",
+            "type": "inventory-product-quantities"
+          }
+        ]
+      },
+      "supplier": {
+        "data": null
+      }
+    }
+  },
+  {
+    "attributes": {
+      "additional-skus": [],
+      "barcode": null,
+      "commission-enabled": true,
+      "cost-price": 0,
+      "created-at": "2022-10-28T12:26:18.341751Z",
+      "deleted-at": null,
+      "description": "VITAL C anti-aging serum\nORMEDIC lip enhancement complex\nI MASK hydrogel sheet mask",
+      "full-price": 33.5,
+      "measure-type": null,
+      "measure-value": null,
+      "name": "Hydrating Self-Care Trio",
+      "online-sales-enabled": true,
+      "sales-enabled": true,
+      "short-description": null,
+      "sku": null,
+      "unlimited-stock": false,
+      "updated-at": "2022-11-21T13:58:59.624502Z"
+    },
+    "id": "5587341",
+    "type": "inventory-products",
+    "relationships": {
+      "brand": {
+        "data": {
+          "id": "219271",
+          "type": "inventory-product-brands"
+        }
+      },
+      "category": {
+        "data": {
+          "id": "306026",
+          "type": "inventory-product-categories"
+        }
+      },
+      "image-collection": {
+        "data": {
+          "id": "ecc190f7-321c-41bd-b297-5bbf7f629c85",
+          "type": "inventory-image-collections"
+        }
+      },
+      "ordered-amount": {
+        "data": {
+          "id": "5587341",
+          "type": "inventory-product-ordered-amounts"
+        }
+      },
+      "quantities": {
+        "data": [
+          {
+            "id": "10388486",
+            "type": "inventory-product-quantities"
+          }
+        ]
+      },
+      "supplier": {
+        "data": null
+      }
+    }
+  },
+  {
+    "attributes": {
+      "additional-skus": [],
+      "barcode": null,
+      "commission-enabled": true,
+      "cost-price": 0,
+      "created-at": "2022-10-28T11:21:39.728392Z",
+      "deleted-at": null,
+      "description": "ILUMA exfoliating cleanser\nILUMA facial illuminator\nVITAL C repair crème",
+      "full-price": 167,
+      "measure-type": null,
+      "measure-value": null,
+      "name": "Youthful Skin Set",
+      "online-sales-enabled": true,
+      "sales-enabled": true,
+      "short-description": null,
+      "sku": null,
+      "unlimited-stock": false,
+      "updated-at": "2022-11-21T13:58:30.173816Z"
+    },
+    "id": "5587179",
+    "type": "inventory-products",
+    "relationships": {
+      "brand": {
+        "data": {
+          "id": "219271",
+          "type": "inventory-product-brands"
+        }
+      },
+      "category": {
+        "data": {
+          "id": "306007",
+          "type": "inventory-product-categories"
+        }
+      },
+      "image-collection": {
+        "data": {
+          "id": "e1593407-9ee0-4959-b75a-2b6004376497",
+          "type": "inventory-image-collections"
+        }
+      },
+      "ordered-amount": {
+        "data": {
+          "id": "5587179",
+          "type": "inventory-product-ordered-amounts"
+        }
+      },
+      "quantities": {
+        "data": [
+          {
+            "id": "10387419",
+            "type": "inventory-product-quantities"
+          }
+        ]
+      },
+      "supplier": {
+        "data": null
+      }
+    }
+  },
+  {
+    "attributes": {
+      "additional-skus": [],
+      "barcode": null,
+      "commission-enabled": true,
+      "cost-price": 0,
+      "created-at": "2021-10-22T15:30:45.145704Z",
+      "deleted-at": null,
+      "description": null,
+      "full-price": 33.5,
+      "measure-type": "milliliters",
+      "measure-value": 7,
+      "name": "Lip Enhancement Complex",
+      "online-sales-enabled": true,
+      "sales-enabled": true,
+      "short-description": null,
+      "sku": "LIP-88987",
+      "unlimited-stock": false,
+      "updated-at": "2022-11-21T13:56:47.478000Z"
+    },
+    "id": "4079359",
+    "type": "inventory-products",
+    "relationships": {
+      "brand": {
+        "data": {
+          "id": "219271",
+          "type": "inventory-product-brands"
+        }
+      },
+      "category": {
+        "data": {
+          "id": "229554",
+          "type": "inventory-product-categories"
+        }
+      },
+      "image-collection": {
+        "data": {
+          "id": "4d947f9a-f24b-4f5d-bc4e-3e16b4d152be",
+          "type": "inventory-image-collections"
+        }
+      },
+      "ordered-amount": {
+        "data": {
+          "id": "4079359",
+          "type": "inventory-product-ordered-amounts"
+        }
+      },
+      "quantities": {
+        "data": [
+          {
+            "id": "4292460",
+            "type": "inventory-product-quantities"
+          }
+        ]
+      },
+      "supplier": {
+        "data": {
+          "id": "89590",
+          "type": "inventory-product-suppliers"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "additional-skus": [],
+      "barcode": null,
+      "commission-enabled": true,
+      "cost-price": 0,
+      "created-at": "2022-10-28T11:00:01.289223Z",
+      "deleted-at": null,
+      "description": null,
+      "full-price": 39,
+      "measure-type": null,
+      "measure-value": null,
+      "name": "Oil and Milk Cleanser & Cleansing Mitt",
+      "online-sales-enabled": true,
+      "sales-enabled": true,
+      "short-description": null,
+      "sku": null,
+      "unlimited-stock": false,
+      "updated-at": "2022-11-21T13:56:04.037549Z"
+    },
+    "id": "5587088",
+    "type": "inventory-products",
+    "relationships": {
+      "brand": {
+        "data": {
+          "id": "233246",
+          "type": "inventory-product-brands"
+        }
+      },
+      "category": {
+        "data": {
+          "id": "306000",
+          "type": "inventory-product-categories"
+        }
+      },
+      "image-collection": {
+        "data": {
+          "id": "6d40d260-10d9-4d14-9a16-ad334d19a63c",
+          "type": "inventory-image-collections"
+        }
+      },
+      "ordered-amount": {
+        "data": {
+          "id": "5587088",
+          "type": "inventory-product-ordered-amounts"
+        }
+      },
+      "quantities": {
+        "data": [
+          {
+            "id": "10386991",
+            "type": "inventory-product-quantities"
+          }
+        ]
+      },
+      "supplier": {
+        "data": null
+      }
+    }
+  },
+  {
+    "attributes": {
+      "additional-skus": [],
+      "barcode": null,
+      "commission-enabled": true,
+      "cost-price": 0,
+      "created-at": "2022-11-03T17:19:33.354497Z",
+      "deleted-at": null,
+      "description": "Cleanser + Plump Duo",
+      "full-price": 40,
+      "measure-type": null,
+      "measure-value": null,
+      "name": "Botanical Boosters",
+      "online-sales-enabled": true,
+      "sales-enabled": true,
+      "short-description": null,
+      "sku": null,
+      "unlimited-stock": false,
+      "updated-at": "2022-11-21T13:51:59.819887Z"
+    },
+    "id": "5615241",
+    "type": "inventory-products",
+    "relationships": {
+      "brand": {
+        "data": {
+          "id": "219271",
+          "type": "inventory-product-brands"
+        }
+      },
+      "category": {
+        "data": {
+          "id": "229554",
+          "type": "inventory-product-categories"
+        }
+      },
+      "image-collection": {
+        "data": {
+          "id": "ff996b26-c29d-462c-b5a1-125d99347528",
+          "type": "inventory-image-collections"
+        }
+      },
+      "ordered-amount": {
+        "data": {
+          "id": "5615241",
+          "type": "inventory-product-ordered-amounts"
+        }
+      },
+      "quantities": {
+        "data": [
+          {
+            "id": "10518986",
+            "type": "inventory-product-quantities"
+          }
+        ]
+      },
+      "supplier": {
+        "data": null
+      }
+    }
+  },
+  {
+    "attributes": {
+      "additional-skus": [],
+      "barcode": null,
+      "commission-enabled": true,
+      "cost-price": 0,
+      "created-at": "2022-10-28T11:04:00.734165Z",
+      "deleted-at": null,
+      "description": "ORMEDIC facial cleanser\nILUMA intense brightening serum\nPREVENTION+ matte moisturiser SPF 30",
+      "full-price": 111,
+      "measure-type": null,
+      "measure-value": null,
+      "name": "Radiance Power Trio",
+      "online-sales-enabled": true,
+      "sales-enabled": true,
+      "short-description": null,
+      "sku": null,
+      "unlimited-stock": false,
+      "updated-at": "2022-11-21T13:51:22.390647Z"
+    },
+    "id": "5587098",
+    "type": "inventory-products",
+    "relationships": {
+      "brand": {
+        "data": {
+          "id": "219271",
+          "type": "inventory-product-brands"
+        }
+      },
+      "category": {
+        "data": {
+          "id": "306001",
+          "type": "inventory-product-categories"
+        }
+      },
+      "image-collection": {
+        "data": {
+          "id": "a6dceb90-a692-4517-8cdc-b5b17ab365b6",
+          "type": "inventory-image-collections"
+        }
+      },
+      "ordered-amount": {
+        "data": {
+          "id": "5587098",
+          "type": "inventory-product-ordered-amounts"
+        }
+      },
+      "quantities": {
+        "data": [
+          {
+            "id": "10387059",
+            "type": "inventory-product-quantities"
+          }
+        ]
+      },
+      "supplier": {
+        "data": null
+      }
+    }
+  },
+  {
+    "attributes": {
+      "additional-skus": [],
+      "barcode": null,
+      "commission-enabled": false,
+      "cost-price": null,
+      "created-at": "2021-10-22T15:55:16.384149Z",
+      "deleted-at": null,
+      "description": null,
+      "full-price": 30,
+      "measure-type": "milliliters",
+      "measure-value": 7,
+      "name": "Daily Lip Enhancement SPF 15",
+      "online-sales-enabled": true,
+      "sales-enabled": true,
+      "short-description": null,
+      "sku": "DAI-45775",
+      "unlimited-stock": false,
+      "updated-at": "2022-11-21T13:37:25.159827Z"
+    },
+    "id": "4079446",
+    "type": "inventory-products",
+    "relationships": {
+      "brand": {
+        "data": {
+          "id": "219271",
+          "type": "inventory-product-brands"
+        }
+      },
+      "category": {
+        "data": {
+          "id": "229559",
+          "type": "inventory-product-categories"
+        }
+      },
+      "image-collection": {
+        "data": {
+          "id": "8f2aafe5-463f-493a-991e-014cb91a65a1",
+          "type": "inventory-image-collections"
+        }
+      },
+      "ordered-amount": {
+        "data": {
+          "id": "4079446",
+          "type": "inventory-product-ordered-amounts"
+        }
+      },
+      "quantities": {
+        "data": [
+          {
+            "id": "4292796",
+            "type": "inventory-product-quantities"
+          }
+        ]
+      },
+      "supplier": {
+        "data": {
+          "id": "89590",
+          "type": "inventory-product-suppliers"
+        }
+      }
+    }
+  }
+]

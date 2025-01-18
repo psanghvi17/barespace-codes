@@ -1,0 +1,54 @@
+[
+    {
+      "attributes": {
+        "created-at": "2021-10-22T14:09:59.499010Z",
+        "deleted-at": null,
+        "description": null,
+        "email": null,
+        "first-name": null,
+        "last-name": null,
+        "mobile-number": null,
+        "name": "Renaissance Products Ltd",
+        "telephone-number": null,
+        "updated-at": "2021-10-22T14:09:59.499010Z",
+        "use-postal-address": false,
+        "website": null
+      },
+      "id": "89590",
+      "type": "inventory-product-suppliers",
+      "relationships": {
+        "product-count": {
+          "data": {
+            "id": "89590",
+            "type": "inventory-supplier-product-count"
+          }
+        }
+      }
+    },
+    {
+      "attributes": {
+        "created-at": "2022-11-21T13:29:28.436715Z",
+        "deleted-at": null,
+        "description": null,
+        "email": null,
+        "first-name": null,
+        "last-name": null,
+        "mobile-number": null,
+        "name": "Skin Formulas",
+        "telephone-number": null,
+        "updated-at": "2022-11-21T13:29:28.436715Z",
+        "use-postal-address": false,
+        "website": null
+      },
+      "id": "121309",
+      "type": "inventory-product-suppliers",
+      "relationships": {
+        "product-count": {
+          "data": {
+            "id": "121309",
+            "type": "inventory-supplier-product-count"
+          }
+        }
+      }
+    }
+  ]

@@ -1,0 +1,223 @@
+Name,Service,Menu,Description,Duration,Price,Extra Time,Staff,Staff 2,Online
+Gents cut ,Men's Haircut,Martha services,,60min,18,,Martha Alice,,TRUE
+Olaplex Hydrating Mask ,Hair Treatment,Martha services,,5min,6,,Martha Alice,,TRUE
+Olaplex stand alone ,Hair Treatment,Martha services,,20min,30,15min,Martha Alice,,TRUE
+Olaplex in Colour ,Hair Treatment,Martha services,,5min,18.5,10min,Martha Alice,,TRUE
+Colour Correction ,Hair Coloring,Martha services,,60min,70,45min,Martha Alice,,TRUE
+Face framing / Scandi ,Hair Coloring,Martha services,,30min,26,30min,Martha Alice,,TRUE
+Creative colour ,Hair Coloring,Martha services,,60min,65,45min,Martha Alice,,TRUE
+Undertone slices ,Hair Coloring,Martha services,,30min,25,45min,Martha Alice,,TRUE
+Full head Foils,Hair Coloring,Martha services,,60min,60,45min,Martha Alice,,TRUE
+Partial Foils ,Hair Coloring,Martha services,,45min,50,45min,Martha Alice,,TRUE
+Toner,Hair Coloring,Martha services,,15min,18.5,15min,Martha Alice,,TRUE
+Semi permanent ,Hair Coloring,Martha services,,30min,40,45min,Martha Alice,,TRUE
+Full head colour ,Hair Coloring,Martha services,,45min,60,45min,Martha Alice,,TRUE
+Root retouch ,Hair Coloring,Martha services,,30min,46,45min,Martha Alice,,TRUE
+Finish,Hair Styling,Martha services,Blowdry,30min,28,,Martha Alice,,TRUE
+Fringe Trim ,Women's Haircut,Martha services,,5min,6,,Martha Alice,,TRUE
+Restyle ,Women's Haircut,Martha services,,60min,46,,Martha Alice,,TRUE
+Kids Cut,Children's Haircut,Martha services,,30min,27.5,,Martha Alice,,TRUE
+Wet / Dry Cut,Women's Haircut,Martha services,,30min,32,,Martha Alice,,TRUE
+Cut & Finish ,Women's Haircut,Martha services,,45min,38,,Martha Alice,,TRUE
+Olaplex ,Hair Treatment,Phoebe services,,5min,16.5,10min,Phoebe Salvin,,TRUE
+KeraStraight KeraStraight, ,Phoebe services,,30min,0,45min,Phoebe Salvin,,FALSE
+KeraStraight straightening KeraStraight, ,Phoebe services,,60min,150,,Phoebe Salvin,,TRUE
+KeraStraight straightening,Permanent Hair Straightening,Phoebe services,,60min,150,,Phoebe Salvin,,TRUE
+KeraStraight ,Permanent Hair Straightening,Phoebe services,,30min,0,45min,Phoebe Salvin,,TRUE
+Semi ,Hair Coloring,Phoebe services,,30min,38.5,45min,Phoebe Salvin,,TRUE
+Toner ,Hair Coloring,Phoebe services,,15min,18.5,15min,Phoebe Salvin,,TRUE
+Full head colour ,Hair Coloring,Phoebe services,,30min,55,45min,Phoebe Salvin,,TRUE
+Root retouch ,Hair Coloring,Phoebe services,,30min,42.9,45min,Phoebe Salvin,,TRUE
+Half head highlights ,Hair Coloring,Phoebe services,,45min,59.5,45min,Phoebe Salvin,,TRUE
+Full head highlights ,Hair Coloring,Phoebe services,,60min,69.5,45min,Phoebe Salvin,,TRUE
+Creative colour ,Hair Coloring,Phoebe services,,60min,70,45min,Phoebe Salvin,,TRUE
+Blowdry ,Blow Dry,Phoebe services,,30min,30,,Phoebe Salvin,,TRUE
+Wet / Dry cut ,Women's Haircut,Phoebe services,,30min,32,,Phoebe Salvin,,TRUE
+Restyle ,Women's Haircut,Phoebe services,,60min,48.5,,Phoebe Salvin,,TRUE
+Cut & Blowdry ,Women's Haircut,Phoebe services,,50min,41,,Phoebe Salvin,,TRUE
+Balayage Balayage package , ,Yasmin services,,120min,65,,Yasmin Jaan,,FALSE
+Toner Balayage package , ,Yasmin services,,20min,20,,Yasmin Jaan,,FALSE
+Cut & Blowdry Balayage package , ,Yasmin services,,60min,37.5,,Yasmin Jaan,,FALSE
+Half head highlights / babylights Half head highlights / babylights package, ,Yasmin services,,60min,50,,Yasmin Jaan,,FALSE
+Toner Half head highlights / babylights package, ,Yasmin services,,20min,20,,Yasmin Jaan,,FALSE
+Cut & Blowdry Half head highlights / babylights package, ,Yasmin services,,60min,37.5,,Yasmin Jaan,,FALSE
+Full head highlights / babylights Full head highlights / babylights package, ,Yasmin services,,105min,60,,Yasmin Jaan,,FALSE
+Toner Full head highlights / babylights package, ,Yasmin services,,20min,20,,Yasmin Jaan,,FALSE
+Cut & Blowdry Full head highlights / babylights package, ,Yasmin services,,60min,37.5,,Yasmin Jaan,,FALSE
+Balayage ,Hair Coloring,Yasmin services,,120min,65,,Anna Hibberd,,FALSE
+Half head highlights / babylights,Hair Coloring,Yasmin services,,60min,50,,Anna Hibberd,,FALSE
+Full head highlights / babylights,Hair Coloring,Yasmin services,,105min,60,,Anna Hibberd,,FALSE
+Toner ,Hair Coloring,Yasmin services,,20min,20,,Anna Hibberd,,FALSE
+Root retouch,Hair Coloring,Yasmin services,,30min,37,,Anna Hibberd,,FALSE
+Full head colour ,Hair Coloring,Yasmin services,,30min,50,,Anna Hibberd,,FALSE
+Curls ,Hair Styling,Yasmin services,,20min,15,,Anna Hibberd,,TRUE
+Blowdry,Blow Dry,Yasmin services,,45min,20,,Anna Hibberd,,TRUE
+Cut & Blowdry ,Women's Haircut,Yasmin services,(Below shoulder length only),60min,37.5,,Anna Hibberd,,TRUE
+Curly Kids Cut & Blowout,Curly Haircut,Curly Girls, 8 to 16 years old ,45min,27.5,,Anna Hibberd,,TRUE
+Curly Kids Cut & Blowout ,Curly Haircut,Curly Girls,Up to 7 years old ,30min,17.5,,Anna Hibberd,,TRUE
+Cut / Clense & Blowout ,Curly Haircut,Curly Girls,,75min,56,,Anna Hibberd,,TRUE
+Fanola,Hair Coloring,Colouring Services,Blue Shampoo ,5min,6,,Anna Hibberd,Phoebe Salvin,TRUE
+Creative colour (root retouch & highlights) Creative colour with Cut & Blowdry, ,Colouring Services,"Creative colour (roots & highlights) including Toner / Olaplex Treatment / Cut & Blowdry
+*New clients require a patch test 48hours  before your appointment, please book a free consultation to receive this service*",60min,68,45min,,,TRUE
+Toner Creative colour with Cut & Blowdry, ,Colouring Services,"Creative colour (roots & highlights) including Toner / Olaplex Treatment / Cut & Blowdry
+*New clients require a patch test 48hours  before your appointment, please book a free consultation to receive this service*",15min,19.5,,,,TRUE
+Olaplex in colour service Creative colour with Cut & Blowdry, ,Colouring Services,"Creative colour (roots & highlights) including Toner / Olaplex Treatment / Cut & Blowdry
+*New clients require a patch test 48hours  before your appointment, please book a free consultation to receive this service*",5min,19.5,5min,,,TRUE
+Cut & Blow Dry Creative colour with Cut & Blowdry, ,Colouring Services,"Creative colour (roots & highlights) including Toner / Olaplex Treatment / Cut & Blowdry
+*New clients require a patch test 48hours  before your appointment, please book a free consultation to receive this service*",45min,42.5,,,,TRUE
+Full head colour Full head Colour with Blowdry , ,Colouring Services,"Full head Colour including Olaplex Treatment & Blowdry 
+
+*New clients require a patch test 48hours  before your appointment, please book a free consultation to receive this service*",30min,79,45min,,,TRUE
+Olaplex in colour service Full head Colour with Blowdry , ,Colouring Services,"Full head Colour including Olaplex Treatment & Blowdry 
+
+*New clients require a patch test 48hours  before your appointment, please book a free consultation to receive this service*",5min,19.5,5min,,,TRUE
+Blow Dry Full head Colour with Blowdry , ,Colouring Services,"Full head Colour including Olaplex Treatment & Blowdry 
+
+*New clients require a patch test 48hours  before your appointment, please book a free consultation to receive this service*",30min,30,,,,TRUE
+Full head colour Full head Colour with Cut & Blowdry , ,Colouring Services,"Full head Colour including Olaplex Treatment / Cut & Blowdry
+
+*New clients require a patch test 48hours  before your appointment, please book a free consultation to receive this service*",30min,79,45min,,,TRUE
+Olaplex in colour service Full head Colour with Cut & Blowdry , ,Colouring Services,"Full head Colour including Olaplex Treatment / Cut & Blowdry
+
+*New clients require a patch test 48hours  before your appointment, please book a free consultation to receive this service*",5min,19.5,5min,,,TRUE
+Cut & Blow Dry Full head Colour with Cut & Blowdry , ,Colouring Services,"Full head Colour including Olaplex Treatment / Cut & Blowdry
+
+*New clients require a patch test 48hours  before your appointment, please book a free consultation to receive this service*",45min,42.5,,,,TRUE
+Face framing Face framing with Blowdry , ,Colouring Services,"Face framing including Toner / Olaplex Treatment & Blowdry
+
+*New clients require a patch test 48hours  before your appointment, please book a free consultation to receive this service*",30min,43,,,,TRUE
+Toner Face framing with Blowdry , ,Colouring Services,"Face framing including Toner / Olaplex Treatment & Blowdry
+
+*New clients require a patch test 48hours  before your appointment, please book a free consultation to receive this service*",15min,19.5,,,,TRUE
+Olaplex in colour service Face framing with Blowdry , ,Colouring Services,"Face framing including Toner / Olaplex Treatment & Blowdry
+
+*New clients require a patch test 48hours  before your appointment, please book a free consultation to receive this service*",5min,19.5,,,,TRUE
+Blow Dry Face framing with Blowdry , ,Colouring Services,"Face framing including Toner / Olaplex Treatment & Blowdry
+
+*New clients require a patch test 48hours  before your appointment, please book a free consultation to receive this service*",30min,30,,,,TRUE
+Face framing Face framing with Cut & Blowdry , ,Colouring Services,"Face framing including Toner / Olaplex Treatment / Cut & Blowdry
+
+*New clients require a patch test 48hours  before your appointment, please book a free consultation to receive this service*",30min,43,,,,TRUE
+Toner Face framing with Cut & Blowdry , ,Colouring Services,"Face framing including Toner / Olaplex Treatment / Cut & Blowdry
+
+*New clients require a patch test 48hours  before your appointment, please book a free consultation to receive this service*",15min,19.5,,,,TRUE
+Olaplex in colour service Face framing with Cut & Blowdry , ,Colouring Services,"Face framing including Toner / Olaplex Treatment / Cut & Blowdry
+
+*New clients require a patch test 48hours  before your appointment, please book a free consultation to receive this service*",5min,19.5,5min,,,TRUE
+Cut & Blow Dry Face framing with Cut & Blowdry , ,Colouring Services,"Face framing including Toner / Olaplex Treatment / Cut & Blowdry
+
+*New clients require a patch test 48hours  before your appointment, please book a free consultation to receive this service*",45min,42.5,,,,TRUE
+Half head highlights Half head Highlights with Cut & Blowdry, ,Colouring Services,"Half head Highlights including Toner / Olaplex Treatment / Cut and Blowdry
+
+*New clients require a patch test 48hours  before your appointment, please book a free consultation to receive this service*",50min,60,45min,,,TRUE
+Toner Half head Highlights with Cut & Blowdry, ,Colouring Services,"Half head Highlights including Toner / Olaplex Treatment / Cut and Blowdry
+
+*New clients require a patch test 48hours  before your appointment, please book a free consultation to receive this service*",15min,19.5,,,,TRUE
+Olaplex in colour service Half head Highlights with Cut & Blowdry, ,Colouring Services,"Half head Highlights including Toner / Olaplex Treatment / Cut and Blowdry
+
+*New clients require a patch test 48hours  before your appointment, please book a free consultation to receive this service*",5min,19.5,5min,,,TRUE
+Cut & Blow Dry Half head Highlights with Cut & Blowdry, ,Colouring Services,"Half head Highlights including Toner / Olaplex Treatment / Cut and Blowdry
+
+*New clients require a patch test 48hours  before your appointment, please book a free consultation to receive this service*",45min,42.5,,,,TRUE
+Root retouch Roots with Blowdry, ,Colouring Services,"Root retouch including Olaplex Treatment / Cut & Blowdry
+
+*New clients require a patch test 48hours  before your appointment, please book a free consultation to receive this service*",15min,44.5,45min,,,TRUE
+Olaplex in colour service Roots with Blowdry, ,Colouring Services,"Root retouch including Olaplex Treatment / Cut & Blowdry
+
+*New clients require a patch test 48hours  before your appointment, please book a free consultation to receive this service*",5min,19.5,5min,,,TRUE
+Blow Dry Roots with Blowdry, ,Colouring Services,"Root retouch including Olaplex Treatment / Cut & Blowdry
+
+*New clients require a patch test 48hours  before your appointment, please book a free consultation to receive this service*",30min,30,,,,TRUE
+Root retouch Roots with Cut & Blowdry, ,Colouring Services,"Root retouch including Olaplex Treatment  / Cut & Blowdry
+
+*New clients require a patch test 48hours  before your appointment, please book a free consultation to receive this service*",15min,44.5,45min,,,TRUE
+Olaplex in colour service Roots with Cut & Blowdry, ,Colouring Services,"Root retouch including Olaplex Treatment  / Cut & Blowdry
+
+*New clients require a patch test 48hours  before your appointment, please book a free consultation to receive this service*",5min,19.5,5min,,,TRUE
+Cut & Blow Dry Roots with Cut & Blowdry, ,Colouring Services,"Root retouch including Olaplex Treatment  / Cut & Blowdry
+
+*New clients require a patch test 48hours  before your appointment, please book a free consultation to receive this service*",45min,42.5,,,,TRUE
+Full head highlights/babylights Full head Highlights &  Blowdry, ,Colouring Services,"Full head Highlight including Toner / Olaplex Treatment and Blowdry
+
+*New clients require a patch test 48hours  before your appointment, please book a free consultation to receive this service*",60min,70,45min,,,TRUE
+Toner Full head Highlights and Blowdry, ,Colouring Services,"Full head Highlight including Toner / Olaplex Treatment and Blowdry
+
+*New clients require a patch test 48hours  before your appointment, please book a free consultation to receive this service*",15min,19.5,,,,TRUE
+Olaplex in colour service Full head Highlights & Blowdry, ,Colouring Services,"Full head Highlight including Toner / Olaplex Treatment and Blowdry
+
+*New clients require a patch test 48hours  before your appointment, please book a free consultation to receive this service*",5min,19.5,5min,,,TRUE
+Blow Dry Full head Highlights & Blowdry, ,Colouring Services,"Full head Highlight including Toner / Olaplex Treatment and Blowdry
+
+*New clients require a patch test 48hours  before your appointment, please book a free consultation to receive this service*",30min,30,,,,TRUE
+Full head highlights/babylights Full head of Highlights including Cut & Blowdry, ,Colouring Services,"Full head of Highlights including Toner / Olaplex Treatment  / Cut & Blowdry
+
+*New clients require a patch test 48hours  before your appointment, please book a free consultation to receive this service*",60min,70,,,,TRUE
+Toner Full head of Highlights including Cut & Blowdry, ,Colouring Services,"Full head of Highlights including Toner / Olaplex Treatment  / Cut & Blowdry
+
+*New clients require a patch test 48hours  before your appointment, please book a free consultation to receive this service*",15min,19.5,,,,TRUE
+Olaplex in colour service Full head of Highlights including Cut & Blowdry, ,Colouring Services,"Full head of Highlights including Toner / Olaplex Treatment  / Cut & Blowdry
+
+*New clients require a patch test 48hours  before your appointment, please book a free consultation to receive this service*",5min,19.5,,,,TRUE
+Cut & Blow Dry Full head of Highlights including Cut & Blowdry, ,Colouring Services,"Full head of Highlights including Toner / Olaplex Treatment  / Cut & Blowdry
+
+*New clients require a patch test 48hours  before your appointment, please book a free consultation to receive this service*",45min,42.5,,,,TRUE
+Balayage Balayage with Blowdry  , ,Colouring Services,"Balayage including Toner / Olaplex Treatment & Blowdry 
+
+*New clients require a patch test 48hours  before your appointment, please book a free consultation to receive this service*",60min,85,45min,,,TRUE
+Toner Balayage with Blowdry  , ,Colouring Services,"Balayage including Toner / Olaplex Treatment & Blowdry 
+
+*New clients require a patch test 48hours  before your appointment, please book a free consultation to receive this service*",15min,19.5,,,,TRUE
+Olaplex in colour service Balayage with Blowdry  , ,Colouring Services,"Balayage including Toner / Olaplex Treatment & Blowdry 
+
+*New clients require a patch test 48hours  before your appointment, please book a free consultation to receive this service*",5min,19.5,5min,,,TRUE
+Blow Dry Balayage with Blowdry  , ,Colouring Services,"Balayage including Toner / Olaplex Treatment & Blowdry 
+
+*New clients require a patch test 48hours  before your appointment, please book a free consultation to receive this service*",30min,30,,,,TRUE
+Balayage Balayage with Cut & Blowdry  , ,Colouring Services," Balayage including Toner / Olaplex Treatment / Cut & Blowdry
+
+*New clients require a patch test 48hours  before your appointment, please book a free consultation to receive this service*
+",60min,85,45min,,,TRUE
+Toner Balayage with Cut & Blowdry  , ,Colouring Services," Balayage including Toner / Olaplex Treatment / Cut & Blowdry
+
+*New clients require a patch test 48hours  before your appointment, please book a free consultation to receive this service*
+",15min,19.5,,,,TRUE
+Olaplex in colour service Balayage with Cut & Blowdry  , ,Colouring Services," Balayage including Toner / Olaplex Treatment / Cut & Blowdry
+
+*New clients require a patch test 48hours  before your appointment, please book a free consultation to receive this service*
+",5min,19.5,5min,,,TRUE
+Cut & Blow Dry Balayage with Cut & Blowdry  , ,Colouring Services," Balayage including Toner / Olaplex Treatment / Cut & Blowdry
+
+*New clients require a patch test 48hours  before your appointment, please book a free consultation to receive this service*
+",45min,42.5,,,,TRUE
+Kerastraight KeraStraight Treatment , ,Kerastraight,KeraStraight smoothing treatment ,45min,155,45min,,,TRUE
+Kerastraight KeraStraight Treatment , ,Kerastraight,KeraStraight smoothing treatment ,90min,0,,,,TRUE
+Kerastraight,Hair Braiding,Kerastraight,Smoothing treatment ,90min,0,,Anna Hibberd,,FALSE
+Kerastraight ,Permanent Hair Straightening,Kerastraight,,45min,155,45min,Anna Hibberd,,FALSE
+Olaplex in colour service,Hair Coloring,OLAPLEX,,5min,19.5,5min,Anna Hibberd,,FALSE
+Olaplex stand alone treatment & Blowdry,Hair Treatment,OLAPLEX,"Olaplex stand alone treatment including Blowdry
+",60min,48.5,,Anna Hibberd,,TRUE
+Children's Wet / Dry Trim,Children's Haircut,Children,,20min,14.5,,Anna Hibberd,,TRUE
+Children's Cut & Blow Dry,Children's Haircut,Children,,30min,25,,Anna Hibberd,,TRUE
+VALENTINES BLOW DRY WITH EXTENSIONS,Blow Dry,Hair Styling,Valentines blow dry with extensions,45min,25,,Anna Hibberd,,FALSE
+VALENTINES BLOW DRY,Blow Dry,Hair Styling,15 valentines blow dry,30min,15,,Anna Hibberd,,FALSE
+Fringe trim,Women's Haircut,Hair Styling,Fringe trim ,10min,8.5,,Anna Hibberd,Phoebe Salvin,TRUE
+Restyle ,Women's Haircut,Hair Styling,"Including wash, cut & blowdry ",60min,49.5,,Anna Hibberd,,TRUE
+Hair up,Hair Styling,Hair Styling,,45min,35,,Anna Hibberd,,TRUE
+Blow Dry With Extensions,Hair Styling,Hair Styling,,45min,37.5,,Anna Hibberd,,TRUE
+Blow Dry,Hair Styling,Hair Styling,,30min,30,,Anna Hibberd,,TRUE
+Wet / Dry Cut ,Hair Styling,Hair Styling,,30min,32.5,,Anna Hibberd,,TRUE
+Cut & Blow Dry ,Women's Haircut,Hair Styling,,45min,42.5,,Anna Hibberd,,TRUE
+Nano / Micro Ring Extensions  100 to 150 grams,Hair Extensions,Hair extensions,100 to 150 grams of Nano or Micro rings fitted ,120min,140,,Anna Hibberd,,TRUE
+Extensions Out,Hair Extensions,Hair extensions,,30min,30,,Anna Hibberd,,TRUE
+Nano/ Mirco Ring Extensions 50grams,Hair Extensions,Hair extensions,50grams of Nano or Micro rings fitted ,60min,70,,Anna Hibberd,,TRUE
+Lighten cleanse ,Hair Coloring,Colour Services,Lightening cleanse,5min,20,15min,Anna Hibberd,,FALSE
+Face framing ,Hair Coloring,Colour Services,Face framing ,30min,43,,Anna Hibberd,,TRUE
+Full head colour ,Hair Coloring,Colour Services,,30min,79,45min,Anna Hibberd,,FALSE
+Consultation,Hair Coloring,Colour Services,Consultation to discus your appointment further & including a patch test if required! ,15min,0,,Anna Hibberd,,TRUE
+Root retouch,Hair Coloring,Colour Services,,15min,44.5,45min,Anna Hibberd,,FALSE
+Full head highlights/babylights,Hair Coloring,Colour Services,,60min,70,45min,Anna Hibberd,,FALSE
+Half head highlights,Hair Coloring,Colour Services,,50min,60,45min,Anna Hibberd,,FALSE
+Creative colour (root retouch & highlights),Hair Coloring,Colour Services,,60min,68,45min,Anna Hibberd,,FALSE
+Balayage,Balayage,Colour Services,,60min,85,45min,Anna Hibberd,,FALSE
+Toner,Hair Coloring,Colour Services,,15min,19.5,,Anna Hibberd,,TRUE
+Manual payment,Hair Styling,Manual payment,Service for manual charges,5min,1,,Phoebe Salvin,,FALSE

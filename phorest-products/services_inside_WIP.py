@@ -108,13 +108,54 @@ def click_service_names():
         except Exception as e:
             print(f"Error clicking on {link_text}: {e}")
 
+def get_input_value(input_name):    
+    try:
+        wait = WebDriverWait(driver, 10)
+        input_element = wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, f"input[name='{input_name}']")))
+        input_value = input_element.get_attribute("value")
+        return input_value
+    except Exception as e:
+        print(f"Error retrieving value for input with name '{input_name}': {e}")
+        return None
+
+def get_div_value(css_selector):
+    try:
+        wait = WebDriverWait(driver, 10)
+        div_element = wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, css_selector)))
+        span_element = div_element.find_element(By.CSS_SELECTOR, "span._option_st4q28")
+        return span_element.text.strip()
+    except Exception as e:
+        print(f"Error retrieving value from div with selector '{css_selector}': {e}")
+        return None
 
 login()
 click_manager_link("main-nav-manager-link")
 click_manager_link("services")
 time.sleep(20)     
-rows = driver.find_elements(By.CSS_SELECTOR, "tr.lt-row")
+wait = WebDriverWait(driver, 10)
+iframe = wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, "iframe[src*='https://app.phorest.com']")))
+driver.switch_to.frame(iframe)
+table_body = wait.until(EC.presence_of_element_located((By.CLASS_NAME, "lt-body")))
+rows = table_body.find_elements(By.CSS_SELECTOR, "tr.lt-row")
 print(f"Loaded rows: {len(rows)}")    
-# for row in rows:
-#     print(row)
+for i, row in enumerate(rows):
+    try:
+        print(1)
+        link = row.find_element(By.CSS_SELECTOR, "a")        
+        print(2)
+        ActionChains(driver).move_to_element(link).perform()
+        print(3)
+        link.click()   
+        print(4)
+        name=get_input_value("service-name") 
+        print(f"Name : {name}")    
+        div_selector = "div.ember-view.ember-basic-dropdown-trigger.ember-power-select-trigger._trigger_st4q28"
+        category = get_div_value(div_selector)
+        print(f"category : {category}")   
+        service_price=get_input_value("service-price") 
+        print(f"service_price : {service_price}")   
+        time.sleep(20)        
+    except Exception as e:
+        print(f"Error processing row {i+1}: {e}")
+        time.sleep(20)        
     

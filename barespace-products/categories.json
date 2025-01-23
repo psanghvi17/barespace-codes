@@ -1,377 +1,107 @@
 [
-      {
-        "attributes": {
-          "name": "2N1 FORMULA"
-        },
-        "id": "244264",
-        "type": "inventory-product-categories",
-        "relationships": {
-          "product-counts": {
-            "data": {
-              "id": "244264",
-              "type": "inventory-product-category-counts"
-            }
-          }
-        }
-      },
-      {
-        "attributes": {
-          "name": "A FORMULA"
-        },
-        "id": "244271",
-        "type": "inventory-product-categories",
-        "relationships": {
-          "product-counts": {
-            "data": {
-              "id": "244271",
-              "type": "inventory-product-category-counts"
-            }
-          }
-        }
-      },
-      {
-        "attributes": {
-          "name": "AGELESS"
-        },
-        "id": "229543",
-        "type": "inventory-product-categories",
-        "relationships": {
-          "product-counts": {
-            "data": {
-              "id": "229543",
-              "type": "inventory-product-category-counts"
-            }
-          }
-        }
-      },
-      {
-        "attributes": {
-          "name": "AHA FORMULA"
-        },
-        "id": "244260",
-        "type": "inventory-product-categories",
-        "relationships": {
-          "product-counts": {
-            "data": {
-              "id": "244260",
-              "type": "inventory-product-category-counts"
-            }
-          }
-        }
-      },
-      {
-        "attributes": {
-          "name": "BRIGHTEN COLLECTION"
-        },
-        "id": "306001",
-        "type": "inventory-product-categories",
-        "relationships": {
-          "product-counts": {
-            "data": {
-              "id": "306001",
-              "type": "inventory-product-category-counts"
-            }
-          }
-        }
-      },
-      {
-        "attributes": {
-          "name": "C FORMULA"
-        },
-        "id": "244268",
-        "type": "inventory-product-categories",
-        "relationships": {
-          "product-counts": {
-            "data": {
-              "id": "244268",
-              "type": "inventory-product-category-counts"
-            }
-          }
-        }
-      },
-      {
-        "attributes": {
-          "name": "CHM"
-        },
-        "id": "403433",
-        "type": "inventory-product-categories",
-        "relationships": {
-          "product-counts": {
-            "data": {
-              "id": "403433",
-              "type": "inventory-product-category-counts"
-            }
-          }
-        }
-      },
-      {
-        "attributes": {
-          "name": "CLEAR CELL"
-        },
-        "id": "229557",
-        "type": "inventory-product-categories",
-        "relationships": {
-          "product-counts": {
-            "data": {
-              "id": "229557",
-              "type": "inventory-product-category-counts"
-            }
-          }
-        }
-      },
-      {
-        "attributes": {
-          "name": "EYE FORMULA"
-        },
-        "id": "244262",
-        "type": "inventory-product-categories",
-        "relationships": {
-          "product-counts": {
-            "data": {
-              "id": "244262",
-              "type": "inventory-product-category-counts"
-            }
-          }
-        }
-      },
-      {
-        "attributes": {
-          "name": "HA FORMULA"
-        },
-        "id": "244270",
-        "type": "inventory-product-categories",
-        "relationships": {
-          "product-counts": {
-            "data": {
-              "id": "244270",
-              "type": "inventory-product-category-counts"
-            }
-          }
-        }
-      },
-      {
-        "attributes": {
-          "name": "HIGH PROTECTION"
-        },
-        "id": "244258",
-        "type": "inventory-product-categories",
-        "relationships": {
-          "product-counts": {
-            "data": {
-              "id": "244258",
-              "type": "inventory-product-category-counts"
-            }
-          }
-        }
-      },
-      {
-        "attributes": {
-          "name": "HYDRA BOOST"
-        },
-        "id": "305998",
-        "type": "inventory-product-categories",
-        "relationships": {
-          "product-counts": {
-            "data": {
-              "id": "305998",
-              "type": "inventory-product-category-counts"
-            }
-          }
-        }
-      },
-      {
-        "attributes": {
-          "name": "HYDRATE COLLECTION"
-        },
-        "id": "306002",
-        "type": "inventory-product-categories",
-        "relationships": {
-          "product-counts": {
-            "data": {
-              "id": "306002",
-              "type": "inventory-product-category-counts"
-            }
-          }
-        }
-      },
-      {
-        "attributes": {
-          "name": "ILUMA"
-        },
-        "id": "229547",
-        "type": "inventory-product-categories",
-        "relationships": {
-          "product-counts": {
-            "data": {
-              "id": "229547",
-              "type": "inventory-product-category-counts"
-            }
-          }
-        }
-      },
-      {
-        "attributes": {
-          "name": "IMASK"
-        },
-        "id": "229553",
-        "type": "inventory-product-categories",
-        "relationships": {
-          "product-counts": {
-            "data": {
-              "id": "229553",
-              "type": "inventory-product-category-counts"
-            }
-          }
-        }
-      },
-      {
-        "attributes": {
-          "name": "INDULGE COLLECTION"
-        },
-        "id": "306026",
-        "type": "inventory-product-categories",
-        "relationships": {
-          "product-counts": {
-            "data": {
-              "id": "306026",
-              "type": "inventory-product-category-counts"
-            }
-          }
-        }
-      },
-      {
-        "attributes": {
-          "name": "OIL & MILK DUO"
-        },
-        "id": "306000",
-        "type": "inventory-product-categories",
-        "relationships": {
-          "product-counts": {
-            "data": {
-              "id": "306000",
-              "type": "inventory-product-category-counts"
-            }
-          }
-        }
-      },
-      {
-        "attributes": {
-          "name": "OPC"
-        },
-        "id": "403424",
-        "type": "inventory-product-categories",
-        "relationships": {
-          "product-counts": {
-            "data": {
-              "id": "403424",
-              "type": "inventory-product-category-counts"
-            }
-          }
-        }
-      },
-      {
-        "attributes": {
-          "name": "Ormedic 2.0"
-        },
-        "id": "229554",
-        "type": "inventory-product-categories",
-        "relationships": {
-          "product-counts": {
-            "data": {
-              "id": "229554",
-              "type": "inventory-product-category-counts"
-            }
-          }
-        }
-      },
-      {
-        "attributes": {
-          "name": "PREBIOTIC FORMULA"
-        },
-        "id": "244257",
-        "type": "inventory-product-categories",
-        "relationships": {
-          "product-counts": {
-            "data": {
-              "id": "244257",
-              "type": "inventory-product-category-counts"
-            }
-          }
-        }
-      },
-      {
-        "attributes": {
-          "name": "PREVENTION +"
-        },
-        "id": "229559",
-        "type": "inventory-product-categories",
-        "relationships": {
-          "product-counts": {
-            "data": {
-              "id": "229559",
-              "type": "inventory-product-category-counts"
-            }
-          }
-        }
-      },
-      {
-        "attributes": {
-          "name": "REFINE COLLECTION"
-        },
-        "id": "306007",
-        "type": "inventory-product-categories",
-        "relationships": {
-          "product-counts": {
-            "data": {
-              "id": "306007",
-              "type": "inventory-product-category-counts"
-            }
-          }
-        }
-      },
-      {
-        "attributes": {
-          "name": "THE MAX STEM CELL"
-        },
-        "id": "229545",
-        "type": "inventory-product-categories",
-        "relationships": {
-          "product-counts": {
-            "data": {
-              "id": "229545",
-              "type": "inventory-product-category-counts"
-            }
-          }
-        }
-      },
-      {
-        "attributes": {
-          "name": "The Trio"
-        },
-        "id": "305997",
-        "type": "inventory-product-categories",
-        "relationships": {
-          "product-counts": {
-            "data": {
-              "id": "305997",
-              "type": "inventory-product-category-counts"
-            }
-          }
-        }
-      },
-      {
-        "attributes": {
-          "name": "VITAL C"
-        },
-        "id": "229551",
-        "type": "inventory-product-categories",
-        "relationships": {
-          "product-counts": {
-            "data": {
-              "id": "229551",
-              "type": "inventory-product-category-counts"
-            }
-          }
+  {
+    "attributes": {
+      "name": "Advanced Nutrition"
+    },
+    "id": "320259",
+    "type": "inventory-product-categories",
+    "relationships": {
+      "product-counts": {
+        "data": {
+          "id": "320259",
+          "type": "inventory-product-category-counts"
         }
       }
-    ]
+    }
+  },
+  {
+    "attributes": {
+      "name": "Airlift"
+    },
+    "id": "327498",
+    "type": "inventory-product-categories",
+    "relationships": {
+      "product-counts": {
+        "data": {
+          "id": "327498",
+          "type": "inventory-product-category-counts"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "name": "Brow Products"
+    },
+    "id": "214605",
+    "type": "inventory-product-categories",
+    "relationships": {
+      "product-counts": {
+        "data": {
+          "id": "214605",
+          "type": "inventory-product-category-counts"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "name": "Cosmedix"
+    },
+    "id": "293674",
+    "type": "inventory-product-categories",
+    "relationships": {
+      "product-counts": {
+        "data": {
+          "id": "293674",
+          "type": "inventory-product-category-counts"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "name": "Heliocare"
+    },
+    "id": "212180",
+    "type": "inventory-product-categories",
+    "relationships": {
+      "product-counts": {
+        "data": {
+          "id": "212180",
+          "type": "inventory-product-category-counts"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "name": "Laser Hair Removal"
+    },
+    "id": "207086",
+    "type": "inventory-product-categories",
+    "relationships": {
+      "product-counts": {
+        "data": {
+          "id": "207086",
+          "type": "inventory-product-category-counts"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "name": "Sterex"
+    },
+    "id": "212202",
+    "type": "inventory-product-categories",
+    "relationships": {
+      "product-counts": {
+        "data": {
+          "id": "212202",
+          "type": "inventory-product-category-counts"
+        }
+      }
+    }
+  }
+]

@@ -1,109 +1,131 @@
 name,full-price,cost-price,barcode,description,category,supplier
-All Aglow,35,,,,Default,
-Clear Skin Solutions,55,,,,Default,
-Brighten & Protect,55,,,,Default,
-The Sparkle of the Season,155,,,,Default,
-Sheer Hydration SPF,54.5,0,,,Default,
-Clear Shield SPF,54.5,0,,,Default,
-Bright & Clear Solution,52,0,,,Default,
-Sensicalm Cleanser,42,0,,,Default,
-Oatfoliant,45,0,,,OPC,
-Skin Mist,45,0,,,CHM,
-Clear Skin Treatment,28,,,,Default,
-Oil & Milk Cleanser,32,0,,,Default,Skin Formulas
-Balancing Gel Masque,54.5,0,,,Ormedic 2.0,Renaissance Products Ltd
-Hydrating Facial Oil,61,0,,,VITAL C,Renaissance Products Ltd
-Tinted Moisturiser SPF 30,58,0,,,PREVENTION +,Renaissance Products Ltd
-Hydrating Moisturiser SPF 30,58,0,,,PREVENTION +,Renaissance Products Ltd
-Clarifying Pads (50 pads),41,0,,,CLEAR CELL,Renaissance Products Ltd
-Hydrating Anti-Ageing Serum,90,0,,,VITAL C,Renaissance Products Ltd
-Max Stem Cell Wrinkle Smoother,108.5,,,,THE MAX STEM CELL,Renaissance Products Ltd
-Max Stem Cell Contour Gel Creme,142.5,,,,THE MAX STEM CELL,Renaissance Products Ltd
-Total Overnight Retinol Masque,108,,,,AGELESS,Renaissance Products Ltd
-Max Stem Cell Neck Lift,126,,,,THE MAX STEM CELL,Renaissance Products Ltd
-Deluxe Hydrating Anti-Ageing Serum,90,0,,,VITAL C,Renaissance Products Ltd
-Total Repair Creme,97,0,,,AGELESS,Renaissance Products Ltd
-Clear Cell Restoring Serum,60,0,,,CLEAR CELL,Renaissance Products Ltd
-Clarifying Acne Masque,45.5,0,,,CLEAR CELL,Renaissance Products Ltd
-Clarifying Acne Lotion,45,0,,,CLEAR CELL,Renaissance Products Ltd
-Clarifying Gel Cleanser,45,0,,,CLEAR CELL,Renaissance Products Ltd
-Hydrating Intense Moisturiser,92,0,,,VITAL C,Renaissance Products Ltd
-Hydrating Enzyme Masque,52,0,,,VITAL C,Renaissance Products Ltd
-Hydrating Facial Cleanser,46.5,0,,,VITAL C,Renaissance Products Ltd
-Balancing Facial Cleanser,45,0,,,Ormedic 2.0,Renaissance Products Ltd
-Anti Ageing Hydrogel Sheet Mask (5 pack),52.5,,,,IMASK,Renaissance Products Ltd
-Total Resurfacing Mask,51,0,,,AGELESS,Renaissance Products Ltd
-Total Facial Cleanser,45.5,0,,,AGELESS,Renaissance Products Ltd
-Total Eye Lift Creme,59,0,,,AGELESS,Renaissance Products Ltd
-Hydrating Hand & Body Lotion,59.5,,,,VITAL C,Renaissance Products Ltd
-Hydrating ACE Serum,80,0,,,VITAL C,Renaissance Products Ltd
-Total Pure Hyaluronic Filler,93,0,,,AGELESS,Renaissance Products Ltd
-Max Stem Cell Masque,56.5,,,,THE MAX STEM CELL,Renaissance Products Ltd
-Intense Brightening Creme,118.5,0,,,ILUMA,Renaissance Products Ltd
-Intense Brightening Body Lotion,75,,,,ILUMA,Renaissance Products Ltd
-Intense Brightening Exfoliating Cleanser,48,0,,,ILUMA,Renaissance Products Ltd
-Balancing Gel Polisher,54.5,,,,Ormedic 2.0,Renaissance Products Ltd
-Intense Brightening Serum,64.5,0,,,ILUMA,Renaissance Products Ltd
-Hydrating Hydrogel Sheet Mask (5 pack),52.5,,,,IMASK,Renaissance Products Ltd
-Hydrating Overnight Masque,72,0,,,VITAL C,Renaissance Products Ltd
-Balancing Antioxidant Serum,84.5,0,,,Ormedic 2.0,Renaissance Products Ltd
-Balancing Eyelift Gel,62,0,,,Ormedic 2.0,Renaissance Products Ltd
-Clear Cell Mattifying Moisturiser,70,0,,,CLEAR CELL,Renaissance Products Ltd
-Ultimate Moisturiser SPF 50,58,0,,,PREVENTION +,Renaissance Products Ltd
-Max Stem Cell Creme,140,0,,,THE MAX STEM CELL,Renaissance Products Ltd
-Brightening Exfoliating Powder,49.5,0,,,ILUMA,Renaissance Products Ltd
-Intense Brightening Eye creme,82,0,,,ILUMA,Renaissance Products Ltd
-Intense Facial Illuminator,88,0,,,ILUMA,Renaissance Products Ltd
-Max Stem Cell Serum,135.5,0,,,THE MAX STEM CELL,Renaissance Products Ltd
-Balancing Biopeptide Creme,95,0,,,Ormedic 2.0,Renaissance Products Ltd
-Total Microdrem Exfoliator,58,0,,,AGELESS,Renaissance Products Ltd
-Daily Matte Moisturiser SPF 30,58,0,,,PREVENTION +,Renaissance Products Ltd
-Clarifying Tonic,43,0,,,CLEAR CELL,Renaissance Products Ltd
-Anti-Ageing Serum,100.5,0,,,AGELESS,Renaissance Products Ltd
-Hydrating Eye Recovery Gel,59,0,,,VITAL C,Renaissance Products Ltd
-Hydrating Water Burst,67.5,0,,,VITAL C,Renaissance Products Ltd
-Max Stem Cell Cleanser,45.5,0,,,THE MAX STEM CELL,Renaissance Products Ltd
-Max Stem Cell Eye Creme,78,0,,,THE MAX STEM CELL,Renaissance Products Ltd
-Firming Transformation Masque,74.5,,,,IMASK,Renaissance Products Ltd
-Hydrating Repair Creme,96.5,0,,,VITAL C,Renaissance Products Ltd
-Matte Moisturiser SPF 32,58,0,,,PREVENTION +,Renaissance Products Ltd
-Total Retinol A Creme,89,0,,,AGELESS,Renaissance Products Ltd
-Hydra Sheet Mask - 5 pack,40,,,,Default,Skin Formulas
-Hydra Sheet Mask x 1,8.5,,,,Default,
-Mask Exfoliator,37,0,,,2N1 FORMULA,
-Eye Cream Rejuvenating,58,0,,,EYE FORMULA,
-Vitamin A Restore Serum,53,0,,,A FORMULA,
-Vitamin C Prevent Serum,53,0,,,C FORMULA,
-Clear Skin Treatment,53,0,,,Default,
-Bakuchiol,69,0,,"Retinol Alternative 
-Safe for use during pregnancy ",A FORMULA,
-HYDRA Hyaluronic Acid Serum,53,0,,,HA FORMULA,
-Hydra Bronze,42,0,,,Default,
-Night Cream (Oily),53,0,,,PREBIOTIC FORMULA,
-Night Cream (Dry),53,0,,,Default,
-Day Cream Moisturising SPF 50,37,0,,,HIGH PROTECTION,
-Cleanser Daily Foaming,32,0,,,AHA FORMULA,
-Sheer Pink Lip Enhancement,32,0,,,Ormedic 2.0,Renaissance Products Ltd
-Hydrating + Nourishing Trio,134,0,,"VITAL C facial cleanser
-VITAL C anti-aging serum
-PREVENTION+ ultimate protection moisturiser SPF 50",HYDRATE COLLECTION,
-Hyaluronic Acid Serum & Bakuchiol Serum,93.5,0,,,HYDRA BOOST,
-The Trio (Oil & Milk),99,0,,"Oil & Milk Cleanser
-Hydra Hyaluronic Acid Serum
-Day Cream SPF 50",The Trio,
-The Trio (Daily Foaming),99,0,,"Daily Foaming Cleanser
-Hydra Hyaluronic Acid Serum
-Day Cream SPF 50",The Trio,
-Hydrating Self-Care Trio,33.5,0,,"VITAL C anti-aging serum
-ORMEDIC lip enhancement complex
-I MASK hydrogel sheet mask",INDULGE COLLECTION,
-Youthful Skin Set,167,0,,"ILUMA exfoliating cleanser
-ILUMA facial illuminator
-VITAL C repair crème",REFINE COLLECTION,
-Lip Enhancement Complex,33.5,0,,,Ormedic 2.0,Renaissance Products Ltd
-Oil and Milk Cleanser & Cleansing Mitt,39,0,,,OIL & MILK DUO,
-Botanical Boosters,40,0,,Cleanser + Plump Duo,Ormedic 2.0,
-Radiance Power Trio,111,0,,"ORMEDIC facial cleanser
-ILUMA intense brightening serum
-PREVENTION+ matte moisturiser SPF 30",BRIGHTEN COLLECTION,
-Daily Lip Enhancement SPF 15,30,,,,PREVENTION +,Renaissance Products Ltd
+Clarity Luxe Travel Size,43,21.5,,,Cosmedix,Unknown
+Purity Detox Scrub,62,31,,,Cosmedix,Unknown
+Micro Defence Microbiome Sheet Mask x1,13,6.5,,,Cosmedix,Unknown
+Serum 24,132,66,,"Serum 24 is an age-defying Rapid Renewal Complex Featuring LG-Retinex (Retinol) serum that's formulated with a powerhouse blend of LG-Retinex, a microencapsulated blend of 1% Retinol and 1% Retinal, that is clinically proven to visibly help reduce the look of medium to deep lines and wrinkles.",Cosmedix,Unknown
+Clarifying and Cleansing Kit,70,35,8552400,,Cosmedix,Unknown
+Even Skin Tone Kit,56,28,8555701,,Cosmedix,Unknown
+Combination Skin Kit,56,28,,Purity cleanser define clarity mystic ,Cosmedix,Unknown
+Sensitive Skin Kit,56,28,85555601,,Cosmedix,Unknown
+Age Defying Skin Kit,56,28,8555500,,Cosmedix,Unknown
+Normal Skin Kit,56,28,8554100,,Cosmedix,Unknown
+Post Treatment Skin Kit,56,28,8554000,,Cosmedix,Unknown
+Treatment Prep Kit,56,28,8554500,,Cosmedix,Unknown
+Harmonize Moisturiser,79,39.5,,"WHAT IT IS:
+Harmonize is a complexion-quenching Microbiome Boosting Moisturizer that deeply hydrates the skin with a moisture-rich prebiotic that helps strengthen your skin’s natural defense for a softer, smoother, more supple-looking complexion.
+
+WHAT IT DOES:
+• Boosts the skin’s moisture barrier function for long-lasting hydration
+• Helps balance the look of the complexion
+• Soothes dry skin and helps protect from environmental stressors
+
+Harmonize and hydrate an unbalanced complexion and help restore a healthy microbiome, leaving skin more balanced and smoother-looking with daily use. Formulated with an age-defying skincare blend of fruit and plant extracts, along with a skin-conditioning probiotic, this Microbiome Boosting Moisturizer helps strengthen skin’s natural moisture barrier and helps protect the complexion from environmental stressors. The lightweight lotion texture helps leave all skin types—even blemish-prone skin, looking hydrated and vibrantly renewed!
+",Cosmedix,Unknown
+Skin Thirst Moisturiser,71,35.5,,"Skin Thirst is an ultra-hydrating Moisturizing Hyaluronic Acid Cream that helps plump the look of skin, soften the appearance of wrinkles and refine the look of pores.
+WHAT IT DOES:
+• Skin-quenching ingredients help lock in long-lasting moisture and balance oil production
+• Helps plump the look of skin, soften the appearance of wrinkles and refine the look of pores
+• Helps protect the skin from environmental stressors, like pollution
+
+Quench your skin with this oil-free Moisturizing Hyaluronic Acid Cream that acts like a tiny sponge that locks in hydration to help plump the look of skin. The lush, gel-to-velvet formula quickly absorbs into skin, soothes on contact and instantly mattifies on application—the formula feels truly dreamy. Infused with moisture-locking Hyaluronic Acid and conditioning Witch Hazel, the skin instantly reaps the benefits of moisture balance as Skin Thirst helps protect skin from environmental stressors.A blend of microfine powders blurs the appearance of fine ",Cosmedix,Unknown
+Resync,106,53,,"WHAT IT IS:
+Resync is a Revitalizing Night Cream with antioxidant-rich extracts—like Snow Mushroom and Kakudu Plum—that quench skin with long-lasting moisture to help restore radiance and revitalize the look of skin, all while you sleep.
+
+WHAT IT DOES:
+• Deeply hydrates the skin to help improve softness and radiance
+• Revitalizes the look of skin after exposure to environmental stressors, such as blue light
+• Help improve the overall appearance of fine lines, dark spots and uneven texture
+
+Resync your skincare routine with the nighttime pick-me-up 2021 has been waiting for! The first overnight hydrator to join the COSMEDIX line, this Revitalizing Night Cream revitalizes the appearance of a dull complexion even as you sleep. Enriched with potent plant-based extracts, like South Korean Lespedeza, this nighttime moisturizer hydrates and rejuvenates the skin’s appearance after being exposed to environmental stressors, like blue light, to decrease the signs of skin fatigue for optimal skinc",Unknown,Unknown
+Humidify Deep Moisture Cream,122,61,8770473,,Cosmedix,Unknown
+Shineless Moisturiser,62,31,8770470,,Cosmedix,Unknown
+Mystic,55,27.5,,,Unknown,Unknown
+Emulsion,104,52,,,Unknown,Unknown
+Lumi Crystal - Liquid Crystal Lip Hydration,48,24,8771320,,Cosmedix,Teckno Surgical
+Eye Genius,92,46,8770300,,Cosmedix,Unknown
+Opti Crystal,127,63.5,,,Cosmedix,Unknown
+Simply Brilliant,81,40.5,8770140,,Cosmedix,Unknown
+Clarity Serum,55,27.5,8770640,,Unknown,Unknown
+Remedy Omega-Complex Treatment Oil,60,30,8770610,,Unknown,Unknown
+Surge Hylauronic Serum,128,64,,"WHAT IT IS:
+Give your daily skincare routine a surge of hydration! This ultra-dewy Hyaluronic Acid Booster deeply moisturizes dry, dehydrated skin with a specialized blend of three forms of hyaluronic acid (1.5%), niacinamide and kiwi fruit water.
+
+WHAT IT DOES:
+• Helps soften the look of skin, improve texture and promote elasticity
+• Plumps the appearance of fine lines and wrinkles
+• Revitalizes the look of skin with nourishing antioxidants
+
+Give your daily skincare routine a surge of hydration! This ultra-dewy Hyaluronic Acid Booster deeply moisturizes dry, dehydrated skin with a specialized blend of hyaluronic acid, niacinamide and kiwi fruit water. With just a few drops, this luxe serum instantly refreshes and quickly absorbs into the skin, leaving behind nothing but an uber-hydrated complexion and a luminous glow—never a greasy or sticky film. Upon application, the hyaluronic acid works within the skin to rehydrate deeper layers and help visibly plump the skin, reducing the look o",Cosmedix,Unknown
+Reboot Over night Hydration Serum,42,21,,,Unknown,Unknown
+Radiance Serum,127,63.5,8770120,,Cosmedix,Unknown
+Pure C,74,37,8770280,,Cosmedix,Unknown
+Cpr,69,34.5,,,Cosmedix,Unknown
+Cell ID,145,72.5,8770110,,Cosmedix,Unknown
+Affirm Serum,109,54.5,8770160,,Cosmedix,Unknown
+Bakuchiol Complete,95,47.5,931317010,,Cosmedix,Unknown
+Serum 16,100,50,8770630,,Cosmedix,Unknown
+Refine,90,45,,,Unknown,Unknown
+Define Serum,100,50,8770510,,Cosmedix,Unknown
+Rescue Mask,78,39,,,Cosmedix,Unknown
+Restore Mask,71,35.5,8770550,,Cosmedix,Unknown
+Glow Mask,71,35.5,8770540,,Cosmedix,Unknown
+Detox Mask,71,35.5,8770530,,Cosmedix,Unknown
+Pure Enzymes Mask,69,34.5,8770450,,Unknown,Unknown
+Crystal Clear Hydrating Mist,58,29,931115010,,Cosmedix,Unknown
+Crystal Cleanse Hydrating Liquid Crystal Cleansing Cream,58,29,931116010,,Cosmedix,Unknown
+Benefit Clean,51,25.5,8770260,,Cosmedix,Teckno Surgical
+Benefit Balance,51,25.5,8770200,,Cosmedix,Teckno Surgical
+Purity Solution,46,23,8520402,,Cosmedix,Teckno Surgical
+Purity Balance,51,25.5,8770210,,Unknown,Unknown
+Purity Clean,51,25.5,8770270,"Exfoliates, decongests pores, and cleanses skin of surface oil and impurities. Immediate improvement in the appearance of skin texture after single use.",Cosmedix,Teckno Surgical
+Xmas Lip and Brow Oil Kit,30,,,,Unknown,Unknown
+Xmas Glow and Pigment Kit,130,,,,Unknown,Unknown
+Xmas Aging Kit,130,,,,Unknown,Unknown
+Xmas Brows and Lashes Kit,100,,,,Unknown,Unknown
+Xmas Combi Kit with Pure Enzymes,120,,,,Unknown,Unknown
+Age Active Fluid,47,0,,,Heliocare,Unknown
+Skintelligent System,89,0,,,Unknown,Unknown
+Healthy Skin Beauty Biome,50,,,,Unknown,Unknown
+Youthful Skin Beauty Biome,94,,,,Unknown,Unknown
+Clear Skin Beauty Biome,105,,,,Unknown,Unknown
+Heliocare® 360 Paediatric Atopic Lotion Spray Large,40,0,,,Heliocare,Unknown
+Heliocare® 360 Paediatric Mineral,37,0,,,Unknown,Unknown
+Gel oil free BEIGE,39,0,,,Heliocare,Unknown
+Pigment Solution,47,0,,,Heliocare,Unknown
+Nouveau Lash and Brow Conditioner,25,0,,Lash and brow conditioner for post lash lifting or brow lamination,Brow Products,Unknown
+Clarify Salicylic Acid Foaming Cleanser,55,27,8770014,,Cosmedix,Teckno Surgical
+Brow Code Brow Oil,15,7.9,,"Castor Oil, Argan Oil, Rosemary Oil, Sweet Almond Oil, Geranium Oil.",Unknown,Unknown
+A-R Emulsion Heliocare SPF,42,21,,,Heliocare,Unknown
+Skin rejuvenator,62,31,,,Advanced Nutrition,Unknown
+Iglow Lash Maximizer,55,31,,Lash serum to encourage growth of natural lashes,Unknown,Unknown
+Micro Defence Microbiome Sheet x1,12,,,,Unknown,Unknown
+Micro Defence Microbiome Sheets,57,28,8770562,,Cosmedix,Unknown
+Bio Shape Mask,67,34,8770580,,Cosmedix,Unknown
+C.P.R Serum,61,30,8770000,,Cosmedix,Unknown
+Rescue Serum,67,34,8551170,,Cosmedix,Unknown
+Ultimate Hydration Kit,63,32,8770512,,Cosmedix,Unknown
+Skin complete 2 pots 120 capsules,104,52,,,Advanced Nutrition,Unknown
+HD Brow Glue,22,0,,Brow product to set eyebrows,Brow Products,Unknown
+Brow Tech,20,0,,,Brow Products,Unknown
+Clear skin biome,73,36.5,,,Advanced Nutrition,Unknown
+Gel Oil Free,37,18,8470001724137,SPF 50 for Oily skin,Heliocare,Unknown
+Pearl Gel Oil Free,39,,8436574360028,Tinted SPF Shade 1,Unknown,Unknown
+Fluid Cream,37,,8470001679864,SPF 50 for dry skin,Heliocare,Unknown
+Mineral Tolerance Fluid,37,18,8470001847607,Mineral SPF 50 for sensitive skin/post treatment/ reactive skin,Heliocare,Unknown
+Helio Care Bronze Gel oil free,39,23,,,Heliocare,Unknown
+Skin Collegen Support,52,26,,,Advanced Nutrition,Unknown
+Skin Vit C,39,19.5,,,Advanced Nutrition,Unknown
+Airlift Brow Conditioning Serum,6,,,,Airlift,Unknown
+Airlift Lash Conditioning Serum,12,,,,Airlift,Unknown
+Skin Youth Biome,73,36.5,,,Advanced Nutrition,Unknown
+Skin Ultimate,90,45,,Vit A + D antioxidants omegas 3 and 6 biotin and coq10,Advanced Nutrition,Unknown
+Skin Complete,66,33,,"For protection from free radical damage and aging. Smooths fine lines and wrinkle and creates, healthy, younger and stronger looking skin ",Advanced Nutrition,Unknown
+Skin Vit A + 60 pack,29,14.5,,"For healthy, younger and stronger skin ",Advanced Nutrition,Unknown
+Skin Accumax 180 Pack,119,59.5,,For hormonal acne and rosacea skins ,Advanced Nutrition,Unknown
+Skin Accumax 400 pack,240,120,,For hormonal acne and rosacea skins ,Advanced Nutrition,Unknown
+Skin Omegas + 60,41,20.5,,Skin omegas plus vit A for healthy hydrated skin,Advanced Nutrition,Unknown
+Skin Omegas + 180 pack,89,44.5,,For healthy hydrated skin,Advanced Nutrition,Unknown
+Defy,80,40,,,Unknown,Unknown
+Surge Hyaluronic Acid Booster,120,60,8770042,,Unknown,Unknown
+Aloe Vera Gel 200ml,15,13.46,,Aloe Vera Gel soothing after care treatment,Unknown,Unknown
+Aloe Vera Gel 35ml,6,3.13,,Small aloe Vera soothing after care treatment,Sterex,Unknown

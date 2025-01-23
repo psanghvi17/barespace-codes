@@ -23,15 +23,14 @@ def login():
     driver.get("https://barespace.app/login/")
     time.sleep(2)
     email_field = driver.find_element(By.ID, "email")
-    email = "setup+epiluxeclinic@barespace.io"
+    email = "setup+dollhousehair&beauty@barespace.io"
     email_field.send_keys(email)
     password_field = driver.find_element(By.ID, "password") 
-    password = "epiluxeclinic123"
+    password = "dollhousehair&beauty123"
     password_field.send_keys(password)      
     login_button = driver.find_element(By.XPATH, "//button[contains(@class, 'btn-next') and text()='Login']")
     time.sleep(2)
     login_button.click()
-
 
 def select_dropdown_option(driver, option_text):
         try:
@@ -71,62 +70,31 @@ try:
     login()
     system_definitions_link = WebDriverWait(driver, 20).until(EC.element_to_be_clickable((By.XPATH, "//a[contains(@href, '/system-definitions')]")))
     system_definitions_link.click()   
-    products_link = WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.XPATH, "//a[contains(@href, '/products')]//div[text()='Products']")))
+    products_link = WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.XPATH, "//a[contains(@href, '/supplier')]//div[text()='Supplier']")))
     products_link.click()
-    file_path = 'output.csv'
+    file_path = 'supplier_info.csv'
     with open(file_path, 'r', encoding='utf-8') as file:
         reader = csv.DictReader(file)
         for row in reader:      
-            print(row["name"]) 
-            if len(row["category"])>0:
-                continue         
-            add_product_button = WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.XPATH, "//button[span[text()='Add Product']]")))
+            print(row["Brand"])                     
+            add_product_button = WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.XPATH, "//button[span[text()='Add Supplier']]")))
             driver.execute_script("arguments[0].click();", add_product_button)
                         
-            product_name_input=WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.NAME, "product_name")))
-            product_name_input.send_keys(row["name"].title())                
+            product_name_input=WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.NAME, "name")))
+            product_name_input.send_keys(row["Brand"].title())
+
+            product_name_input=WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.NAME, "contact_first_name")))
+            product_name_input.send_keys(row["Brand"].title())                          
             
-            print("full-price",str(row["full-price"]))
-            price_input = driver.find_element(By.NAME, "price")
-            price_input.send_keys(str(row["full-price"]))                
-
-            print("cost-price",row["cost-price"])
-            cost_price_input = driver.find_element(By.NAME, "cost_price")            
-            if len(row["cost-price"])==0:
-                print("cost-price is None")
-            else:                                
-                cost_price_input.send_keys(row["cost-price"])
-
-            print("category",row["category"])
-            if len(row["category"])>0:
-                select_dropdown_option(driver, row["category"])
-            else:
-                select_dropdown_option(driver, 'Uncategorized')
+            print("Adding Phone")
+            phone_input = WebDriverWait(driver, 10).until(EC.visibility_of_element_located((By.XPATH, "//div[@class='form-item relative']//input[@type='tel' and contains(@class, 'vti__input')]")))
+            driver.execute_script("arguments[0].scrollIntoView();", phone_input)
+            phone_input.clear()
+            phone_input.send_keys("+3538712345678")            
             
-            print("supplier")
-            if len(row["supplier"])>0:
-                select_dropdown_option(driver, row["supplier"])                
             
-            print("location")
-            select_dropdown_option_location(driver, "Epiluxe Beauty Clinic")   
-
-            print("barcode")
-            if len(row["barcode"])==0:
-                print("Barcode is None. Check your data source.")
-            else:
-                barcode = driver.find_element(By.NAME, "barcode")
-                barcode.send_keys(row["barcode"])
-
-            select_element = driver.find_element(By.ID, "usage")
-            dropdown = Select(select_element)
-            dropdown.select_by_value("retail")
-            print("Retails selected")
-
-            button = driver.find_element(By.CSS_SELECTOR, "button.btn.btn-primary.flex-1.order-1.lg\\:order-2")
-            print("Button found")
-            time.sleep(5)
-            button.click()
-            print("button clicked")
+            add_supplier_button = WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.XPATH, "//button[@type='submit' and contains(@class, 'btn btn-primary') and text()='Add Supplier']")))
+            add_supplier_button.click()
             time.sleep(5)
             # break
 except Exception as e:

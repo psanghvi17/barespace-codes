@@ -1,127 +1,141 @@
-Name,Service,Menu,Description,Duration,Price,Extra Time,Staff,Online,Resources
-40% off Permanent Jewellery !,Perm,BLACK FRIDAY DEALS,"Decide on the day Whether it’s a bracelet, anklet or necklace, Mia’s offering the best deals for our permanent jewelry 💗
+Name,Service,Menu,Description,Duration,Price,Extra Time,Staff,Online,Resources,Form
+Delivery charge for products ,Skin Consultation,Online Sales,Charge for postage if skin products ,5min,6,,['Maria Mccarthy'],FALSE,[],
+LED Add on to any treatment ,LED Light Therapy,LED,"Please arrive with clean clean. 
+Add on LED light therapy to any treatment for 10minutes ",10min,20,,"['All team members', 'Maria Mccarthy', ""Sarah O'Callaghan""]",TRUE,"['Enable resources', 'Laser Bed']",
+LED Light Therapy ,LED Light Therapy,LED,"Please arrive with clean skin, skin will be cleansed and a cell renewal serum will be applied. When the light has finished spf may be applied depending on the time of day 
 
- For our prices please look on mia’s instagram @mia_studio75  - offer ends 6 DECEMBER 2024",,,,['Mia (𝗝𝗨𝗡𝗜𝗢𝗥)'],True,[]
-HYDROFACIAL,Facial,BLACK FRIDAY DEALS,HYDROFACIAL and dermaplaning package only £30 !!,1h,30,,['Mia (𝗝𝗨𝗡𝗜𝗢𝗥)'],True,[]
-20 % OFF MAKEUP,Makeup Service,BLACK FRIDAY DEALS,Get party ready with our amazing offer of 20% off our make up services (valid until December 31st),,,,"['Esha', 'Topaz']",True,[]
-BBL Vacuum Therapy Brazillian Bum Body Sculpting , ,,"Brazillian bum vaccum enhancing course 
-Was £170 NOW £85 !!!",1h,£40,
-BBL Vacuum Therapy Brazillian Bum Body Sculpting , ,,"Brazillian bum vaccum enhancing course 
-Was £170 NOW £85 !!!",1h,£40,
-BBL Vacuum Therapy Brazillian Bum Body Sculpting , ,,"Brazillian bum vaccum enhancing course 
-Was £170 NOW £85 !!!",1h,£40,
-BBL Vacuum Therapy Brazillian Bum Body Sculpting , ,,"Brazillian bum vaccum enhancing course 
-Was £170 NOW £85 !!!",1h,£40,
-BBL Vacuum Therapy Brazillian Bum Body Sculpting , ,,"Brazillian bum vaccum enhancing course 
-Was £170 NOW £85 !!!",1h,£40,
-Gel removal ,Gel Nails,Nails,,10min,5,,"['Becca (𝗦𝗘𝗡𝗜𝗢𝗥)', 'Esha', 'Mia (𝗝𝗨𝗡𝗜𝗢𝗥)', 'Permanent Jewelry', 'Sharan (𝗦𝗘𝗡𝗜𝗢𝗥)', 'Stephanie (𝗗𝗜𝗥𝗘𝗖𝗧𝗢𝗥)', 'Topaz']",True,[]
-Hard gel file off removal,Gel Nails,Nails,,15min,8,,"['Becca (𝗦𝗘𝗡𝗜𝗢𝗥)', 'Esha', 'Mia (𝗝𝗨𝗡𝗜𝗢𝗥)', 'Permanent Jewelry', 'Stephanie (𝗗𝗜𝗥𝗘𝗖𝗧𝗢𝗥)', 'Topaz']",True,[]
-Builder gel group training | 1 day .,Gel Nails,Nails,,7h,350,,"['Becca (𝗦𝗘𝗡𝗜𝗢𝗥)', 'Esha', 'Mia (𝗝𝗨𝗡𝗜𝗢𝗥)', 'Permanent Jewelry', 'Stephanie (𝗗𝗜𝗥𝗘𝗖𝗧𝗢𝗥)', 'Topaz']",False,[]
-Christmas Eve out of hours ,Beard Trimming,Nails,,5min,10,,"['Becca (𝗦𝗘𝗡𝗜𝗢𝗥)', 'Esha', 'Mia (𝗝𝗨𝗡𝗜𝗢𝗥)', 'Permanent Jewelry', 'Sharan (𝗦𝗘𝗡𝗜𝗢𝗥)', 'Stephanie (𝗗𝗜𝗥𝗘𝗖𝗧𝗢𝗥)', 'Topaz']",False,[]
-Russian manicure ,Russian Manicure,Nails,"A dry high end manicure with precise cuticle work. 
-A clean and crisp cuticle with the effect of less regrowth. 
+LED is a light absorbed by the skin without heat or trauma to the skin. Using the correct settings, the light can create change in the skin such as healing inflamed skin, redness, sensitivity, acne, inducing collagen production for anti-aging benefits, slowing down cell turnover in psoriasis clients and much much more ",30min,40,,"['All team members', 'Maria Mccarthy', ""Sarah O'Callaghan""]",TRUE,"['Enable resources', 'Laser Bed']",
+Resurface Blend - Dehydrated Skin Dullness Pre-Mature Aging includes LED Light,Chemical Peel,Skin Peels From CosMedix,"Packed with exfoliating fruit enzymes and hydrators, this potent rinse-off gel helps visibly improve the look of skin tone and texture for a clarified, more radiant appearance of skin. Antioxidant-rich Enzyme Peel provides gentle exfoliation and a burst of instant hydration to help balance the moisture and oil levels of skin for a firmer, more refined appearance of the complexion
 
-",1h 25min,36.5,,"['Becca (𝗦𝗘𝗡𝗜𝗢𝗥)', 'Mia (𝗝𝗨𝗡𝗜𝗢𝗥)', 'Stephanie (𝗗𝗜𝗥𝗘𝗖𝗧𝗢𝗥)']",True,[]
-Luxury manicure,Manicure,Nails,"Spoil yourself by upgrading to our luxury manicure.
-This service includes 
-- Russian manicure cuticle work (gel needs to be booked separately)
-- Hand scrub
-- Hand soak 
-- Hand massage
+10 minute LED light Session included 
 
-(Please note this is a service with out gel application - if you would like gel additionally please add on separately)",25min,15,,"['All team members', 'Becca (𝗦𝗘𝗡𝗜𝗢𝗥)', 'Esha', 'Mia (𝗝𝗨𝗡𝗜𝗢𝗥)', 'Permanent Jewelry', 'Sharan (𝗦𝗘𝗡𝗜𝗢𝗥)', 'Stephanie (𝗗𝗜𝗥𝗘𝗖𝗧𝗢𝗥)']",True,[]
-Dual form gel extensions ,Gel Nail Extensions,Nails,"For the long nail girls wanting a secure, long strong extension. 
-Dual forms are a hard gel extension, which means this is a file off product ",1h 20min,45,,"['Becca (𝗦𝗘𝗡𝗜𝗢𝗥)', 'Stephanie (𝗗𝗜𝗥𝗘𝗖𝗧𝗢𝗥)']",True,[]
-BIAB extensions  (builder in a bottle) ,Manicure,Nails,"Biab extensions are a builder gel that extend your natural length. 
-To kickstart your Biab journey, you can have longer nails from the start! 
+POST PEEL EXPECTATIONS: Post-peeling not expected – light flaking may occur 
 
-Please note you can not add too much length with BIAB extensions as with extensions they are less durable- unlike long natural biab nails- they may not last as long as shorter extensions.",,,,"['Becca (𝗦𝗘𝗡𝗜𝗢𝗥)', 'Esha', 'Mia (𝗝𝗨𝗡𝗜𝗢𝗥)', 'Sharan (𝗦𝗘𝗡𝗜𝗢𝗥)', 'Stephanie (𝗗𝗜𝗥𝗘𝗖𝗧𝗢𝗥)']",True,[]
-BIAB Nails ,Manicure,Nails,,,,,"['Becca (𝗦𝗘𝗡𝗜𝗢𝗥)', 'Esha', 'Mia (𝗝𝗨𝗡𝗜𝗢𝗥)', 'Sharan (𝗦𝗘𝗡𝗜𝗢𝗥)', 'Stephanie (𝗗𝗜𝗥𝗘𝗖𝗧𝗢𝗥)']",True,[]
-BIAB Infill ,Gel Nails,Nails,,,,,"['Becca (𝗦𝗘𝗡𝗜𝗢𝗥)', 'Esha', 'Mia (𝗝𝗨𝗡𝗜𝗢𝗥)', 'Sharan (𝗦𝗘𝗡𝗜𝗢𝗥)', 'Stephanie (𝗗𝗜𝗥𝗘𝗖𝗧𝗢𝗥)']",True,[]
-Shellac manicure,Manicure,Nails,"Shellac on the top of natural nails. 
-Lasts 2-3 weeks before needing a removal.",1h,27,,"['Becca (𝗦𝗘𝗡𝗜𝗢𝗥)', 'Esha', 'Mia (𝗝𝗨𝗡𝗜𝗢𝗥)', 'Sharan (𝗦𝗘𝗡𝗜𝗢𝗥)']",True,[]
-BIAB removal ,Gel Nails,Nails,Soak off gel nails (hands or toes) ,,,,"['Becca (𝗦𝗘𝗡𝗜𝗢𝗥)', 'Esha', 'Mia (𝗝𝗨𝗡𝗜𝗢𝗥)', 'Sharan (𝗦𝗘𝗡𝗜𝗢𝗥)', 'Stephanie (𝗗𝗜𝗥𝗘𝗖𝗧𝗢𝗥)']",True,[]
-Acrylic removal,Manicure,Nails,Soak off acrylic previously applied by steph,,,,"['Mia (𝗝𝗨𝗡𝗜𝗢𝗥)', 'Stephanie (𝗗𝗜𝗥𝗘𝗖𝗧𝗢𝗥)']",True,[]
-Nail repair,Manicure,Nails,,15min,5,,"['Becca (𝗦𝗘𝗡𝗜𝗢𝗥)', 'Esha', 'Mia (𝗝𝗨𝗡𝗜𝗢𝗥)', 'Sharan (𝗦𝗘𝗡𝗜𝗢𝗥)']",True,[]
-Acrylic freestyle,Acrylic Nails,Nails,,2h 15min,45,,['Stephanie (𝗗𝗜𝗥𝗘𝗖𝗧𝗢𝗥)'],True,[]
-Acrylic extensions infill ,Acrylic Nails,Nails,,1h 30min,40,,['Stephanie (𝗗𝗜𝗥𝗘𝗖𝗧𝗢𝗥)'],True,[]
-Nail art,Nail Art,Nails,,15min,5,,"['Becca (𝗦𝗘𝗡𝗜𝗢𝗥)', 'Esha', 'Mia (𝗝𝗨𝗡𝗜𝗢𝗥)', 'Sharan (𝗦𝗘𝗡𝗜𝗢𝗥)', 'Stephanie (𝗗𝗜𝗥𝗘𝗖𝗧𝗢𝗥)']",True,[]
-Rhinestones ,Gel Nails,Nails,,5min,5,,"['Becca (𝗦𝗘𝗡𝗜𝗢𝗥)', 'Esha', 'Mia (𝗝𝗨𝗡𝗜𝗢𝗥)', 'Sharan (𝗦𝗘𝗡𝗜𝗢𝗥)', 'Stephanie (𝗗𝗜𝗥𝗘𝗖𝗧𝗢𝗥)']",True,[]
-Chrome,Manicure,Nails,,5min,5,,"['Becca (𝗦𝗘𝗡𝗜𝗢𝗥)', 'Esha', 'Mia (𝗝𝗨𝗡𝗜𝗢𝗥)', 'Sharan (𝗦𝗘𝗡𝗜𝗢𝗥)', 'Stephanie (𝗗𝗜𝗥𝗘𝗖𝗧𝗢𝗥)']",True,[]
-Men’s manicure ,Manicure,Nails,,20min,20,,"['Becca (𝗦𝗘𝗡𝗜𝗢𝗥)', 'Esha', 'Mia (𝗝𝗨𝗡𝗜𝗢𝗥)', 'Sharan (𝗦𝗘𝗡𝗜𝗢𝗥)', 'Stephanie (𝗗𝗜𝗥𝗘𝗖𝗧𝗢𝗥)']",True,[]
-Children’s manicure (with gel polish),Manicure,Nails,,30min,15,,"['Becca (𝗦𝗘𝗡𝗜𝗢𝗥)', 'Esha', 'Mia (𝗝𝗨𝗡𝗜𝗢𝗥)', 'Sharan (𝗦𝗘𝗡𝗜𝗢𝗥)']",True,[]
-Out of hours fee (after 4pm),Manicure,Nails,"This is to be added to every appointment after 4pm due to these available appointments are our ‘out of hours’ and are treated as over time. 
-Thank you kindly",5min,5,5min,"['All team members', 'Becca (𝗦𝗘𝗡𝗜𝗢𝗥)', 'Esha', 'Mia (𝗝𝗨𝗡𝗜𝗢𝗥)', 'Permanent Jewelry', 'Sharan (𝗦𝗘𝗡𝗜𝗢𝗥)', 'Stephanie (𝗗𝗜𝗥𝗘𝗖𝗧𝗢𝗥)']",True,[]
-Luxury pedicure (Removal of dead skin) and biab toes,Pedicure,Pedicures,"Pamper your hard working feet with our signature pedicure including- 
-                 •𝗗𝗘𝗔𝗗 𝗦𝗞𝗜𝗡 𝗥𝗘𝗠𝗢𝗩𝗔𝗟 
-                 •𝗙𝗢𝗢𝗧 𝗦𝗖𝗥𝗨𝗕 
-                 •𝗚𝗘𝗟/𝗕𝗜𝗔𝗕 𝗠𝗔𝗡𝗜𝗖𝗨𝗥𝗘 
-                 •𝗙𝗢𝗢𝗧 𝗠𝗔𝗦𝗦𝗔𝗚𝗘
-                 •𝗔𝗡𝗧𝗜 𝗖𝗥𝗔𝗖𝗞𝗜𝗡𝗚 𝗛𝗘𝗘𝗟 𝗧𝗥𝗘𝗔𝗧𝗠𝗘𝗡𝗧 
-All treatments are carried out using only PROFESSIONAL products and care 🤍🫧
-",1h 20min,42,,"['Becca (𝗦𝗘𝗡𝗜𝗢𝗥)', 'Mia (𝗝𝗨𝗡𝗜𝗢𝗥)', 'Sharan (𝗦𝗘𝗡𝗜𝗢𝗥)', 'Stephanie (𝗗𝗜𝗥𝗘𝗖𝗧𝗢𝗥)']",True,[]
-BIAB toes,Pedicure,Pedicures,Biab overlay on the natural toe - any gel can go on top of !,45min,30,,"['Becca (𝗦𝗘𝗡𝗜𝗢𝗥)', 'Esha', 'Mia (𝗝𝗨𝗡𝗜𝗢𝗥)', 'Sharan (𝗦𝗘𝗡𝗜𝗢𝗥)', 'Stephanie (𝗗𝗜𝗥𝗘𝗖𝗧𝗢𝗥)']",True,[]
-Shellac toes,Pedicure,Pedicures,"A normal gel application to achieve a long lasting thin colour application. 
-NOTE : application can not be infilled only removed and reapplied.",45min,27,,"['Becca (𝗦𝗘𝗡𝗜𝗢𝗥)', 'Esha', 'Mia (𝗝𝗨𝗡𝗜𝗢𝗥)', 'Sharan (𝗦𝗘𝗡𝗜𝗢𝗥)']",True,[]
-Toe nail reconstruction ,Pedicure,Pedicures,With help either hard gel or acrylic we can re sculpt your missing/ damaged toe nail/s bringing back the confidence you need 😊🩷,1h,38,,['Stephanie (𝗗𝗜𝗥𝗘𝗖𝗧𝗢𝗥)'],True,[]
-Acrylic toe nails ,Acrylic Nails,Pedicures,"Acrylic toe nails over the natural nail (helps to build a broken corner ect. 
-Please note : THIS SERVICE IS NOT FOR RECONSTRUCTING TOE NAILS. 
-",1h,35,,['Stephanie (𝗗𝗜𝗥𝗘𝗖𝗧𝗢𝗥)'],True,[]
-BIAB toe removal,Pedicure,Pedicures,,10min,5,,"['Becca (𝗦𝗘𝗡𝗜𝗢𝗥)', 'Mia (𝗝𝗨𝗡𝗜𝗢𝗥)', 'Sharan (𝗦𝗘𝗡𝗜𝗢𝗥)', 'Stephanie (𝗗𝗜𝗥𝗘𝗖𝗧𝗢𝗥)']",True,[]
-LVL Lash Lift,Lash Lift,Lashes and brows,"SKIN TEST REQUIRED! 
-LVL stands for length, volume and lift.
-One way to think of a lash lift is like a perm for your eyelashes. Unlike a lash extension, a lash lift simply alters the shape and color of your natural lashes. 
-Results last 6-8 weeks !",55min,35,,"['Becca (𝗦𝗘𝗡𝗜𝗢𝗥)', 'Mia (𝗝𝗨𝗡𝗜𝗢𝗥)', 'Stephanie (𝗗𝗜𝗥𝗘𝗖𝗧𝗢𝗥)']",True,[]
-HD Brow Sculpt,Eyebrow Shaping,Lashes and brows,"PATCH TEST REQUIRED  
-Brow Sculpt is brow lamination with a bespoke HD Brows twist. Whether you dream of achieving that full, fluffy eyebrow look, want to create symmetry in uneven brows or tame unruly hairs, our BrowSculpt brow lamination treatment is for you.
-WAX AND TINT INCLUDED",45min,28,,"['Becca (𝗦𝗘𝗡𝗜𝗢𝗥)', 'Stephanie (𝗗𝗜𝗥𝗘𝗖𝗧𝗢𝗥)']",True,[]
-Brow Lamination ,Brow Lamination,Lashes and brows,"PATCH TEST REQUIRED  
-A perming technique to manipulate hairs into a new desired position 
-WAX AND TINT NOT INCLUDED",35min,20,,"['Becca (𝗦𝗘𝗡𝗜𝗢𝗥)', 'Stephanie (𝗗𝗜𝗥𝗘𝗖𝗧𝗢𝗥)']",True,[]
-Eyebrow Wax And Tint,Eyelash Tinting,Lashes and brows,Eyebrow tint and shaping using wax for a clean crisp brow,15min,10,,"['Becca (𝗦𝗘𝗡𝗜𝗢𝗥)', 'Stephanie (𝗗𝗜𝗥𝗘𝗖𝗧𝗢𝗥)']",True,[]
-Lash removal ,Eyelash Extensions,Lashes and brows,,20min,10,,[],True,[]
-Reweld,Perm,Permanent Jewllery,,20min,20,,"['Mia (𝗝𝗨𝗡𝗜𝗢𝗥)', 'Stephanie (𝗗𝗜𝗥𝗘𝗖𝗧𝗢𝗥)']",True,[]
-Bracelet ,Updo,Permanent Jewllery,,25min,60,,"['Mia (𝗝𝗨𝗡𝗜𝗢𝗥)', 'Stephanie (𝗗𝗜𝗥𝗘𝗖𝗧𝗢𝗥)']",True,[]
-Anklet ,Updo,Permanent Jewllery,,20min,65,,"['Mia (𝗝𝗨𝗡𝗜𝗢𝗥)', 'Stephanie (𝗗𝗜𝗥𝗘𝗖𝗧𝗢𝗥)']",True,[]
-Necklace ,Updo,Permanent Jewllery,,25min,95,,"['Mia (𝗝𝗨𝗡𝗜𝗢𝗥)', 'Stephanie (𝗗𝗜𝗥𝗘𝗖𝗧𝗢𝗥)']",True,[]
-Charms,Updo,Permanent Jewllery,"Make your jewellery uniquely yours. 
-Choose from birthstones, zodiacs initials and more! 
+Course of 4 advised once per week",45min,100,,"['All team members', 'Maria Mccarthy', ""Sarah O'Callaghan""]",TRUE,"['Enable resources', 'Laser Bed']",
+"PHA Peel - Dry, Dehydrated, Fine lines and Wrinkles includes LED Light",Chemical Peel,Skin Peels From CosMedix,"Gently exfoliate away dull, dead skin with this skin-soothing peel treatment to help illuminate the appearance of your complexion. 
+A multi-acid Level 1 exfoliant that’s gentle enough for all skin types, this Refining Exfoliator helps soften, smooth and brighten the appearance of skin for a more even-looking complexion. 
 
-Please DM us on instagram for our stock.",10min,10,,['Mia (𝗝𝗨𝗡𝗜𝗢𝗥)'],True,[]
-HYDRO FACIAL,Facial Extractions,Facial,"HYDROFACIAL 
-Removes dead skin cells and impurities, while simultaneously delivering moisturizing serums into the skin.
+Course of 4 once per week advised 
+IDEAL FOR: All Fitzpatrick Types, Dry, Dehydrated, Fine Lines/Wrinkles
 
-Perfect for all skin types. ",1h,65,,['Mia (𝗝𝗨𝗡𝗜𝗢𝗥)'],True,[]
-Facial,Facial,Facial,"3 different facials for you needs!
-Relaxing facial: Allows you to feel relaxed while having a full cleanse. 
-Dermaplaning facial: Removes dead skin and peach fuzz.
-All inclusive Facial: Is a mix of both facials with all dead skin and dirt removed and peach fuzz but you will also feel nice and relaxed coming to the end of the facial with a massage. ",,,,['Mia (𝗝𝗨𝗡𝗜𝗢𝗥)'],True,[]
-Bridal Trial,Bridal Makeup,Makeup,"We recommend a bridal trial to ensure your dream look comes to life on your big day. During the trial, we will discuss your preferences and many any necessary adjustments. ",1h 30min,60,,['Esha'],True,[]
-Bridal Makeup,Bridal Makeup,Makeup,Choose Studio75 for your big day. Eyelashes and a touch up kit is included in this service and a bridal trial is recommended. ,2h,90,,['Esha'],True,[]
-"Occasional Glam (Prom, Graduation, Party)",Makeup Service,Makeup,"Makeup suitable for special occasions, that will last all night. This service includes eyelashes.",1h,45,,['Esha'],True,[]
-Soft/Full Glam,Makeup Service,Makeup,Achieve your perfect look with either soft or full glam. This service includes eyelashes. ,1h,45,,['Esha'],True,[]
-BBL Vacuum Therapy BBL Vacuum therapy (5 Sessions), ,,X5 1hr sessions once a week ,1h,£40,
-BBL Vacuum Therapy BBL Vacuum therapy (5 Sessions), ,,X5 1hr sessions once a week ,1h,£40,
-BBL Vacuum Therapy BBL Vacuum therapy (5 Sessions), ,,X5 1hr sessions once a week ,1h,£40,
-BBL Vacuum Therapy BBL Vacuum therapy (5 Sessions), ,,X5 1hr sessions once a week ,1h,£40,
-BBL Vacuum Therapy BBL Vacuum therapy (5 Sessions), ,,X5 1hr sessions once a week ,1h,£40,
-BBL Vacuum Therapy ,Body Sculpting,Body Sculpting,,1h,40,,['Topaz'],True,[]
-Butterfly set,Permanent Makeup,Tooth gems,,35min,55,,[],True,[]
-Full service cover,Permanent Makeup,Tooth gems,,35min,50,,[],True,[]
-Window,Permanent Makeup,Tooth gems,,35min,45,,[],True,[]
-Classic gem,Permanent Makeup,Tooth gems,,30min,30,,[],True,[]
-"Underarm wax Full Leg, Arm and Underarm wax ", ,,"Full Arm wax, Full Leg wax and Underarm wax using soft wax. ",20min,£9,
-"Full Arm wax Full Leg, Arm and Underarm wax ", ,,"Full Arm wax, Full Leg wax and Underarm wax using soft wax. ",35min,£16,
-"Full Leg wax Full Leg, Arm and Underarm wax ", ,,"Full Arm wax, Full Leg wax and Underarm wax using soft wax. ",55min,£19,
-Full Arm wax Full leg and Arm wax , ,,Full leg and Full arm wax using soft wax.,35min,£16,
-Full Leg wax Full leg and Arm wax , ,,Full leg and Full arm wax using soft wax.,55min,£19,
-"Upper lip, Chin and sides face wax ",Face Waxing,Waxing,"Removal of hairs from sides of the face, including sideburns, with upper lip and chin using soft wax. ",35min,13,,[],True,[]
-Upper Lip wax ,Face Waxing,Waxing,Includes waxing area above lip using soft wax. ,10min,5,,[],True,[]
-Eyebrow wax ,Eyebrow Waxing,Waxing,Brow tidy using soft wax.,15min,5,,"['Becca (𝗦𝗘𝗡𝗜𝗢𝗥)', 'Stephanie (𝗗𝗜𝗥𝗘𝗖𝗧𝗢𝗥)']",True,[]
-Stomach wax ,Full Body Waxing,Waxing,Abdomen wax with soft wax.,30min,9,,[],True,[]
-Bikini line wax ,Bikini Waxing,Waxing,Bikini line wax using soft wax.,15min,5,,[],True,[]
-Full Leg wax ,Leg Waxing,Waxing,Full leg wax from upper thigh to toes with soft wax. ,55min,19,,[],True,[]
-Half Leg wax ,Leg Waxing,Waxing,Leg wax from knee to toes with soft wax. ,40min,15,,[],True,[]
-Full Arm wax ,Arm Waxing,Waxing,Full arm wax from shoulder to fingers with soft wax. ,35min,16,,[],True,[]
-Half Arm wax ,Arm Waxing,Waxing,Half arm wax from elbow to fingers with soft wax. ,25min,11,,[],True,[]
-Underarm wax ,Underarm Waxing,Waxing,Armpit area only to be removed with soft or hard wax. ,20min,9,,[],True,[]
+10 minute LED light Session included
+
+TRANSFORMATIVE INGREDIENTS
+Gluconolactone | A polyhydroxy acid (PHA) that provides a kinder, gentler exfoliation for all skin types
+Lactobionic Acid | A naturally derived polyhydroxy acid from sugar that provides gentle exfoliation and helps reduce the appearance of fine lines and wrinkles
+Phytic Acid | An alpha hydroxy acid derived from cereal seeds that helps provide antioxidant support for the skin and helps to increase moisturization in the skin
+",45min,100,,"['All team members', 'Maria Mccarthy', ""Sarah O'Callaghan""]",TRUE,"['Enable resources', 'Laser Bed']",
+Benefit Peel + Retinol - PIH Acne Grades I And II Dull Skin includes LED Light ,Chemical Peel,Skin Peels From CosMedix,"A gentle, all-purpose treatment that helps to improve the look of surface texture with fruit enzymes and Vitamins A and C. 
+
+The perfect treatment series for hyperpigmentation, fine lines and wrinkles. All Fitzpatrick Types PIH Acne Grades I And II Dull Skin
+
+INSTANT RESULTS 
+• Exfoliates to eliminate rough, dull surface cells 
+• Eliminates pore-clogging impurities for the look of clearer, balanced skin
+
+10 minute LED light Session included
+
+Course of 4 recommended: 1 every 2 weeks 
+
+Ingredients 
+ L-Ascorbic Acid 
+ Fruit Enzymes (papain, bromelain) 
+10% AGP Complex Provides all the age-defying benefits of retinol
+Salicylic Acid BHA ",45min,100,,"['All team members', 'Maria Mccarthy', ""Sarah O'Callaghan""]",TRUE,"['Enable resources', 'Laser Bed']",
+Microneedling with Exosomes and LED Light therapy ,Microneedling,Skin Needling - Consultation free when you buy 1 Cosmedix Product,"The microneedling process stimulates the body’s natural healing response, promoting collagen and elastin production, and can improve the appearance of scars, wrinkles, and overall skin texture.
+
+Exosomes are small extracellular vesicles released by cells. They contain proteins, lipids, and genetic material have powerful regenerative and rejuvenating properties.
+
+The microneedling procedure combined with the application of exosomes. The application of exosomes combined with the regenerative effects of microneedling provides additional signaling molecules and growth factors to the skin.",1h 15min,350,,"['All team members', 'Maria Mccarthy', ""Sarah O'Callaghan""]",TRUE,[],
+Skin Consultation ,Skin Consultation,Skin Needling - Consultation free when you buy 1 Cosmedix Product,"Buy 1 Cosmedix Product and Get your skin consult for FREE!!
+
+Allow Maria to assess your skin and your main concerns. She will give you the best advise on products and treatments to suit your particular concern. Product ingredients is an area that Maria is passionate about, so she will analyze ingredients currently used and their percentages and add in or remove products when and where is needed.
+Topics we touch on include diet, stress, environment, skincare, past and current skin treatments, supplements and makeup. ",30min,,,"['All team members', 'Maria Mccarthy', ""Sarah O'Callaghan""]",TRUE,"['Enable resources', 'Laser Bed']",
+Micro needling -1st Treatment + mandatory Post treatment kit 1/2 Price includes LED,Microneedling,Skin Needling - Consultation free when you buy 1 Cosmedix Product,"The Exceed™ medical microneedling** device delivers the latest treatment to repair and restore aging skin, naturally. Clinically-proven to dramatically improve facial acne scars and facial wrinkles, the Exceed™ treatment produces excellent results
+
+Includes LED Light 
+
+- If this is your first treatment with Maria for Micro needling, please book this option. This option allows Maria to complete any and all areas your concerned with and includes your mandatory Post Treatment Kit ",1h 30min,214,,"['All team members', 'Maria Mccarthy', ""Sarah O'Callaghan""]",TRUE,"['Enable resources', 'Brow Chair', 'Laser Bed']",
+Micro Needling: Face includes LED Light ,Microneedling,Skin Needling - Consultation free when you buy 1 Cosmedix Product,"The Exceed™ medical microneedling device delivers the latest treatment to repair and restore aging skin, naturally. Clinically-proven to dramatically improve facial acne scars and facial wrinkles, the Exceed™ treatment produces excellent results",1h,190,,"['All team members', 'Maria Mccarthy', ""Sarah O'Callaghan""]",TRUE,"['Enable resources', 'Laser Bed']",
+Micro Needling: Face and Neck includes LED Light ,Microneedling,Skin Needling - Consultation free when you buy 1 Cosmedix Product,"The Exceed™ medical microneedling device delivers the latest treatment to repair and restore aging skin, naturally. Clinically-proven to dramatically improve facial acne scars and facial wrinkles, the Exceed™ treatment produces excellent results
+
+Includes LED Light ",1h 10min,210,,"['All team members', 'Maria Mccarthy', ""Sarah O'Callaghan""]",TRUE,"['Enable resources', 'Laser Bed']",
+"Micro Needling: Face, Neck And Décolleté includes LED Light",Microneedling,Skin Needling - Consultation free when you buy 1 Cosmedix Product,"The Exceed™ medical microneedling** device delivers the latest treatment to repair and restore aging skin, naturally. Clinically-proven to dramatically improve facial acne scars and facial wrinkles, the Exceed™ treatment produces excellent results
+
+Includes LED Light ",1h 15min,230,,"['All team members', 'Maria Mccarthy', ""Sarah O'Callaghan""]",TRUE,"['Enable resources', 'Brow Chair', 'Laser Bed']",
+Pigmentation Removal (Body),Laser Resurfacing,Laser - Pigmentation Removal,Please ask Maria for a quote on your area of concern,1h,150,,['Maria Mccarthy'],TRUE,"['Enable resources', 'Laser Bed']",
+Buttocks ,Laser Hair Removal,Ladies Laser Hair Removal,,15min,60,,"['All team members', 'Maria Mccarthy', ""Sarah O'Callaghan""]",TRUE,"['Enable resources', 'Laser Bed']",
+Laser HR between brows ,Laser Hair Removal,Ladies Laser Hair Removal,Laser hair removal between brows ,10min,10,,"['All team members', 'Maria Mccarthy', ""Sarah O'Callaghan""]",TRUE,"['Enable resources', 'Brow Chair', 'Laser Bed']",
+LHR Patch Test/ Consultation,Laser Hair Removal,Ladies Laser Hair Removal,Laser Hair Removal Patch test and Consultation,20min,,,"['All team members', 'Maria Mccarthy', ""Sarah O'Callaghan""]",TRUE,"['Enable resources', 'Laser Bed']",
+Hollywood (everything removed),Laser Hair Removal,Ladies Laser Hair Removal,,20min,79,,"['All team members', 'Maria Mccarthy', ""Sarah O'Callaghan""]",TRUE,"['Enable resources', 'Laser Bed']",Laser Hair Removal Consultation Form
+Brazilian (a strip left at the front),Laser Hair Removal,Ladies Laser Hair Removal,,15min,79,,"['All team members', 'Maria Mccarthy', ""Sarah O'Callaghan""]",TRUE,"['Enable resources', 'Laser Bed']",Laser Hair Removal Consultation Form
+Californian (extended bikini line),Laser Hair Removal,Ladies Laser Hair Removal,,15min,60,,"['All team members', 'Maria Mccarthy', ""Sarah O'Callaghan""]",TRUE,"['Enable resources', 'Laser Bed']",Laser Hair Removal Consultation Form
+Bikini Line (sides outside knicker line),Laser Hair Removal,Ladies Laser Hair Removal,,15min,45,,"['All team members', 'Maria Mccarthy', ""Sarah O'Callaghan""]",TRUE,"['Enable resources', 'Laser Bed']",Laser Hair Removal Consultation Form
+3/4 arms,Laser Hair Removal,Ladies Laser Hair Removal,,20min,85,,"['All team members', 'Maria Mccarthy', ""Sarah O'Callaghan""]",TRUE,"['Enable resources', 'Laser Bed']",Laser Hair Removal Consultation Form
+Forearms,Laser Hair Removal,Ladies Laser Hair Removal,,20min,75,,"['All team members', 'Maria Mccarthy', ""Sarah O'Callaghan""]",TRUE,[],Laser Hair Removal Consultation Form
+Underarms,Laser Hair Removal,Ladies Laser Hair Removal,,15min,50,,"['All team members', 'Maria Mccarthy', ""Sarah O'Callaghan""]",TRUE,"['Enable resources', 'Laser Bed']",Laser Hair Removal Consultation Form
+Full Face ,Laser Hair Removal,Ladies Laser Hair Removal,,15min,89,,"['All team members', 'Maria Mccarthy', ""Sarah O'Callaghan""]",TRUE,"['Enable resources', 'Laser Bed']",Laser Hair Removal Consultation Form
+Sides of Face ,Laser Hair Removal,Ladies Laser Hair Removal,,15min,50,,"['All team members', 'Maria Mccarthy', ""Sarah O'Callaghan""]",TRUE,"['Enable resources', 'Laser Bed']",Laser Hair Removal Consultation Form
+Lip,Laser Hair Removal,Ladies Laser Hair Removal,,15min,30,,"['All team members', 'Maria Mccarthy', ""Sarah O'Callaghan""]",TRUE,"['Enable resources', 'Laser Bed']",Laser Hair Removal Consultation Form
+Chin,Laser Hair Removal,Ladies Laser Hair Removal,,15min,35,,"['All team members', 'Maria Mccarthy', ""Sarah O'Callaghan""]",TRUE,"['Enable resources', 'Laser Bed']",Laser Hair Removal Consultation Form
+Lip and Chin,Laser Hair Removal,Ladies Laser Hair Removal,,15min,45,,"['All team members', 'Maria Mccarthy', ""Sarah O'Callaghan""]",TRUE,[],Laser Hair Removal Consultation Form
+Chin and Neck,Laser Hair Removal,Ladies Laser Hair Removal,,15min,50,,"['All team members', 'Maria Mccarthy', ""Sarah O'Callaghan""]",TRUE,"['Enable resources', 'Laser Bed']",Laser Hair Removal Consultation Form
+Full legs,Laser Hair Removal,Ladies Laser Hair Removal,,50min,175,,"['All team members', 'Maria Mccarthy', ""Sarah O'Callaghan""]",TRUE,"['Enable resources', 'Laser Bed']",Laser Hair Removal Consultation Form
+3/4 Legs,Laser Hair Removal,Ladies Laser Hair Removal,,40min,135,,"['All team members', 'Maria Mccarthy', ""Sarah O'Callaghan""]",TRUE,"['Enable resources', 'Laser Bed']",Laser Hair Removal Consultation Form
+Lower Legs,Laser Hair Removal,Ladies Laser Hair Removal,,30min,99,,"['All team members', 'Maria Mccarthy', ""Sarah O'Callaghan""]",TRUE,[],Laser Hair Removal Consultation Form
+Laser Hair Removal Patch Test/ Consultation,Laser Hair Removal,Men's Laser Hair Removal,,15min,,,"['All team members', 'Maria Mccarthy', ""Sarah O'Callaghan""]",TRUE,"['Enable resources', 'Laser Bed']",
+Nose (inside) ,Laser Hair Removal,Men's Laser Hair Removal,,15min,40,,"['All team members', 'Maria Mccarthy', ""Sarah O'Callaghan""]",TRUE,"['Enable resources', 'Laser Bed']",Laser Hair Removal Consultation Form
+Full Back and Shoulders ,Laser Hair Removal,Men's Laser Hair Removal,,60min,245,,"['All team members', 'Maria Mccarthy', ""Sarah O'Callaghan""]",TRUE,"['Enable resources', 'Laser Bed']",Laser Hair Removal Consultation Form
+Bridal Makeup Consultation,Bridal Makeup,Makeup,,75min,50,,['Maria Mccarthy'],TRUE,"['Enable resources', 'Makeup Chair']",
+Makeup (No Lashes),Makeup Service,Makeup,,45min,35,,"[""Sarah O'Callaghan""]",TRUE,"['Enable resources', 'Makeup Chair']",
+Makeup with Individual Lashes ,Makeup Service,Makeup,,60min,40,,"[""Sarah O'Callaghan""]",TRUE,"['Enable resources', 'Makeup Chair']",
+Makeup with Strip Lashes ,Makeup Service,Makeup,,60min,40,,"[""Sarah O'Callaghan""]",TRUE,"['Enable resources', 'Makeup Chair']",
+Application of false lashes only ,Makeup Service,Makeup,,15min,15,,"[""Sarah O'Callaghan""]",TRUE,"['Enable resources', 'Makeup Chair']",
+Powder Brows Patch test and Consultation ,Skin Consultation,Brows And Lashes,Skin text with pigment and consultation to ensure you are eligible to receive powder brows ,15min,,,"['All team members', 'Maria Mccarthy', ""Sarah O'Callaghan""]",TRUE,[],
+Hybrid Brows ,Eyebrow Tinting,Brows And Lashes,"Hybrid Brows fit comfortably between Henna Brows and Hd Brows. Hybrid Brows are for those of you that love the HD brows shape but you'd prefer a tint on the skin while not having the permanent opaque look people love from a Henna Brow. Mapping, waxing, threading, tweezing and threading all included. Try them for yourself and see. Get patch tested at your next appointment or book a free patch online",45min,45,,"['All team members', 'Maria Mccarthy', ""Sarah O'Callaghan""]",TRUE,[],
+Tint and Shape Tint and Shape plus lip thread/wax, ,,"Patch test required.
+A 15 minute quick tint and shape. Designed for clients with little brow hair. Or clients that are inbetween HD brows treatments. 
+Lip can be threading or waxed your choice ",15min,20.37,,,,,
+Lip Tint and Shape plus lip thread/wax, ,,"Patch test required.
+A 15 minute quick tint and shape. Designed for clients with little brow hair. Or clients that are inbetween HD brows treatments. 
+Lip can be threading or waxed your choice ",5min,4.63,,,,,
+Epiluxe Brows Epiluxe Brows and Lip Thread/Wax, ,,"Patch Test Required
+The Epiluxe Brow is a bespoke eyebrow treatment that is totally tailored to you. It's so much more than a standard eyebrow tint and wax: We mix a tint specific to suit your skin and hair colour but also keeping in mind your personal preference. A variety of hair removal techniques are then used to create your desired shape. Longer lasting and perfectly shaped Epiluxe Brows.
+
+For the lip, either waxing or threading can be used, it’s up to you! ",30min,30.27,,,,,
+Lip Epiluxe Brows and Lip Thread/Wax, ,,"Patch Test Required
+The Epiluxe Brow is a bespoke eyebrow treatment that is totally tailored to you. It's so much more than a standard eyebrow tint and wax: We mix a tint specific to suit your skin and hair colour but also keeping in mind your personal preference. A variety of hair removal techniques are then used to create your desired shape. Longer lasting and perfectly shaped Epiluxe Brows.
+
+For the lip, either waxing or threading can be used, it’s up to you! ",5min,4.73,,,,,
+Eyelash Tint ,Eyelash Tinting,Brows And Lashes,"Patch test required
+We use an 8 week tint for all lash tints for longer lasting colour on the lashes!",10min,10,,"['All team members', 'Maria Mccarthy', ""Sarah O'Callaghan""]",TRUE,"['Enable resources', 'Brow Chair', 'Laser Bed']",
+Brow Lamination Brow Lamination And Lash Lift , ,,Patch test required ,45min,45.1,,,,,
+Lash Lift Brow Lamination And Lash Lift , ,,Patch test required ,45min,46.9,,,,,
+Patch Test Brow and Lash Treatments,Eyelash Tinting,Brows And Lashes,,10min,,,"['All team members', 'Maria Mccarthy', ""Sarah O'Callaghan""]",TRUE,"['Enable resources', 'Makeup Chair', 'Brow Chair', 'Laser Bed']",
+Epiluxe Brows Lash Lift and Epiluxe Brows , ,,Patch test required ,30min,28.57,,,,,
+Lash Lift Lash Lift and Epiluxe Brows , ,,Patch test required ,45min,46.43,,,,,
+Tint and Shape ,Eyebrow Shaping,Brows And Lashes,"Patch test required.
+A 15 minute quick tint and shape with regular tint. Designed for clients with little brow hair. Or clients that are inbetween HD brows treatments. ",15min,22,,"[""Sarah O'Callaghan""]",TRUE,"['Enable resources', 'Brow Chair', 'Laser Bed']",
+Brow Thread,Threading,Brows And Lashes,"Brow Thread, client can opt for brow waxing and threading for same price ",15min,15,,"[""Sarah O'Callaghan""]",TRUE,"['Enable resources', 'Brow Chair', 'Laser Bed']",
+Epiluxe Brows,Eyebrow Tinting,Brows And Lashes,"Patch Test Required
+The HD Brow is a bespoke eyebrow treatment that is totally tailored to you. It's so much more than a standard eyebrow tint and wax: Maria mixes a HD brow tint specific to suit your skin and hair colour but also keeping in mind your personal preference. A variety of hair removal techniques are then used to create your desired shape. Longer lasting and perfectly shaped Hd Brows.",30min,32,,"['All team members', 'Maria Mccarthy', ""Sarah O'Callaghan""]",TRUE,"['Enable resources', 'Brow Chair', 'Laser Bed']",
+Brow Lamination,Eyelash Tinting,Brows And Lashes,"Brow Straightening with perm solution. Patch test required.
+
+Brows are manipulated with perm products to add drama, thickness and shape to the brows.
+A growing trend that can also benefit clients with thin brows for a fuller look",45min,50,,"['All team members', 'Maria Mccarthy', ""Sarah O'Callaghan""]",TRUE,"['Enable resources', 'Brow Chair', 'Laser Bed']",
+Henna Brows ,Eyelash Tinting,Brows And Lashes,"Patch Test Required
+Henna brow is a tint that stains the skin. Designed for clients who find regular tint or HD brow tint doesn't last. 
+Advised for clients with little brow hair or gaps in the brows",40min,40,,"['All team members', 'Maria Mccarthy', ""Sarah O'Callaghan""]",TRUE,"['Enable resources', 'Brow Chair', 'Laser Bed']",
+Lash Lift ,Lash Lift,Brows And Lashes,"A Lash Perm. Patch Test Required. Lashes need to be kept dry for 24 hours to set
+
+Silicone moulds and products are used to gently and carefully manipulate the natural lashes in an upright, curled position. An 8 week tint is applied to add definition. The treatment lasts 10 weeks. 
+Clients will feel they have false lashes, add mascara to give a dramatic effect.",45min,52,,"['All team members', 'Maria Mccarthy', ""Sarah O'Callaghan""]",TRUE,[],
+Chin Chin and Neck, ,,,15min,4.5,,,,,
+Neck Chin and Neck, ,,,10min,9,,,,,
+Lip,Threading,Threading,,5min,5,,"['All team members', 'Maria Mccarthy', ""Sarah O'Callaghan""]",TRUE,"['Enable resources', 'Brow Chair', 'Laser Bed']",
+Chin,Threading,Threading,,15min,5,,"['All team members', 'Maria Mccarthy', ""Sarah O'Callaghan""]",TRUE,"['Enable resources', 'Brow Chair', 'Laser Bed']",
+Lip and Chin ,Threading,Threading,,15min,10,,"['All team members', 'Maria Mccarthy', ""Sarah O'Callaghan""]",TRUE,"['Enable resources', 'Brow Chair', 'Laser Bed']",
+Full Face ,Threading,Threading,,20min,30,,"['All team members', 'Maria Mccarthy', ""Sarah O'Callaghan""]",TRUE,"['Enable resources', 'Brow Chair', 'Laser Bed']",
+Sides of Face ,Threading,Threading,,20min,20,,"['All team members', 'Maria Mccarthy', ""Sarah O'Callaghan""]",TRUE,"['Enable resources', 'Brow Chair', 'Laser Bed']",
+Neck,Threading,Threading,,10min,10,,"['All team members', 'Maria Mccarthy', ""Sarah O'Callaghan""]",TRUE,"['Enable resources', 'Brow Chair', 'Laser Bed']",
+Manual payment,Hair Styling,Manual Payment,Service for manual charges,5min,1,,[],FALSE,[],

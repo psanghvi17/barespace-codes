@@ -28,11 +28,11 @@ def login():
     driver.get("https://barespace.app/login/")
     time.sleep(2)
     email_field = driver.find_element(By.ID, "email")
-    email = "setup+epiluxeclinic@barespace.io"
+    email = "setup+dollhousehair&beauty@barespace.io"
     email_field.send_keys(email)
     password_field = driver.find_element(By.ID, "password") 
-    password = "epiluxeclinic123"
-    password_field.send_keys(password)
+    password = "dollhousehair&beauty123"
+    password_field.send_keys(password)      
     login_button = driver.find_element(By.XPATH, "//button[contains(@class, 'btn-next') and text()='Login']")
     time.sleep(2)
     login_button.click()
@@ -50,6 +50,29 @@ def fill_text_input(driver, field_name, value):
         field.send_keys(value)
 
 def select_multiselect_option(driver, field_label, option_text):
+    print('select_multiselect_option', field_label)
+    if len(option_text) > 0:
+        try:
+            label = WebDriverWait(driver, 10).until(
+                EC.element_to_be_clickable((By.XPATH, f"//label[contains(text(), '{field_label}')]/following-sibling::div"))
+            )
+            dropdown = label.find_element(By.CLASS_NAME, "multiselect__tags")
+            dropdown.click()
+
+            options = WebDriverWait(driver, 10).until(
+                EC.presence_of_all_elements_located((By.CLASS_NAME, "multiselect__option"))
+            )
+            for option in options:
+                if option_text in option.text:
+                    option.click()
+                    break
+        except StaleElementReferenceException:
+            print("StaleElementReferenceException encountered. Retrying...")
+            return select_multiselect_option(driver, field_label, option_text)
+        except Exception as e:
+            print(f"An error occurred in select_multiselect_option: {e}")
+
+def select_multiselect_option1(driver, field_label, option_text):
     print('select_multiselect_option',field_label)
     if len(option_text)>0:
         label = WebDriverWait(driver, 10).until( EC.element_to_be_clickable((By.XPATH, f"//label[contains(text(), '{field_label}')]/following-sibling::div"))   )
@@ -113,7 +136,7 @@ def click_create_new_service():
             break
         except StaleElementReferenceException:
             print("Stale element encountered. Retrying...")
-            time.sleep(1)  # Short delay before retrying
+            time.sleep(10)  # Short delay before retrying
         except Exception as e:
             print(f"An unexpected error occurred: {e}")
             break
@@ -138,48 +161,33 @@ try:
     time.sleep(2)
     login()   
     click_services()     
-    in_csv_file_path = 'fresha-services-inp.csv'
+    in_csv_file_path = 'services_info.csv'
     in_csv_file = open(in_csv_file_path, mode='r', newline='',encoding='utf-8')
     in_csv_reader = csv.reader(in_csv_file)
     header = next(in_csv_reader)    
     for row_number, row in enumerate(in_csv_reader, start=1):
-        if len(row[5])>0:
+        if len(row[3])>0:
             print(row[0])
             add_product_button = WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.XPATH, "//button[span[text()='Add Service']]")))
             driver.execute_script("arguments[0].click();", add_product_button)            
             fill_text_input(driver, "service_name", row[0].title())
             print("service_name")
             time.sleep(1)
-            select_multiselect_option(driver, "Service Categories", row[2].title())   
+            select_multiselect_option(driver, "Service Categories", row[3].title())   
             print("Service Categories")            
-            select_multiselect_option(driver, "Location", "Epiluxe Beauty Clinic")                
-            print("Location") 
-            if len(row[7])>0:
-                staff_list = ast.literal_eval(row[7])             
-                for staff in staff_list:                 
-                    select_multiselect_option(driver, "Staff Group", staff.split(' ')[0])               
-            if len(row[10])>0:
-                select_multiselect_option(driver, "Form", row[10])      
-            fill_text_input(driver, "service_price", row[5])             
-            fill_text_input(driver, "service_duration", row[4])            
-            print("service_duration")
-            if len(row[9])>0:
-                resource_list = ast.literal_eval(row[9]) 
-                for resource in resource_list:                 
-                    select_multiselect_option(driver, "Resource", resource.split(' ')[0]) 
-            print("Resource")
-
-            if len(row[3])>0:
-                print("Description")
-                fill_ck_editor(remove_non_bmp_chars(row[3]))
-                time.sleep(5)
-            print("Desc done, checkbox start")
-            if row[8] == 'FALSE': 
+            select_multiselect_option(driver, "Location", "Dollhouse Hair & Beauty")                
+            print("Location")                                
+            fill_text_input(driver, "service_price", row[1])             
+            fill_text_input(driver, "service_duration", row[2])  
+            fill_text_input(driver, "prep_time", row[4])            
+            print("service_duration")            
+            if row[5] == '0': 
                 print("Checkbox")                   
                 uncheck_box()
             print("Submit")
-            click_create_new_service()
-            time.sleep(10)
+            click_create_new_service()      
+            time.sleep(10)      
+            # break
 except Exception as e:
     print(e)
 finally:

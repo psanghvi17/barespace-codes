@@ -24,7 +24,7 @@ def login():
     driver.get("https://partners.fresha.com/users/sign-in/") 
     time.sleep(10)   
     email_field = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.NAME, "email")))
-    email = "aoife+studio75@barespace.io "
+    email = "aoife+epiluxe@barespace.io"
     email_field.send_keys(email)
     email_field.send_keys(Keys.RETURN) 
     time.sleep(10)   

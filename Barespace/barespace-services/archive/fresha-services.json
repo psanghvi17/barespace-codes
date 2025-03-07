@@ -1,0 +1,6867 @@
+[
+  {
+    "attributes": {
+      "archived-at": null,
+      "book-online": false,
+      "booking-sorting-id": 0,
+      "color": "indigo",
+      "commission-enabled": true,
+      "description": null,
+      "duration-in-seconds": 3600,
+      "duration-value": 60,
+      "max-duration-in-seconds": 3600,
+      "min-duration-in-seconds": 3600,
+      "name": "Gents cut ",
+      "non-discounted-price": 18,
+      "number-of-items": 1,
+      "price-type": "fixed",
+      "retail-price": 18,
+      "sorting-id": -20
+    },
+    "id": "15640020",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Martha services",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Martha Alice",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "15640020_spl18180744",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": null
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": {
+          "id": "15766743",
+          "type": "services"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": null,
+      "book-online": true,
+      "booking-sorting-id": 0,
+      "color": "indigo",
+      "commission-enabled": true,
+      "description": null,
+      "duration-in-seconds": 300,
+      "duration-value": 5,
+      "max-duration-in-seconds": 300,
+      "min-duration-in-seconds": 300,
+      "name": "Olaplex Hydrating Mask ",
+      "non-discounted-price": 6,
+      "number-of-items": 1,
+      "price-type": "fixed",
+      "retail-price": 6,
+      "sorting-id": -19
+    },
+    "id": "15572327",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Martha services",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Martha Alice",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "15572327_spl18104770",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": null
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": {
+          "id": "15699790",
+          "type": "services"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": null,
+      "book-online": true,
+      "booking-sorting-id": 0,
+      "color": "indigo",
+      "commission-enabled": true,
+      "description": null,
+      "duration-in-seconds": 1200,
+      "duration-value": 20,
+      "max-duration-in-seconds": 1200,
+      "min-duration-in-seconds": 1200,
+      "name": "Olaplex stand alone ",
+      "non-discounted-price": 30,
+      "number-of-items": 1,
+      "price-type": "fixed",
+      "retail-price": 30,
+      "sorting-id": -18
+    },
+    "id": "15572316",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Martha services",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Martha Alice",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "15572316_spl18104756",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": null
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": {
+          "id": "15699779",
+          "type": "services"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": null,
+      "book-online": true,
+      "booking-sorting-id": 0,
+      "color": "indigo",
+      "commission-enabled": true,
+      "description": null,
+      "duration-in-seconds": 300,
+      "duration-value": 5,
+      "max-duration-in-seconds": 300,
+      "min-duration-in-seconds": 300,
+      "name": "Olaplex in Colour ",
+      "non-discounted-price": 18.5,
+      "number-of-items": 1,
+      "price-type": "fixed",
+      "retail-price": 18.5,
+      "sorting-id": -17
+    },
+    "id": "15572308",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Martha services",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Martha Alice",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "15572308_spl18104747",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": null
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": {
+          "id": "15699770",
+          "type": "services"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": null,
+      "book-online": true,
+      "booking-sorting-id": 0,
+      "color": "indigo",
+      "commission-enabled": true,
+      "description": null,
+      "duration-in-seconds": 3600,
+      "duration-value": 60,
+      "max-duration-in-seconds": 3600,
+      "min-duration-in-seconds": 3600,
+      "name": "Colour Correction ",
+      "non-discounted-price": 70,
+      "number-of-items": 1,
+      "price-type": "starts_at",
+      "retail-price": 70,
+      "sorting-id": -16
+    },
+    "id": "15572300",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Martha services",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Martha Alice",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "15572300_spl18104735",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": null
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": {
+          "id": "15699762",
+          "type": "services"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": null,
+      "book-online": true,
+      "booking-sorting-id": 0,
+      "color": "indigo",
+      "commission-enabled": true,
+      "description": null,
+      "duration-in-seconds": 1800,
+      "duration-value": 30,
+      "max-duration-in-seconds": 1800,
+      "min-duration-in-seconds": 1800,
+      "name": "Face framing / Scandi ",
+      "non-discounted-price": 26,
+      "number-of-items": 1,
+      "price-type": "fixed",
+      "retail-price": 26,
+      "sorting-id": -15
+    },
+    "id": "15572295",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Martha services",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Martha Alice",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "15572295_spl18104727",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": null
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": {
+          "id": "15699757",
+          "type": "services"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": null,
+      "book-online": true,
+      "booking-sorting-id": 0,
+      "color": "indigo",
+      "commission-enabled": true,
+      "description": null,
+      "duration-in-seconds": 3600,
+      "duration-value": 60,
+      "max-duration-in-seconds": 3600,
+      "min-duration-in-seconds": 3600,
+      "name": "Creative colour ",
+      "non-discounted-price": 65,
+      "number-of-items": 1,
+      "price-type": "starts_at",
+      "retail-price": 65,
+      "sorting-id": -14
+    },
+    "id": "15572288",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Martha services",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Martha Alice",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "15572288_spl18104720",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": null
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": {
+          "id": "15699750",
+          "type": "services"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": null,
+      "book-online": true,
+      "booking-sorting-id": 0,
+      "color": "indigo",
+      "commission-enabled": true,
+      "description": null,
+      "duration-in-seconds": 1800,
+      "duration-value": 30,
+      "max-duration-in-seconds": 1800,
+      "min-duration-in-seconds": 1800,
+      "name": "Undertone slices ",
+      "non-discounted-price": 25,
+      "number-of-items": 1,
+      "price-type": "fixed",
+      "retail-price": 25,
+      "sorting-id": -13
+    },
+    "id": "15572282",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Martha services",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Martha Alice",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "15572282_spl18104713",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": null
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": {
+          "id": "15699744",
+          "type": "services"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": null,
+      "book-online": true,
+      "booking-sorting-id": 0,
+      "color": "indigo",
+      "commission-enabled": true,
+      "description": null,
+      "duration-in-seconds": 3600,
+      "duration-value": 60,
+      "max-duration-in-seconds": 3600,
+      "min-duration-in-seconds": 3600,
+      "name": "Full head Foils",
+      "non-discounted-price": 60,
+      "number-of-items": 1,
+      "price-type": "fixed",
+      "retail-price": 60,
+      "sorting-id": -12
+    },
+    "id": "15572274",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Martha services",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Martha Alice",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "15572274_spl18104706",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": null
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": {
+          "id": "15699737",
+          "type": "services"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": null,
+      "book-online": true,
+      "booking-sorting-id": 0,
+      "color": "indigo",
+      "commission-enabled": true,
+      "description": null,
+      "duration-in-seconds": 2700,
+      "duration-value": 45,
+      "max-duration-in-seconds": 2700,
+      "min-duration-in-seconds": 2700,
+      "name": "Partial Foils ",
+      "non-discounted-price": 50,
+      "number-of-items": 1,
+      "price-type": "fixed",
+      "retail-price": 50,
+      "sorting-id": -11
+    },
+    "id": "15572264",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Martha services",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Martha Alice",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "15572264_spl18104696",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": null
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": {
+          "id": "15699727",
+          "type": "services"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": null,
+      "book-online": true,
+      "booking-sorting-id": 0,
+      "color": "indigo",
+      "commission-enabled": true,
+      "description": null,
+      "duration-in-seconds": 900,
+      "duration-value": 15,
+      "max-duration-in-seconds": 900,
+      "min-duration-in-seconds": 900,
+      "name": "Toner",
+      "non-discounted-price": 18.5,
+      "number-of-items": 1,
+      "price-type": "fixed",
+      "retail-price": 18.5,
+      "sorting-id": -10
+    },
+    "id": "15572256",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Martha services",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Martha Alice",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "15572256_spl18104689",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": null
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": {
+          "id": "15699720",
+          "type": "services"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": null,
+      "book-online": true,
+      "booking-sorting-id": 0,
+      "color": "indigo",
+      "commission-enabled": true,
+      "description": null,
+      "duration-in-seconds": 1800,
+      "duration-value": 30,
+      "max-duration-in-seconds": 1800,
+      "min-duration-in-seconds": 1800,
+      "name": "Semi permanent ",
+      "non-discounted-price": 40,
+      "number-of-items": 1,
+      "price-type": "fixed",
+      "retail-price": 40,
+      "sorting-id": -9
+    },
+    "id": "15572253",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Martha services",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Martha Alice",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "15572253_spl18104684",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": null
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": {
+          "id": "15699717",
+          "type": "services"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": null,
+      "book-online": true,
+      "booking-sorting-id": 0,
+      "color": "indigo",
+      "commission-enabled": true,
+      "description": null,
+      "duration-in-seconds": 2700,
+      "duration-value": 45,
+      "max-duration-in-seconds": 2700,
+      "min-duration-in-seconds": 2700,
+      "name": "Full head colour ",
+      "non-discounted-price": 60,
+      "number-of-items": 1,
+      "price-type": "fixed",
+      "retail-price": 60,
+      "sorting-id": -8
+    },
+    "id": "15572238",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Martha services",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Martha Alice",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "15572238_spl18104669",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": null
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": {
+          "id": "15699703",
+          "type": "services"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": null,
+      "book-online": true,
+      "booking-sorting-id": 0,
+      "color": "indigo",
+      "commission-enabled": true,
+      "description": null,
+      "duration-in-seconds": 1800,
+      "duration-value": 30,
+      "max-duration-in-seconds": 1800,
+      "min-duration-in-seconds": 1800,
+      "name": "Root retouch ",
+      "non-discounted-price": 46,
+      "number-of-items": 1,
+      "price-type": "fixed",
+      "retail-price": 46,
+      "sorting-id": -7
+    },
+    "id": "15572224",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Martha services",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Martha Alice",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "15572224_spl18104652",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": null
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": {
+          "id": "15699689",
+          "type": "services"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": null,
+      "book-online": true,
+      "booking-sorting-id": 0,
+      "color": "indigo",
+      "commission-enabled": true,
+      "description": "Blowdry",
+      "duration-in-seconds": 1800,
+      "duration-value": 30,
+      "max-duration-in-seconds": 1800,
+      "min-duration-in-seconds": 1800,
+      "name": "Finish",
+      "non-discounted-price": 28,
+      "number-of-items": 1,
+      "price-type": "fixed",
+      "retail-price": 28,
+      "sorting-id": -6
+    },
+    "id": "15572215",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Martha services",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Martha Alice",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "15572215_spl18104643",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": null
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": {
+          "id": "15699680",
+          "type": "services"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": null,
+      "book-online": true,
+      "booking-sorting-id": 0,
+      "color": "indigo",
+      "commission-enabled": true,
+      "description": null,
+      "duration-in-seconds": 300,
+      "duration-value": 5,
+      "max-duration-in-seconds": 300,
+      "min-duration-in-seconds": 300,
+      "name": "Fringe Trim ",
+      "non-discounted-price": 6,
+      "number-of-items": 1,
+      "price-type": "fixed",
+      "retail-price": 6,
+      "sorting-id": -5
+    },
+    "id": "15572209",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Martha services",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Martha Alice",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "15572209_spl18104636",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": null
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": {
+          "id": "15699674",
+          "type": "services"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": null,
+      "book-online": true,
+      "booking-sorting-id": 0,
+      "color": "indigo",
+      "commission-enabled": true,
+      "description": null,
+      "duration-in-seconds": 3600,
+      "duration-value": 60,
+      "max-duration-in-seconds": 3600,
+      "min-duration-in-seconds": 3600,
+      "name": "Restyle ",
+      "non-discounted-price": 46,
+      "number-of-items": 1,
+      "price-type": "fixed",
+      "retail-price": 46,
+      "sorting-id": -4
+    },
+    "id": "15572202",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Martha services",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Martha Alice",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "15572202_spl18104627",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": null
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": {
+          "id": "15699667",
+          "type": "services"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": null,
+      "book-online": true,
+      "booking-sorting-id": 0,
+      "color": "indigo",
+      "commission-enabled": true,
+      "description": null,
+      "duration-in-seconds": 1800,
+      "duration-value": 30,
+      "max-duration-in-seconds": 1800,
+      "min-duration-in-seconds": 1800,
+      "name": "Kids Cut",
+      "non-discounted-price": 27.5,
+      "number-of-items": 1,
+      "price-type": "fixed",
+      "retail-price": 27.5,
+      "sorting-id": -3
+    },
+    "id": "15572199",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Martha services",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Martha Alice",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "15572199_spl18104624",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": null
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": {
+          "id": "15699664",
+          "type": "services"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": null,
+      "book-online": true,
+      "booking-sorting-id": 0,
+      "color": "indigo",
+      "commission-enabled": true,
+      "description": null,
+      "duration-in-seconds": 1800,
+      "duration-value": 30,
+      "max-duration-in-seconds": 1800,
+      "min-duration-in-seconds": 1800,
+      "name": "Wet / Dry Cut",
+      "non-discounted-price": 32,
+      "number-of-items": 1,
+      "price-type": "fixed",
+      "retail-price": 32,
+      "sorting-id": -2
+    },
+    "id": "15572196",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Martha services",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Martha Alice",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "15572196_spl18104621",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": null
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": {
+          "id": "15699661",
+          "type": "services"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": null,
+      "book-online": true,
+      "booking-sorting-id": 0,
+      "color": "indigo",
+      "commission-enabled": true,
+      "description": null,
+      "duration-in-seconds": 2700,
+      "duration-value": 45,
+      "max-duration-in-seconds": 2700,
+      "min-duration-in-seconds": 2700,
+      "name": "Cut & Finish ",
+      "non-discounted-price": 38,
+      "number-of-items": 1,
+      "price-type": "fixed",
+      "retail-price": 38,
+      "sorting-id": -1
+    },
+    "id": "15572186",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Martha services",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Martha Alice",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "15572186_spl18104610",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": null
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": {
+          "id": "15699652",
+          "type": "services"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": null,
+      "book-online": true,
+      "booking-sorting-id": 0,
+      "color": "orange",
+      "commission-enabled": true,
+      "description": "From 8 to 16 years old ",
+      "duration-in-seconds": 2700,
+      "duration-value": 45,
+      "max-duration-in-seconds": 2700,
+      "min-duration-in-seconds": 2700,
+      "name": "Curly Kids Cut & Blowout",
+      "non-discounted-price": 27.5,
+      "number-of-items": 1,
+      "price-type": "fixed",
+      "retail-price": 27.5,
+      "sorting-id": -5
+    },
+    "id": "12702508",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Curly Girls",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Anna Hibberd",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "12702508_spl14959502",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": null
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": {
+          "id": "12920738",
+          "type": "services"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": null,
+      "book-online": true,
+      "booking-sorting-id": 0,
+      "color": "orange",
+      "commission-enabled": true,
+      "description": "Up to 7 years old ",
+      "duration-in-seconds": 1800,
+      "duration-value": 30,
+      "max-duration-in-seconds": 1800,
+      "min-duration-in-seconds": 1800,
+      "name": "Curly Kids Cut & Blowout ",
+      "non-discounted-price": 17.5,
+      "number-of-items": 1,
+      "price-type": "fixed",
+      "retail-price": 17.5,
+      "sorting-id": -4
+    },
+    "id": "12702494",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Curly Girls",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Anna Hibberd",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "12702494_spl14959487",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": null
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": {
+          "id": "12920724",
+          "type": "services"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": "2024-10-14T04:53:54.393331Z",
+      "book-online": false,
+      "booking-sorting-id": 0,
+      "color": "orange",
+      "commission-enabled": true,
+      "description": null,
+      "duration-in-seconds": 3600,
+      "duration-value": 60,
+      "max-duration-in-seconds": 3600,
+      "min-duration-in-seconds": 3600,
+      "name": "Hydrating Mask & Blowout ",
+      "non-discounted-price": 42,
+      "number-of-items": 1,
+      "price-type": "fixed",
+      "retail-price": 42,
+      "sorting-id": -3
+    },
+    "id": "12702398",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Curly Girls",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Anna Hibberd",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "12702398_spl14959384",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": null
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": {
+          "id": "12920628",
+          "type": "services"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": null,
+      "book-online": true,
+      "booking-sorting-id": 0,
+      "color": "orange",
+      "commission-enabled": true,
+      "description": null,
+      "duration-in-seconds": 4500,
+      "duration-value": 75,
+      "max-duration-in-seconds": 4500,
+      "min-duration-in-seconds": 4500,
+      "name": "Cut / Clense & Blowout ",
+      "non-discounted-price": 56,
+      "number-of-items": 1,
+      "price-type": "fixed",
+      "retail-price": 56,
+      "sorting-id": -2
+    },
+    "id": "12702355",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Curly Girls",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Anna Hibberd",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "12702355_spl14959336",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": null
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": {
+          "id": "12920587",
+          "type": "services"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": "2024-10-14T04:54:10.926463Z",
+      "book-online": false,
+      "booking-sorting-id": 0,
+      "color": "orange",
+      "commission-enabled": true,
+      "description": "Wash / Clense / Blow out ",
+      "duration-in-seconds": 2700,
+      "duration-value": 45,
+      "max-duration-in-seconds": 2700,
+      "min-duration-in-seconds": 2700,
+      "name": "Clense & Blowout ",
+      "non-discounted-price": 32,
+      "number-of-items": 1,
+      "price-type": "fixed",
+      "retail-price": 32,
+      "sorting-id": -1
+    },
+    "id": "12702343",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Curly Girls",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Anna Hibberd",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "12702343_spl14959324",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": null
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": {
+          "id": "12920575",
+          "type": "services"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": null,
+      "book-online": true,
+      "booking-sorting-id": 0,
+      "color": "blue",
+      "commission-enabled": true,
+      "description": "Face framing ",
+      "duration-in-seconds": 1800,
+      "duration-value": 30,
+      "max-duration-in-seconds": 1800,
+      "min-duration-in-seconds": 1800,
+      "name": "Face framing ",
+      "non-discounted-price": 43,
+      "number-of-items": 1,
+      "price-type": "fixed",
+      "retail-price": 43,
+      "sorting-id": 1
+    },
+    "id": "6501675",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Colour Services",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Anna Hibberd",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "6501675_spl8161834",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": null
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": {
+          "id": "6948439",
+          "type": "services"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": null,
+      "book-online": false,
+      "booking-sorting-id": 0,
+      "color": "blue",
+      "commission-enabled": true,
+      "description": null,
+      "duration-in-seconds": 1800,
+      "duration-value": 30,
+      "max-duration-in-seconds": 1800,
+      "min-duration-in-seconds": 1800,
+      "name": "Full head colour ",
+      "non-discounted-price": 79,
+      "number-of-items": 1,
+      "price-type": "fixed",
+      "retail-price": 79,
+      "sorting-id": 2
+    },
+    "id": "4726558",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Colour Services",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Anna Hibberd",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "4726558_spl6192469",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": null
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": {
+          "id": "5242854",
+          "type": "services"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": null,
+      "book-online": true,
+      "booking-sorting-id": 0,
+      "color": "blue",
+      "commission-enabled": true,
+      "description": "Consultation to discus your appointment further & including a patch test if required! ",
+      "duration-in-seconds": 900,
+      "duration-value": 15,
+      "max-duration-in-seconds": 900,
+      "min-duration-in-seconds": 900,
+      "name": "Consultation",
+      "non-discounted-price": 0,
+      "number-of-items": 1,
+      "price-type": "free",
+      "retail-price": 0,
+      "sorting-id": 3
+    },
+    "id": "4190233",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Colour Services",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Anna Hibberd",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "4190233_spl5581947",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": null
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": {
+          "id": "4729096",
+          "type": "services"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": "2024-09-02T11:48:08.000558Z",
+      "book-online": false,
+      "booking-sorting-id": 0,
+      "color": "blue",
+      "commission-enabled": true,
+      "description": null,
+      "duration-in-seconds": 5400,
+      "duration-value": 90,
+      "max-duration-in-seconds": 5400,
+      "min-duration-in-seconds": 5400,
+      "name": "Colour Correction",
+      "non-discounted-price": 70,
+      "number-of-items": 1,
+      "price-type": "starts_at",
+      "retail-price": 70,
+      "sorting-id": 4
+    },
+    "id": "3547799",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Colour Services",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Anna Hibberd",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "3547799_spl4857841",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": null
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": {
+          "id": "4113871",
+          "type": "services"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": null,
+      "book-online": false,
+      "booking-sorting-id": 0,
+      "color": "blue",
+      "commission-enabled": true,
+      "description": null,
+      "duration-in-seconds": 900,
+      "duration-value": 15,
+      "max-duration-in-seconds": 900,
+      "min-duration-in-seconds": 900,
+      "name": "Root retouch",
+      "non-discounted-price": 44.5,
+      "number-of-items": 1,
+      "price-type": "fixed",
+      "retail-price": 44.5,
+      "sorting-id": 9
+    },
+    "id": "3506638",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Colour Services",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Anna Hibberd",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "3506638_spl4811063",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": null
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": {
+          "id": "4074529",
+          "type": "services"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": null,
+      "book-online": false,
+      "booking-sorting-id": 0,
+      "color": "blue",
+      "commission-enabled": true,
+      "description": null,
+      "duration-in-seconds": 3600,
+      "duration-value": 60,
+      "max-duration-in-seconds": 3600,
+      "min-duration-in-seconds": 3600,
+      "name": "Full head highlights/babylights",
+      "non-discounted-price": 70,
+      "number-of-items": 1,
+      "price-type": "fixed",
+      "retail-price": 70,
+      "sorting-id": 10
+    },
+    "id": "3506637",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Colour Services",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Anna Hibberd",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "3506637_spl4811062",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": null
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": {
+          "id": "4074528",
+          "type": "services"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": null,
+      "book-online": false,
+      "booking-sorting-id": 0,
+      "color": "blue",
+      "commission-enabled": true,
+      "description": null,
+      "duration-in-seconds": 3000,
+      "duration-value": 50,
+      "max-duration-in-seconds": 3000,
+      "min-duration-in-seconds": 3000,
+      "name": "Half head highlights",
+      "non-discounted-price": 60,
+      "number-of-items": 1,
+      "price-type": "fixed",
+      "retail-price": 60,
+      "sorting-id": 12
+    },
+    "id": "3506635",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Colour Services",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Anna Hibberd",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "3506635_spl4811060",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": null
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": {
+          "id": "4074526",
+          "type": "services"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": null,
+      "book-online": false,
+      "booking-sorting-id": 0,
+      "color": "blue",
+      "commission-enabled": true,
+      "description": null,
+      "duration-in-seconds": 3600,
+      "duration-value": 60,
+      "max-duration-in-seconds": 3600,
+      "min-duration-in-seconds": 3600,
+      "name": "Creative colour (root retouch & highlights)",
+      "non-discounted-price": 68,
+      "number-of-items": 1,
+      "price-type": "starts_at",
+      "retail-price": 68,
+      "sorting-id": 13
+    },
+    "id": "3506633",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Colour Services",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Anna Hibberd",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "3506633_spl4811058",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": null
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": {
+          "id": "4074524",
+          "type": "services"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": null,
+      "book-online": false,
+      "booking-sorting-id": 0,
+      "color": "blue",
+      "commission-enabled": true,
+      "description": null,
+      "duration-in-seconds": 3600,
+      "duration-value": 60,
+      "max-duration-in-seconds": 3600,
+      "min-duration-in-seconds": 3600,
+      "name": "Balayage",
+      "non-discounted-price": 85,
+      "number-of-items": 1,
+      "price-type": "fixed",
+      "retail-price": 85,
+      "sorting-id": 14
+    },
+    "id": "3506631",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Colour Services",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Anna Hibberd",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "3506631_spl4811056",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": null
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": {
+          "id": "4074522",
+          "type": "services"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": null,
+      "book-online": true,
+      "booking-sorting-id": 0,
+      "color": "blue",
+      "commission-enabled": true,
+      "description": null,
+      "duration-in-seconds": 900,
+      "duration-value": 15,
+      "max-duration-in-seconds": 900,
+      "min-duration-in-seconds": 900,
+      "name": "Toner",
+      "non-discounted-price": 19.5,
+      "number-of-items": 1,
+      "price-type": "fixed",
+      "retail-price": 19.5,
+      "sorting-id": 15
+    },
+    "id": "3506630",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Colour Services",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Anna Hibberd",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "3506630_spl4811055",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": null
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": {
+          "id": "4074521",
+          "type": "services"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": null,
+      "book-online": false,
+      "booking-sorting-id": 0,
+      "color": "blue",
+      "commission-enabled": true,
+      "description": "Lightening cleanse",
+      "duration-in-seconds": 300,
+      "duration-value": 5,
+      "max-duration-in-seconds": 300,
+      "min-duration-in-seconds": 300,
+      "name": "Lighten cleanse ",
+      "non-discounted-price": 20,
+      "number-of-items": 1,
+      "price-type": "starts_at",
+      "retail-price": 20,
+      "sorting-id": 0
+    },
+    "id": "7996564",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Colour Services",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Anna Hibberd",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "7996564_spl9808436",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": null
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": {
+          "id": "8390167",
+          "type": "services"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": null,
+      "book-online": false,
+      "booking-sorting-id": 0,
+      "color": "yellow",
+      "commission-enabled": true,
+      "description": null,
+      "duration-in-seconds": 12000,
+      "duration-value": 12000,
+      "max-duration-in-seconds": 12000,
+      "min-duration-in-seconds": 12000,
+      "name": "Balayage package ",
+      "non-discounted-price": 122.5,
+      "number-of-items": 3,
+      "price-type": "fixed",
+      "retail-price": 115,
+      "sorting-id": -12
+    },
+    "id": "15512009",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Yasmin services",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Yasmin Jaan",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "8402177",
+            "type": "offer-catalog-menu-items"
+          },
+          {
+            "id": "8402176",
+            "type": "offer-catalog-menu-items"
+          },
+          {
+            "id": "8402175",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": {
+          "id": "486268",
+          "type": "packages"
+        }
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": null
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": null,
+      "book-online": false,
+      "booking-sorting-id": 0,
+      "color": "yellow",
+      "commission-enabled": true,
+      "description": null,
+      "duration-in-seconds": 8400,
+      "duration-value": 8400,
+      "max-duration-in-seconds": 8400,
+      "min-duration-in-seconds": 8400,
+      "name": "Half head highlights / babylights package",
+      "non-discounted-price": 107.5,
+      "number-of-items": 3,
+      "price-type": "fixed",
+      "retail-price": 95,
+      "sorting-id": -11
+    },
+    "id": "15512001",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Yasmin services",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Yasmin Jaan",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "8402174",
+            "type": "offer-catalog-menu-items"
+          },
+          {
+            "id": "8402173",
+            "type": "offer-catalog-menu-items"
+          },
+          {
+            "id": "8402172",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": {
+          "id": "486266",
+          "type": "packages"
+        }
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": null
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": null,
+      "book-online": false,
+      "booking-sorting-id": 0,
+      "color": "yellow",
+      "commission-enabled": true,
+      "description": null,
+      "duration-in-seconds": 11100,
+      "duration-value": 11100,
+      "max-duration-in-seconds": 11100,
+      "min-duration-in-seconds": 11100,
+      "name": "Full head highlights / babylights package",
+      "non-discounted-price": 117.5,
+      "number-of-items": 3,
+      "price-type": "fixed",
+      "retail-price": 110,
+      "sorting-id": -10
+    },
+    "id": "15511995",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Yasmin services",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Yasmin Jaan",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "8402171",
+            "type": "offer-catalog-menu-items"
+          },
+          {
+            "id": "8402170",
+            "type": "offer-catalog-menu-items"
+          },
+          {
+            "id": "8402169",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": {
+          "id": "486265",
+          "type": "packages"
+        }
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": null
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": null,
+      "book-online": false,
+      "booking-sorting-id": 0,
+      "color": "yellow",
+      "commission-enabled": true,
+      "description": null,
+      "duration-in-seconds": 7200,
+      "duration-value": 120,
+      "max-duration-in-seconds": 7200,
+      "min-duration-in-seconds": 7200,
+      "name": "Balayage ",
+      "non-discounted-price": 65,
+      "number-of-items": 1,
+      "price-type": "fixed",
+      "retail-price": 65,
+      "sorting-id": -9
+    },
+    "id": "15511990",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Yasmin services",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Yasmin Jaan",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "15511990_spl18038934",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": null
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": {
+          "id": "15641247",
+          "type": "services"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": null,
+      "book-online": false,
+      "booking-sorting-id": 0,
+      "color": "yellow",
+      "commission-enabled": true,
+      "description": null,
+      "duration-in-seconds": 3600,
+      "duration-value": 60,
+      "max-duration-in-seconds": 3600,
+      "min-duration-in-seconds": 3600,
+      "name": "Half head highlights / babylights",
+      "non-discounted-price": 50,
+      "number-of-items": 1,
+      "price-type": "fixed",
+      "retail-price": 50,
+      "sorting-id": -8
+    },
+    "id": "15511986",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Yasmin services",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Yasmin Jaan",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "15511986_spl18038930",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": null
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": {
+          "id": "15641243",
+          "type": "services"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": null,
+      "book-online": false,
+      "booking-sorting-id": 0,
+      "color": "yellow",
+      "commission-enabled": true,
+      "description": null,
+      "duration-in-seconds": 6300,
+      "duration-value": 105,
+      "max-duration-in-seconds": 6300,
+      "min-duration-in-seconds": 6300,
+      "name": "Full head highlights / babylights",
+      "non-discounted-price": 60,
+      "number-of-items": 1,
+      "price-type": "fixed",
+      "retail-price": 60,
+      "sorting-id": -7
+    },
+    "id": "15511985",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Yasmin services",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Yasmin Jaan",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "15511985_spl18038929",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": null
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": {
+          "id": "15641242",
+          "type": "services"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": null,
+      "book-online": false,
+      "booking-sorting-id": 0,
+      "color": "yellow",
+      "commission-enabled": true,
+      "description": null,
+      "duration-in-seconds": 1200,
+      "duration-value": 20,
+      "max-duration-in-seconds": 1200,
+      "min-duration-in-seconds": 1200,
+      "name": "Toner ",
+      "non-discounted-price": 20,
+      "number-of-items": 1,
+      "price-type": "starts_at",
+      "retail-price": 20,
+      "sorting-id": -6
+    },
+    "id": "15511966",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Yasmin services",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Yasmin Jaan",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "15511966_spl18038911",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": null
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": {
+          "id": "15641224",
+          "type": "services"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": null,
+      "book-online": false,
+      "booking-sorting-id": 0,
+      "color": "yellow",
+      "commission-enabled": true,
+      "description": null,
+      "duration-in-seconds": 1800,
+      "duration-value": 30,
+      "max-duration-in-seconds": 1800,
+      "min-duration-in-seconds": 1800,
+      "name": "Root retouch",
+      "non-discounted-price": 37,
+      "number-of-items": 1,
+      "price-type": "fixed",
+      "retail-price": 37,
+      "sorting-id": -5
+    },
+    "id": "15511948",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Yasmin services",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Yasmin Jaan",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "15511948_spl18038887",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": null
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": {
+          "id": "15641206",
+          "type": "services"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": null,
+      "book-online": false,
+      "booking-sorting-id": 0,
+      "color": "yellow",
+      "commission-enabled": true,
+      "description": null,
+      "duration-in-seconds": 1800,
+      "duration-value": 30,
+      "max-duration-in-seconds": 1800,
+      "min-duration-in-seconds": 1800,
+      "name": "Full head colour ",
+      "non-discounted-price": 50,
+      "number-of-items": 1,
+      "price-type": "fixed",
+      "retail-price": 50,
+      "sorting-id": -4
+    },
+    "id": "15511946",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Yasmin services",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Yasmin Jaan",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "15511946_spl18038885",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": null
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": {
+          "id": "15641204",
+          "type": "services"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": null,
+      "book-online": true,
+      "booking-sorting-id": 0,
+      "color": "yellow",
+      "commission-enabled": true,
+      "description": null,
+      "duration-in-seconds": 1200,
+      "duration-value": 20,
+      "max-duration-in-seconds": 1200,
+      "min-duration-in-seconds": 1200,
+      "name": "Curls ",
+      "non-discounted-price": 15,
+      "number-of-items": 1,
+      "price-type": "fixed",
+      "retail-price": 15,
+      "sorting-id": -3
+    },
+    "id": "15511941",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Yasmin services",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Yasmin Jaan",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "15511941_spl18038880",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": null
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": {
+          "id": "15641199",
+          "type": "services"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": null,
+      "book-online": true,
+      "booking-sorting-id": 0,
+      "color": "yellow",
+      "commission-enabled": true,
+      "description": null,
+      "duration-in-seconds": 2700,
+      "duration-value": 45,
+      "max-duration-in-seconds": 2700,
+      "min-duration-in-seconds": 2700,
+      "name": "Blowdry",
+      "non-discounted-price": 20,
+      "number-of-items": 1,
+      "price-type": "fixed",
+      "retail-price": 20,
+      "sorting-id": -2
+    },
+    "id": "15511938",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Yasmin services",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Yasmin Jaan",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "15511938_spl18038876",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": null
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": {
+          "id": "15641196",
+          "type": "services"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": null,
+      "book-online": true,
+      "booking-sorting-id": 0,
+      "color": "yellow",
+      "commission-enabled": true,
+      "description": "(Below shoulder length only)",
+      "duration-in-seconds": 3600,
+      "duration-value": 60,
+      "max-duration-in-seconds": 3600,
+      "min-duration-in-seconds": 3600,
+      "name": "Cut & Blowdry ",
+      "non-discounted-price": 37.5,
+      "number-of-items": 1,
+      "price-type": "fixed",
+      "retail-price": 37.5,
+      "sorting-id": -1
+    },
+    "id": "15511929",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Yasmin services",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Yasmin Jaan",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "15511929_spl18038868",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": null
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": {
+          "id": "15641189",
+          "type": "services"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": null,
+      "book-online": false,
+      "booking-sorting-id": 0,
+      "color": "green",
+      "commission-enabled": true,
+      "description": "Blue Shampoo ",
+      "duration-in-seconds": 300,
+      "duration-value": 5,
+      "max-duration-in-seconds": 300,
+      "min-duration-in-seconds": 300,
+      "name": "Fanola",
+      "non-discounted-price": 6,
+      "number-of-items": 1,
+      "price-type": "fixed",
+      "retail-price": 6,
+      "sorting-id": 0
+    },
+    "id": "6715130",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Colouring Services",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Anna Hibberd",
+            "type": "employees"
+          },
+          {
+            "id": "Phoebe Salvin",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "6715130_spl8397478",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": null
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": {
+          "id": "7154849",
+          "type": "services"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": null,
+      "book-online": true,
+      "booking-sorting-id": 0,
+      "color": "green",
+      "commission-enabled": true,
+      "description": "Creative colour (roots & highlights) including Toner / Olaplex Treatment / Cut & Blowdry\n*New clients require a patch test 48hours  before your appointment, please book a free consultation to receive this service*",
+      "duration-in-seconds": 10500,
+      "duration-value": 10500,
+      "max-duration-in-seconds": 7800,
+      "min-duration-in-seconds": 7800,
+      "name": "Creative colour with Cut & Blowdry",
+      "non-discounted-price": 149.5,
+      "number-of-items": 4,
+      "price-type": "starts_at",
+      "retail-price": 149.5,
+      "sorting-id": 1
+    },
+    "id": "6501690",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Colouring Services",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Anna Hibberd",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "8476353",
+            "type": "offer-catalog-menu-items"
+          },
+          {
+            "id": "8476352",
+            "type": "offer-catalog-menu-items"
+          },
+          {
+            "id": "8476351",
+            "type": "offer-catalog-menu-items"
+          },
+          {
+            "id": "8476350",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": {
+          "id": "151463",
+          "type": "packages"
+        }
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": null
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": "2024-08-17T16:36:22.227546Z",
+      "book-online": true,
+      "booking-sorting-id": 0,
+      "color": "green",
+      "commission-enabled": true,
+      "description": "Creative colour (roots & highlights) including Toner / Olaplex Treatment & Blowdry\n\n*New clients require a patch test 48hours  before your appointment, please book a free consultation to receive this service*",
+      "duration-in-seconds": 9600,
+      "duration-value": 9600,
+      "max-duration-in-seconds": 6900,
+      "min-duration-in-seconds": 6900,
+      "name": "Creative colour with Blowdry ",
+      "non-discounted-price": 137,
+      "number-of-items": 4,
+      "price-type": "starts_at",
+      "retail-price": 137,
+      "sorting-id": 2
+    },
+    "id": "6501689",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Colouring Services",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Anna Hibberd",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "8476349",
+            "type": "offer-catalog-menu-items"
+          },
+          {
+            "id": "8476348",
+            "type": "offer-catalog-menu-items"
+          },
+          {
+            "id": "8476347",
+            "type": "offer-catalog-menu-items"
+          },
+          {
+            "id": "8476346",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": {
+          "id": "151462",
+          "type": "packages"
+        }
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": null
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": null,
+      "book-online": true,
+      "booking-sorting-id": 0,
+      "color": "green",
+      "commission-enabled": true,
+      "description": "Full head Colour including Olaplex Treatment & Blowdry \n\n*New clients require a patch test 48hours  before your appointment, please book a free consultation to receive this service*",
+      "duration-in-seconds": 6900,
+      "duration-value": 6900,
+      "max-duration-in-seconds": 6900,
+      "min-duration-in-seconds": 6900,
+      "name": "Full head Colour with Blowdry ",
+      "non-discounted-price": 128.5,
+      "number-of-items": 3,
+      "price-type": "fixed",
+      "retail-price": 128.5,
+      "sorting-id": 3
+    },
+    "id": "6501682",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Colouring Services",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Anna Hibberd",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "8476269",
+            "type": "offer-catalog-menu-items"
+          },
+          {
+            "id": "8476268",
+            "type": "offer-catalog-menu-items"
+          },
+          {
+            "id": "8476267",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": {
+          "id": "151461",
+          "type": "packages"
+        }
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": null
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": null,
+      "book-online": true,
+      "booking-sorting-id": 0,
+      "color": "green",
+      "commission-enabled": true,
+      "description": "Full head Colour including Olaplex Treatment / Cut & Blowdry\n\n*New clients require a patch test 48hours  before your appointment, please book a free consultation to receive this service*",
+      "duration-in-seconds": 7800,
+      "duration-value": 7800,
+      "max-duration-in-seconds": 7800,
+      "min-duration-in-seconds": 7800,
+      "name": "Full head Colour with Cut & Blowdry ",
+      "non-discounted-price": 141,
+      "number-of-items": 3,
+      "price-type": "fixed",
+      "retail-price": 141,
+      "sorting-id": 4
+    },
+    "id": "6501681",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Colouring Services",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Anna Hibberd",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "8476272",
+            "type": "offer-catalog-menu-items"
+          },
+          {
+            "id": "8476271",
+            "type": "offer-catalog-menu-items"
+          },
+          {
+            "id": "8476270",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": {
+          "id": "151460",
+          "type": "packages"
+        }
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": null
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": null,
+      "book-online": true,
+      "booking-sorting-id": 0,
+      "color": "green",
+      "commission-enabled": true,
+      "description": "Face framing including Toner / Olaplex Treatment & Blowdry\n\n*New clients require a patch test 48hours  before your appointment, please book a free consultation to receive this service*",
+      "duration-in-seconds": 5100,
+      "duration-value": 5100,
+      "max-duration-in-seconds": 5100,
+      "min-duration-in-seconds": 5100,
+      "name": "Face framing with Blowdry ",
+      "non-discounted-price": 112,
+      "number-of-items": 4,
+      "price-type": "fixed",
+      "retail-price": 112,
+      "sorting-id": 5
+    },
+    "id": "6501678",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Colouring Services",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Anna Hibberd",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "8476325",
+            "type": "offer-catalog-menu-items"
+          },
+          {
+            "id": "8476324",
+            "type": "offer-catalog-menu-items"
+          },
+          {
+            "id": "8476323",
+            "type": "offer-catalog-menu-items"
+          },
+          {
+            "id": "8476322",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": {
+          "id": "151459",
+          "type": "packages"
+        }
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": null
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": null,
+      "book-online": true,
+      "booking-sorting-id": 0,
+      "color": "green",
+      "commission-enabled": true,
+      "description": "Face framing including Toner / Olaplex Treatment / Cut & Blowdry\n\n*New clients require a patch test 48hours  before your appointment, please book a free consultation to receive this service*",
+      "duration-in-seconds": 6000,
+      "duration-value": 6000,
+      "max-duration-in-seconds": 6000,
+      "min-duration-in-seconds": 6000,
+      "name": "Face framing with Cut & Blowdry ",
+      "non-discounted-price": 124.5,
+      "number-of-items": 4,
+      "price-type": "fixed",
+      "retail-price": 124.5,
+      "sorting-id": 6
+    },
+    "id": "6501677",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Colouring Services",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Anna Hibberd",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "8476329",
+            "type": "offer-catalog-menu-items"
+          },
+          {
+            "id": "8476328",
+            "type": "offer-catalog-menu-items"
+          },
+          {
+            "id": "8476327",
+            "type": "offer-catalog-menu-items"
+          },
+          {
+            "id": "8476326",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": {
+          "id": "151458",
+          "type": "packages"
+        }
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": null
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": "2024-08-16T09:01:39.833278Z",
+      "book-online": true,
+      "booking-sorting-id": 0,
+      "color": "green",
+      "commission-enabled": true,
+      "description": "Half head Highlights including Toner /\nOlaplex Treatment & Blowdry \n\n*New clients require a patch test 48hours  before your appointment, please book a free consultation to receive this service*",
+      "duration-in-seconds": 9000,
+      "duration-value": 9000,
+      "max-duration-in-seconds": 6300,
+      "min-duration-in-seconds": 6300,
+      "name": "Half head Highlights with Blowdry",
+      "non-discounted-price": 129,
+      "number-of-items": 4,
+      "price-type": "fixed",
+      "retail-price": 129,
+      "sorting-id": 7
+    },
+    "id": "6501672",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Colouring Services",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Anna Hibberd",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "8476341",
+            "type": "offer-catalog-menu-items"
+          },
+          {
+            "id": "8476340",
+            "type": "offer-catalog-menu-items"
+          },
+          {
+            "id": "8476339",
+            "type": "offer-catalog-menu-items"
+          },
+          {
+            "id": "8476338",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": {
+          "id": "151457",
+          "type": "packages"
+        }
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": null
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": null,
+      "book-online": true,
+      "booking-sorting-id": 0,
+      "color": "green",
+      "commission-enabled": true,
+      "description": "Half head Highlights including Toner / Olaplex Treatment / Cut and Blowdry\n\n*New clients require a patch test 48hours  before your appointment, please book a free consultation to receive this service*",
+      "duration-in-seconds": 9900,
+      "duration-value": 9900,
+      "max-duration-in-seconds": 7200,
+      "min-duration-in-seconds": 7200,
+      "name": "Half head Highlights with Cut & Blowdry",
+      "non-discounted-price": 141.5,
+      "number-of-items": 4,
+      "price-type": "fixed",
+      "retail-price": 141.5,
+      "sorting-id": 8
+    },
+    "id": "6501667",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Colouring Services",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Anna Hibberd",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "8476345",
+            "type": "offer-catalog-menu-items"
+          },
+          {
+            "id": "8476344",
+            "type": "offer-catalog-menu-items"
+          },
+          {
+            "id": "8476343",
+            "type": "offer-catalog-menu-items"
+          },
+          {
+            "id": "8476342",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": {
+          "id": "151456",
+          "type": "packages"
+        }
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": null
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": null,
+      "book-online": true,
+      "booking-sorting-id": 0,
+      "color": "green",
+      "commission-enabled": true,
+      "description": "Root retouch including Olaplex Treatment / Cut & Blowdry\n\n*New clients require a patch test 48hours  before your appointment, please book a free consultation to receive this service*",
+      "duration-in-seconds": 6000,
+      "duration-value": 6000,
+      "max-duration-in-seconds": 6000,
+      "min-duration-in-seconds": 6000,
+      "name": "Roots with Blowdry",
+      "non-discounted-price": 94,
+      "number-of-items": 3,
+      "price-type": "fixed",
+      "retail-price": 94,
+      "sorting-id": 9
+    },
+    "id": "6501661",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Colouring Services",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Anna Hibberd",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "8476275",
+            "type": "offer-catalog-menu-items"
+          },
+          {
+            "id": "8476274",
+            "type": "offer-catalog-menu-items"
+          },
+          {
+            "id": "8476273",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": {
+          "id": "151455",
+          "type": "packages"
+        }
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": null
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": null,
+      "book-online": true,
+      "booking-sorting-id": 0,
+      "color": "green",
+      "commission-enabled": true,
+      "description": "Root retouch including Olaplex Treatment  / Cut & Blowdry\n\n*New clients require a patch test 48hours  before your appointment, please book a free consultation to receive this service*",
+      "duration-in-seconds": 6900,
+      "duration-value": 6900,
+      "max-duration-in-seconds": 6900,
+      "min-duration-in-seconds": 6900,
+      "name": "Roots with Cut & Blowdry",
+      "non-discounted-price": 106.5,
+      "number-of-items": 3,
+      "price-type": "fixed",
+      "retail-price": 106.5,
+      "sorting-id": 10
+    },
+    "id": "6501659",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Colouring Services",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Anna Hibberd",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "8476278",
+            "type": "offer-catalog-menu-items"
+          },
+          {
+            "id": "8476277",
+            "type": "offer-catalog-menu-items"
+          },
+          {
+            "id": "8476276",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": {
+          "id": "151454",
+          "type": "packages"
+        }
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": null
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": null,
+      "book-online": true,
+      "booking-sorting-id": 0,
+      "color": "green",
+      "commission-enabled": true,
+      "description": "Full head Highlight including Toner / Olaplex Treatment and Blowdry\n\n*New clients require a patch test 48hours  before your appointment, please book a free consultation to receive this service*",
+      "duration-in-seconds": 9600,
+      "duration-value": 9600,
+      "max-duration-in-seconds": 6900,
+      "min-duration-in-seconds": 6900,
+      "name": "Full head Highlights and Blowdry",
+      "non-discounted-price": 139,
+      "number-of-items": 4,
+      "price-type": "fixed",
+      "retail-price": 139,
+      "sorting-id": 11
+    },
+    "id": "6501656",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Colouring Services",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Anna Hibberd",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "8476333",
+            "type": "offer-catalog-menu-items"
+          },
+          {
+            "id": "8476332",
+            "type": "offer-catalog-menu-items"
+          },
+          {
+            "id": "8476331",
+            "type": "offer-catalog-menu-items"
+          },
+          {
+            "id": "8476330",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": {
+          "id": "151453",
+          "type": "packages"
+        }
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": null
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": null,
+      "book-online": true,
+      "booking-sorting-id": 0,
+      "color": "green",
+      "commission-enabled": true,
+      "description": "Full head of Highlights including Toner / Olaplex Treatment  / Cut & Blowdry\n\n*New clients require a patch test 48hours  before your appointment, please book a free consultation to receive this service*",
+      "duration-in-seconds": 10500,
+      "duration-value": 10500,
+      "max-duration-in-seconds": 7800,
+      "min-duration-in-seconds": 7800,
+      "name": "Full head of Highlights including Cut & Blowdry",
+      "non-discounted-price": 151.5,
+      "number-of-items": 4,
+      "price-type": "fixed",
+      "retail-price": 151.5,
+      "sorting-id": 12
+    },
+    "id": "6501654",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Colouring Services",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Anna Hibberd",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "8476337",
+            "type": "offer-catalog-menu-items"
+          },
+          {
+            "id": "8476336",
+            "type": "offer-catalog-menu-items"
+          },
+          {
+            "id": "8476335",
+            "type": "offer-catalog-menu-items"
+          },
+          {
+            "id": "8476334",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": {
+          "id": "151452",
+          "type": "packages"
+        }
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": null
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": null,
+      "book-online": true,
+      "booking-sorting-id": 0,
+      "color": "green",
+      "commission-enabled": true,
+      "description": "Balayage including Toner / Olaplex Treatment & Blowdry \n\n*New clients require a patch test 48hours  before your appointment, please book a free consultation to receive this service*",
+      "duration-in-seconds": 9600,
+      "duration-value": 9600,
+      "max-duration-in-seconds": 6900,
+      "min-duration-in-seconds": 6900,
+      "name": "Balayage with Blowdry  ",
+      "non-discounted-price": 154,
+      "number-of-items": 4,
+      "price-type": "fixed",
+      "retail-price": 154,
+      "sorting-id": 13
+    },
+    "id": "6501642",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Colouring Services",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Anna Hibberd",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "8476357",
+            "type": "offer-catalog-menu-items"
+          },
+          {
+            "id": "8476356",
+            "type": "offer-catalog-menu-items"
+          },
+          {
+            "id": "8476355",
+            "type": "offer-catalog-menu-items"
+          },
+          {
+            "id": "8476354",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": {
+          "id": "151451",
+          "type": "packages"
+        }
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": null
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": null,
+      "book-online": true,
+      "booking-sorting-id": 0,
+      "color": "green",
+      "commission-enabled": true,
+      "description": " Balayage including Toner / Olaplex Treatment / Cut & Blowdry\n\n*New clients require a patch test 48hours  before your appointment, please book a free consultation to receive this service*\n",
+      "duration-in-seconds": 10500,
+      "duration-value": 10500,
+      "max-duration-in-seconds": 7800,
+      "min-duration-in-seconds": 7800,
+      "name": "Balayage with Cut & Blowdry  ",
+      "non-discounted-price": 166.5,
+      "number-of-items": 4,
+      "price-type": "fixed",
+      "retail-price": 166.5,
+      "sorting-id": 14
+    },
+    "id": "6501621",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Colouring Services",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Anna Hibberd",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "8476361",
+            "type": "offer-catalog-menu-items"
+          },
+          {
+            "id": "8476360",
+            "type": "offer-catalog-menu-items"
+          },
+          {
+            "id": "8476359",
+            "type": "offer-catalog-menu-items"
+          },
+          {
+            "id": "8476358",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": {
+          "id": "151450",
+          "type": "packages"
+        }
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": null
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": null,
+      "book-online": false,
+      "booking-sorting-id": 0,
+      "color": "purple",
+      "commission-enabled": true,
+      "description": "Valentines blow dry with extensions 💖",
+      "duration-in-seconds": 2700,
+      "duration-value": 45,
+      "max-duration-in-seconds": 2700,
+      "min-duration-in-seconds": 2700,
+      "name": "VALENTINES BLOW DRY WITH EXTENSIONS ❤️",
+      "non-discounted-price": 25,
+      "number-of-items": 1,
+      "price-type": "fixed",
+      "retail-price": 25,
+      "sorting-id": -2
+    },
+    "id": "13752554",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Hair Styling",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Anna Hibberd",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "13752554_spl16105316",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": null
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": {
+          "id": "13932228",
+          "type": "services"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": null,
+      "book-online": true,
+      "booking-sorting-id": 0,
+      "color": "purple",
+      "commission-enabled": true,
+      "description": "Including wash, cut & blowdry ",
+      "duration-in-seconds": 3600,
+      "duration-value": 60,
+      "max-duration-in-seconds": 3600,
+      "min-duration-in-seconds": 3600,
+      "name": "Restyle ",
+      "non-discounted-price": 49.5,
+      "number-of-items": 1,
+      "price-type": "fixed",
+      "retail-price": 49.5,
+      "sorting-id": 6
+    },
+    "id": "4366600",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Hair Styling",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Anna Hibberd",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "4366600_spl5784449",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": null
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": {
+          "id": "4897256",
+          "type": "services"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": null,
+      "book-online": true,
+      "booking-sorting-id": 0,
+      "color": "purple",
+      "commission-enabled": true,
+      "description": null,
+      "duration-in-seconds": 2700,
+      "duration-value": 45,
+      "max-duration-in-seconds": 2700,
+      "min-duration-in-seconds": 2700,
+      "name": "Hair up",
+      "non-discounted-price": 35,
+      "number-of-items": 1,
+      "price-type": "starts_at",
+      "retail-price": 35,
+      "sorting-id": 7
+    },
+    "id": "3547753",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Hair Styling",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Anna Hibberd",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "3547753_spl4857799",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": null
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": {
+          "id": "4113833",
+          "type": "services"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": null,
+      "book-online": true,
+      "booking-sorting-id": 0,
+      "color": "purple",
+      "commission-enabled": true,
+      "description": null,
+      "duration-in-seconds": 1800,
+      "duration-value": 30,
+      "max-duration-in-seconds": 1800,
+      "min-duration-in-seconds": 1800,
+      "name": "Wet / Dry Cut ",
+      "non-discounted-price": 32.5,
+      "number-of-items": 1,
+      "price-type": "fixed",
+      "retail-price": 32.5,
+      "sorting-id": 10
+    },
+    "id": "3547739",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Hair Styling",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Anna Hibberd",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "3547739_spl4857783",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": null
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": {
+          "id": "4113820",
+          "type": "services"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": null,
+      "book-online": false,
+      "booking-sorting-id": 0,
+      "color": "purple",
+      "commission-enabled": true,
+      "description": "£15 valentines blow dry 💘",
+      "duration-in-seconds": 1800,
+      "duration-value": 30,
+      "max-duration-in-seconds": 1800,
+      "min-duration-in-seconds": 1800,
+      "name": "VALENTINES BLOW DRY ❤️",
+      "non-discounted-price": 15,
+      "number-of-items": 1,
+      "price-type": "fixed",
+      "retail-price": 15,
+      "sorting-id": -1
+    },
+    "id": "13752493",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Hair Styling",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Anna Hibberd",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "13752493_spl16105250",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": null
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": {
+          "id": "13932167",
+          "type": "services"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": null,
+      "book-online": true,
+      "booking-sorting-id": 0,
+      "color": "purple",
+      "commission-enabled": true,
+      "description": "Fringe trim ",
+      "duration-in-seconds": 600,
+      "duration-value": 10,
+      "max-duration-in-seconds": 600,
+      "min-duration-in-seconds": 600,
+      "name": "Fringe trim",
+      "non-discounted-price": 8.5,
+      "number-of-items": 1,
+      "price-type": "fixed",
+      "retail-price": 8.5,
+      "sorting-id": 0
+    },
+    "id": "7981033",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Hair Styling",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Anna Hibberd",
+            "type": "employees"
+          },
+          {
+            "id": "Phoebe Salvin",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "7981033_spl9791390",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": null
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": {
+          "id": "8375271",
+          "type": "services"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": "2024-10-13T04:41:14.461781Z",
+      "book-online": false,
+      "booking-sorting-id": 0,
+      "color": "purple",
+      "commission-enabled": true,
+      "description": "Free birthday Blowdry ",
+      "duration-in-seconds": 1800,
+      "duration-value": 30,
+      "max-duration-in-seconds": 1800,
+      "min-duration-in-seconds": 1800,
+      "name": "Birthday Blowdry ",
+      "non-discounted-price": 0,
+      "number-of-items": 1,
+      "price-type": "free",
+      "retail-price": 0,
+      "sorting-id": 1
+    },
+    "id": "7644562",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Hair Styling",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Anna Hibberd",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "7644562_spl9421311",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": null
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": {
+          "id": "8050712",
+          "type": "services"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": null,
+      "book-online": true,
+      "booking-sorting-id": 0,
+      "color": "purple",
+      "commission-enabled": true,
+      "description": null,
+      "duration-in-seconds": 2700,
+      "duration-value": 45,
+      "max-duration-in-seconds": 2700,
+      "min-duration-in-seconds": 2700,
+      "name": "Cut & Blow Dry ",
+      "non-discounted-price": 42.5,
+      "number-of-items": 1,
+      "price-type": "fixed",
+      "retail-price": 42.5,
+      "sorting-id": 11
+    },
+    "id": "3547731",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Hair Styling",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Anna Hibberd",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "3547731_spl4857776",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": null
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": {
+          "id": "4113813",
+          "type": "services"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": null,
+      "book-online": true,
+      "booking-sorting-id": 0,
+      "color": "purple",
+      "commission-enabled": true,
+      "description": null,
+      "duration-in-seconds": 2700,
+      "duration-value": 45,
+      "max-duration-in-seconds": 2700,
+      "min-duration-in-seconds": 2700,
+      "name": "Blow Dry With Extensions",
+      "non-discounted-price": 37.5,
+      "number-of-items": 1,
+      "price-type": "fixed",
+      "retail-price": 37.5,
+      "sorting-id": 8
+    },
+    "id": "3547749",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Hair Styling",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Anna Hibberd",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "3547749_spl4857796",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": null
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": {
+          "id": "4113830",
+          "type": "services"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": null,
+      "book-online": true,
+      "booking-sorting-id": 0,
+      "color": "purple",
+      "commission-enabled": true,
+      "description": null,
+      "duration-in-seconds": 1800,
+      "duration-value": 30,
+      "max-duration-in-seconds": 1800,
+      "min-duration-in-seconds": 1800,
+      "name": "Blow Dry",
+      "non-discounted-price": 30,
+      "number-of-items": 1,
+      "price-type": "fixed",
+      "retail-price": 30,
+      "sorting-id": 9
+    },
+    "id": "3547744",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Hair Styling",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Anna Hibberd",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "3547744_spl4857789",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": null
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": {
+          "id": "4113825",
+          "type": "services"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": null,
+      "book-online": false,
+      "booking-sorting-id": 0,
+      "color": "blue",
+      "commission-enabled": false,
+      "description": "Service for manual charges",
+      "duration-in-seconds": 300,
+      "duration-value": 5,
+      "max-duration-in-seconds": 300,
+      "min-duration-in-seconds": 300,
+      "name": "Manual payment",
+      "non-discounted-price": 1,
+      "number-of-items": 1,
+      "price-type": "fixed",
+      "retail-price": 1,
+      "sorting-id": null
+    },
+    "id": "14596619",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Manual payment",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Phoebe Salvin",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "14596619_spl17023637",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": []
+      },
+      "package": {
+        "data": null
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": {
+          "id": "14742878",
+          "type": "services"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": "2024-07-29T10:19:00.246001Z",
+      "book-online": false,
+      "booking-sorting-id": 0,
+      "color": "pink",
+      "commission-enabled": true,
+      "description": null,
+      "duration-in-seconds": 1800,
+      "duration-value": 30,
+      "max-duration-in-seconds": 1800,
+      "min-duration-in-seconds": 1800,
+      "name": "LA weft re tighten ",
+      "non-discounted-price": 35,
+      "number-of-items": 1,
+      "price-type": "fixed",
+      "retail-price": 35,
+      "sorting-id": -1
+    },
+    "id": "12071923",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Hair extensions",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Anna Hibberd",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "12071923_spl14264735",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": null
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": {
+          "id": "12312883",
+          "type": "services"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": null,
+      "book-online": true,
+      "booking-sorting-id": 0,
+      "color": "pink",
+      "commission-enabled": true,
+      "description": "100 to 150 grams of Nano or Micro rings fitted ",
+      "duration-in-seconds": 7200,
+      "duration-value": 120,
+      "max-duration-in-seconds": 7200,
+      "min-duration-in-seconds": 7200,
+      "name": "Nano / Micro Ring Extensions  100 to 150 grams",
+      "non-discounted-price": 140,
+      "number-of-items": 1,
+      "price-type": "fixed",
+      "retail-price": 140,
+      "sorting-id": 0
+    },
+    "id": "6501706",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Hair extensions",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Anna Hibberd",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "6501706_spl8161863",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": null
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": {
+          "id": "6948464",
+          "type": "services"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": null,
+      "book-online": true,
+      "booking-sorting-id": 0,
+      "color": "pink",
+      "commission-enabled": true,
+      "description": null,
+      "duration-in-seconds": 1800,
+      "duration-value": 30,
+      "max-duration-in-seconds": 1800,
+      "min-duration-in-seconds": 1800,
+      "name": "Extensions Out",
+      "non-discounted-price": 30,
+      "number-of-items": 1,
+      "price-type": "fixed",
+      "retail-price": 30,
+      "sorting-id": 1
+    },
+    "id": "3547717",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Hair extensions",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Anna Hibberd",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "3547717_spl4857758",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": null
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": {
+          "id": "4113800",
+          "type": "services"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": "2024-07-29T10:19:04.984911Z",
+      "book-online": false,
+      "booking-sorting-id": 0,
+      "color": "pink",
+      "commission-enabled": true,
+      "description": null,
+      "duration-in-seconds": 3600,
+      "duration-value": 60,
+      "max-duration-in-seconds": 3600,
+      "min-duration-in-seconds": 3600,
+      "name": "LA weave fitting",
+      "non-discounted-price": 80,
+      "number-of-items": 1,
+      "price-type": "starts_at",
+      "retail-price": 80,
+      "sorting-id": 3
+    },
+    "id": "3547704",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Hair extensions",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Anna Hibberd",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "3547704_spl4857744",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": null
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": {
+          "id": "4113789",
+          "type": "services"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": null,
+      "book-online": true,
+      "booking-sorting-id": 0,
+      "color": "pink",
+      "commission-enabled": true,
+      "description": "50grams of Nano or Micro rings fitted ",
+      "duration-in-seconds": 3600,
+      "duration-value": 60,
+      "max-duration-in-seconds": 3600,
+      "min-duration-in-seconds": 3600,
+      "name": "Nano/ Mirco Ring Extensions 50grams",
+      "non-discounted-price": 70,
+      "number-of-items": 1,
+      "price-type": "fixed",
+      "retail-price": 70,
+      "sorting-id": 2
+    },
+    "id": "3547715",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Hair extensions",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Anna Hibberd",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "3547715_spl4857756",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": null
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": {
+          "id": "4113798",
+          "type": "services"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": null,
+      "book-online": true,
+      "booking-sorting-id": 0,
+      "color": "pink",
+      "commission-enabled": true,
+      "description": null,
+      "duration-in-seconds": 300,
+      "duration-value": 5,
+      "max-duration-in-seconds": 300,
+      "min-duration-in-seconds": 300,
+      "name": "Olaplex ",
+      "non-discounted-price": 16.5,
+      "number-of-items": 1,
+      "price-type": "starts_at",
+      "retail-price": 16.5,
+      "sorting-id": -15
+    },
+    "id": "15548326",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Phoebe services",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Phoebe Salvin",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "15548326_spl18078408",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": null
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": {
+          "id": "15676290",
+          "type": "services"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": null,
+      "book-online": false,
+      "booking-sorting-id": 0,
+      "color": "pink",
+      "commission-enabled": true,
+      "description": null,
+      "duration-in-seconds": 8100,
+      "duration-value": 8100,
+      "max-duration-in-seconds": 8100,
+      "min-duration-in-seconds": 8100,
+      "name": "KeraStraight",
+      "non-discounted-price": 150,
+      "number-of-items": 2,
+      "price-type": "starts_at",
+      "retail-price": 150,
+      "sorting-id": -14
+    },
+    "id": "15548304",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Phoebe services",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Phoebe Salvin",
+            "type": "employees"
+          },
+          {
+            "id": "Martha Alice",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "8347659",
+            "type": "offer-catalog-menu-items"
+          },
+          {
+            "id": "8347658",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": {
+          "id": "488308",
+          "type": "packages"
+        }
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": null
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": null,
+      "book-online": true,
+      "booking-sorting-id": 0,
+      "color": "pink",
+      "commission-enabled": true,
+      "description": null,
+      "duration-in-seconds": 3600,
+      "duration-value": 60,
+      "max-duration-in-seconds": 3600,
+      "min-duration-in-seconds": 3600,
+      "name": "KeraStraight straightening",
+      "non-discounted-price": 150,
+      "number-of-items": 1,
+      "price-type": "starts_at",
+      "retail-price": 150,
+      "sorting-id": -13
+    },
+    "id": "15548293",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Phoebe services",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Phoebe Salvin",
+            "type": "employees"
+          },
+          {
+            "id": "Martha Alice",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "15548293_spl18078369",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": null
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": {
+          "id": "15676256",
+          "type": "services"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": null,
+      "book-online": true,
+      "booking-sorting-id": 0,
+      "color": "pink",
+      "commission-enabled": true,
+      "description": null,
+      "duration-in-seconds": 1800,
+      "duration-value": 30,
+      "max-duration-in-seconds": 1800,
+      "min-duration-in-seconds": 1800,
+      "name": "KeraStraight ",
+      "non-discounted-price": 0,
+      "number-of-items": 1,
+      "price-type": "free",
+      "retail-price": 0,
+      "sorting-id": -12
+    },
+    "id": "15548287",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Phoebe services",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Phoebe Salvin",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "15548287_spl18078363",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": null
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": {
+          "id": "15676250",
+          "type": "services"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": null,
+      "book-online": true,
+      "booking-sorting-id": 0,
+      "color": "pink",
+      "commission-enabled": true,
+      "description": null,
+      "duration-in-seconds": 1800,
+      "duration-value": 30,
+      "max-duration-in-seconds": 1800,
+      "min-duration-in-seconds": 1800,
+      "name": "Semi ",
+      "non-discounted-price": 38.5,
+      "number-of-items": 1,
+      "price-type": "fixed",
+      "retail-price": 38.5,
+      "sorting-id": -11
+    },
+    "id": "15548230",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Phoebe services",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Phoebe Salvin",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "15548230_spl18078306",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": null
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": {
+          "id": "15676198",
+          "type": "services"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": null,
+      "book-online": true,
+      "booking-sorting-id": 0,
+      "color": "pink",
+      "commission-enabled": true,
+      "description": null,
+      "duration-in-seconds": 900,
+      "duration-value": 15,
+      "max-duration-in-seconds": 900,
+      "min-duration-in-seconds": 900,
+      "name": "Toner ",
+      "non-discounted-price": 18.5,
+      "number-of-items": 1,
+      "price-type": "starts_at",
+      "retail-price": 18.5,
+      "sorting-id": -10
+    },
+    "id": "15548220",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Phoebe services",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Phoebe Salvin",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "15548220_spl18078296",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": null
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": {
+          "id": "15676190",
+          "type": "services"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": null,
+      "book-online": true,
+      "booking-sorting-id": 0,
+      "color": "pink",
+      "commission-enabled": true,
+      "description": null,
+      "duration-in-seconds": 1800,
+      "duration-value": 30,
+      "max-duration-in-seconds": 1800,
+      "min-duration-in-seconds": 1800,
+      "name": "Full head colour ",
+      "non-discounted-price": 55,
+      "number-of-items": 1,
+      "price-type": "fixed",
+      "retail-price": 55,
+      "sorting-id": -9
+    },
+    "id": "15548213",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Phoebe services",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Phoebe Salvin",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "15548213_spl18078288",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": null
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": {
+          "id": "15676183",
+          "type": "services"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": null,
+      "book-online": true,
+      "booking-sorting-id": 0,
+      "color": "pink",
+      "commission-enabled": true,
+      "description": null,
+      "duration-in-seconds": 1800,
+      "duration-value": 30,
+      "max-duration-in-seconds": 1800,
+      "min-duration-in-seconds": 1800,
+      "name": "Root retouch ",
+      "non-discounted-price": 42.9,
+      "number-of-items": 1,
+      "price-type": "fixed",
+      "retail-price": 42.9,
+      "sorting-id": -8
+    },
+    "id": "15548207",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Phoebe services",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Phoebe Salvin",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "15548207_spl18078282",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": null
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": {
+          "id": "15676177",
+          "type": "services"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": null,
+      "book-online": true,
+      "booking-sorting-id": 0,
+      "color": "pink",
+      "commission-enabled": true,
+      "description": null,
+      "duration-in-seconds": 2700,
+      "duration-value": 45,
+      "max-duration-in-seconds": 2700,
+      "min-duration-in-seconds": 2700,
+      "name": "Half head highlights ",
+      "non-discounted-price": 59.5,
+      "number-of-items": 1,
+      "price-type": "fixed",
+      "retail-price": 59.5,
+      "sorting-id": -7
+    },
+    "id": "15548183",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Phoebe services",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Phoebe Salvin",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "15548183_spl18078258",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": null
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": {
+          "id": "15676153",
+          "type": "services"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": null,
+      "book-online": true,
+      "booking-sorting-id": 0,
+      "color": "pink",
+      "commission-enabled": true,
+      "description": null,
+      "duration-in-seconds": 3600,
+      "duration-value": 60,
+      "max-duration-in-seconds": 3600,
+      "min-duration-in-seconds": 3600,
+      "name": "Full head highlights ",
+      "non-discounted-price": 69.5,
+      "number-of-items": 1,
+      "price-type": "fixed",
+      "retail-price": 69.5,
+      "sorting-id": -6
+    },
+    "id": "15548177",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Phoebe services",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Phoebe Salvin",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "15548177_spl18078253",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": null
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": {
+          "id": "15676148",
+          "type": "services"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": null,
+      "book-online": true,
+      "booking-sorting-id": 0,
+      "color": "pink",
+      "commission-enabled": true,
+      "description": null,
+      "duration-in-seconds": 3600,
+      "duration-value": 60,
+      "max-duration-in-seconds": 3600,
+      "min-duration-in-seconds": 3600,
+      "name": "Creative colour ",
+      "non-discounted-price": 70,
+      "number-of-items": 1,
+      "price-type": "starts_at",
+      "retail-price": 70,
+      "sorting-id": -5
+    },
+    "id": "15548166",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Phoebe services",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Phoebe Salvin",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "15548166_spl18078240",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": null
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": {
+          "id": "15676137",
+          "type": "services"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": null,
+      "book-online": true,
+      "booking-sorting-id": 0,
+      "color": "pink",
+      "commission-enabled": true,
+      "description": null,
+      "duration-in-seconds": 1800,
+      "duration-value": 30,
+      "max-duration-in-seconds": 1800,
+      "min-duration-in-seconds": 1800,
+      "name": "Blowdry ",
+      "non-discounted-price": 30,
+      "number-of-items": 1,
+      "price-type": "fixed",
+      "retail-price": 30,
+      "sorting-id": -4
+    },
+    "id": "15548151",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Phoebe services",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Phoebe Salvin",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "15548151_spl18078222",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": null
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": {
+          "id": "15676122",
+          "type": "services"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": null,
+      "book-online": true,
+      "booking-sorting-id": 0,
+      "color": "pink",
+      "commission-enabled": true,
+      "description": null,
+      "duration-in-seconds": 1800,
+      "duration-value": 30,
+      "max-duration-in-seconds": 1800,
+      "min-duration-in-seconds": 1800,
+      "name": "Wet / Dry cut ",
+      "non-discounted-price": 32,
+      "number-of-items": 1,
+      "price-type": "fixed",
+      "retail-price": 32,
+      "sorting-id": -3
+    },
+    "id": "15548140",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Phoebe services",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Phoebe Salvin",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "15548140_spl18078211",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": null
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": {
+          "id": "15676111",
+          "type": "services"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": null,
+      "book-online": true,
+      "booking-sorting-id": 0,
+      "color": "pink",
+      "commission-enabled": true,
+      "description": null,
+      "duration-in-seconds": 3600,
+      "duration-value": 60,
+      "max-duration-in-seconds": 3600,
+      "min-duration-in-seconds": 3600,
+      "name": "Restyle ",
+      "non-discounted-price": 48.5,
+      "number-of-items": 1,
+      "price-type": "fixed",
+      "retail-price": 48.5,
+      "sorting-id": -2
+    },
+    "id": "15548134",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Phoebe services",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Phoebe Salvin",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "15548134_spl18078204",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": null
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": {
+          "id": "15676106",
+          "type": "services"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": null,
+      "book-online": true,
+      "booking-sorting-id": 0,
+      "color": "pink",
+      "commission-enabled": true,
+      "description": null,
+      "duration-in-seconds": 3000,
+      "duration-value": 50,
+      "max-duration-in-seconds": 3000,
+      "min-duration-in-seconds": 3000,
+      "name": "Cut & Blowdry ",
+      "non-discounted-price": 41,
+      "number-of-items": 1,
+      "price-type": "fixed",
+      "retail-price": 41,
+      "sorting-id": -1
+    },
+    "id": "15548120",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Phoebe services",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Phoebe Salvin",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "15548120_spl18078190",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": null
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": {
+          "id": "15676092",
+          "type": "services"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": null,
+      "book-online": false,
+      "booking-sorting-id": 0,
+      "color": "blue",
+      "commission-enabled": true,
+      "description": null,
+      "duration-in-seconds": 300,
+      "duration-value": 5,
+      "max-duration-in-seconds": 300,
+      "min-duration-in-seconds": 300,
+      "name": "Olaplex in colour service",
+      "non-discounted-price": 19.5,
+      "number-of-items": 1,
+      "price-type": "fixed",
+      "retail-price": 19.5,
+      "sorting-id": 0
+    },
+    "id": "3668697",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "OLAPLEX",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Anna Hibberd",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "3668697_spl4994454",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": null
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": {
+          "id": "4229540",
+          "type": "services"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": null,
+      "book-online": true,
+      "booking-sorting-id": 0,
+      "color": "blue",
+      "commission-enabled": true,
+      "description": "Olaplex stand alone treatment including Blowdry\n",
+      "duration-in-seconds": 3600,
+      "duration-value": 60,
+      "max-duration-in-seconds": 3600,
+      "min-duration-in-seconds": 3600,
+      "name": "Olaplex stand alone treatment & Blowdry",
+      "non-discounted-price": 48.5,
+      "number-of-items": 1,
+      "price-type": "fixed",
+      "retail-price": 48.5,
+      "sorting-id": 1
+    },
+    "id": "3668687",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "OLAPLEX",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Anna Hibberd",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "3668687_spl4994445",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": null
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": {
+          "id": "4229532",
+          "type": "services"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": null,
+      "book-online": true,
+      "booking-sorting-id": 0,
+      "color": "yellow",
+      "commission-enabled": true,
+      "description": null,
+      "duration-in-seconds": 1200,
+      "duration-value": 20,
+      "max-duration-in-seconds": 1200,
+      "min-duration-in-seconds": 1200,
+      "name": "Children's Wet / Dry Trim",
+      "non-discounted-price": 14.5,
+      "number-of-items": 1,
+      "price-type": "fixed",
+      "retail-price": 14.5,
+      "sorting-id": 0
+    },
+    "id": "3547760",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Children",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Anna Hibberd",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "3547760_spl4857805",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": null
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": {
+          "id": "4113838",
+          "type": "services"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": null,
+      "book-online": true,
+      "booking-sorting-id": 0,
+      "color": "yellow",
+      "commission-enabled": true,
+      "description": null,
+      "duration-in-seconds": 1800,
+      "duration-value": 30,
+      "max-duration-in-seconds": 1800,
+      "min-duration-in-seconds": 1800,
+      "name": "Children's Cut & Blow Dry",
+      "non-discounted-price": 25,
+      "number-of-items": 1,
+      "price-type": "fixed",
+      "retail-price": 25,
+      "sorting-id": 1
+    },
+    "id": "3547757",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Children",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Anna Hibberd",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "3547757_spl4857803",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": null
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": {
+          "id": "4113836",
+          "type": "services"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": null,
+      "book-online": true,
+      "booking-sorting-id": 0,
+      "color": "yellow",
+      "commission-enabled": true,
+      "description": "KeraStraight smoothing treatment ",
+      "duration-in-seconds": 10800,
+      "duration-value": 10800,
+      "max-duration-in-seconds": 10800,
+      "min-duration-in-seconds": 10800,
+      "name": "KeraStraight Treatment ",
+      "non-discounted-price": 155,
+      "number-of-items": 2,
+      "price-type": "starts_at",
+      "retail-price": 155,
+      "sorting-id": 0
+    },
+    "id": "6501732",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Kerastraight",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Anna Hibberd",
+            "type": "employees"
+          },
+          {
+            "id": "1575395",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "8476365",
+            "type": "offer-catalog-menu-items"
+          },
+          {
+            "id": "8476364",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": {
+          "id": "151464",
+          "type": "packages"
+        }
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": null
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": null,
+      "book-online": false,
+      "booking-sorting-id": 0,
+      "color": "yellow",
+      "commission-enabled": true,
+      "description": "Smoothing treatment ",
+      "duration-in-seconds": 5400,
+      "duration-value": 90,
+      "max-duration-in-seconds": 5400,
+      "min-duration-in-seconds": 5400,
+      "name": "Kerastraight",
+      "non-discounted-price": 0,
+      "number-of-items": 1,
+      "price-type": "free",
+      "retail-price": 0,
+      "sorting-id": 1
+    },
+    "id": "6501729",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Kerastraight",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Anna Hibberd",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "6501729_spl8161886",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": null
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": {
+          "id": "6948487",
+          "type": "services"
+        }
+      }
+    }
+  },
+  {
+    "attributes": {
+      "archived-at": null,
+      "book-online": false,
+      "booking-sorting-id": 0,
+      "color": "yellow",
+      "commission-enabled": true,
+      "description": null,
+      "duration-in-seconds": 2700,
+      "duration-value": 45,
+      "max-duration-in-seconds": 2700,
+      "min-duration-in-seconds": 2700,
+      "name": "Kerastraight ",
+      "non-discounted-price": 155,
+      "number-of-items": 1,
+      "price-type": "starts_at",
+      "retail-price": 155,
+      "sorting-id": 2
+    },
+    "id": "4335821",
+    "type": "offer-catalog-menu-items",
+    "relationships": {
+      "category": {
+        "data": {
+          "id": "Kerastraight",
+          "type": "offer-catalog-categories"
+        }
+      },
+      "employees": {
+        "data": [
+          {
+            "id": "Anna Hibberd",
+            "type": "employees"
+          }
+        ]
+      },
+      "items": {
+        "data": [
+          {
+            "id": "4335821_spl5749428",
+            "type": "offer-catalog-menu-items"
+          }
+        ]
+      },
+      "locations": {
+        "data": [
+          {
+            "id": "324278",
+            "type": "locations"
+          }
+        ]
+      },
+      "package": {
+        "data": null
+      },
+      "parent-menu-item": {
+        "data": null
+      },
+      "service": {
+        "data": {
+          "id": "4867932",
+          "type": "services"
+        }
+      }
+    }
+  }
+]

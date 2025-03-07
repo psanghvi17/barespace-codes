@@ -1,0 +1,24 @@
+import os
+
+# Folder to scan for PDF files
+FOLDER_PATH = './spaces'
+
+# Size limit in kilobytes (1500 KB)
+up_SIZE_LIMIT_KB = 1520
+low_SIZE_LIMIT_KB = 1500
+
+def check_pdf_sizes(folder_path):
+    # Walk through all files and subfolders in the given folder
+    for root, dirs, files in os.walk(folder_path):
+        for file in files:
+            # Check if the file is a PDF
+            if file.lower().endswith('.pdf'):
+                file_path = os.path.join(root, file)
+                # Get the file size in KB
+                file_size_kb = os.path.getsize(file_path) / 1024  # Convert bytes to KB
+                # Print the file name if it's less than the size limit
+                if file_size_kb < up_SIZE_LIMIT_KB and file_size_kb > low_SIZE_LIMIT_KB:
+                    print(f"{file} - Size: {file_size_kb:.2f} KB")
+
+# Usage
+check_pdf_sizes(FOLDER_PATH)

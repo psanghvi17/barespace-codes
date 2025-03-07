@@ -1,0 +1,28 @@
+[
+  {
+    "attributes": {
+      "created-at": "2022-08-31T14:38:48.487190Z",
+      "deleted-at": null,
+      "description": null,
+      "email": null,
+      "first-name": null,
+      "last-name": null,
+      "mobile-number": null,
+      "name": "Teckno Surgical",
+      "telephone-number": null,
+      "updated-at": "2022-08-31T14:38:48.487190Z",
+      "use-postal-address": false,
+      "website": null
+    },
+    "id": "114527",
+    "type": "inventory-product-suppliers",
+    "relationships": {
+      "product-count": {
+        "data": {
+          "id": "114527",
+          "type": "inventory-supplier-product-count"
+        }
+      }
+    }
+  }
+]

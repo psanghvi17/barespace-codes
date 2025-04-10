@@ -68,12 +68,17 @@ def select_dropdown_option_location(driver, option_text):
         WebDriverWait(driver, 10).until(EC.presence_of_element_located(
             (By.CSS_SELECTOR, ".multiselect__content")))
         try:
-            option = WebDriverWait(driver, 10).until(EC.element_to_be_clickable(
-                (By.XPATH, "//div[contains(@class, 'multiselect__content')]//span[contains(text(), '{}')]".format(option_text))))
+            option = WebDriverWait(driver, 10).until(
+                EC.element_to_be_clickable((
+                    By.XPATH,
+                    "//div[contains(@class, 'multiselect__content')]//span[contains(text(), '{}')]".format(option_text))
+                ))
             option.click()
         except Exception as e:
-            option = WebDriverWait(driver, 10).until(EC.presence_of_element_located(
-                (By.XPATH, "//div[contains(@class, 'multiselect__content')]//span[contains(text(), '{}')]".format(option_text))))
+            option = WebDriverWait(driver, 10).until(
+                EC.presence_of_element_located((
+                    By.XPATH,
+                    "//div[contains(@class, 'multiselect__content')]//span[contains(text(), '{}')]".format(option_text))))
             driver.execute_script("arguments[0].click();", option)
     except Exception as e:
         print(f"Error selecting dropdown option: {e}")
